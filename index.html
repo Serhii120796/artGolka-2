@@ -19,8 +19,12 @@
   </head>
   <body>
     <header>
-      <div class="header-img"></div>
-      <div class="container"></div>
+      <div class="container">
+        <a href="./index.html" class="logo link">
+          <span class="logo-accent">Art</span>Golka
+        </a>
+        <p class="header-contacts">Телефон для замовлень: (097) 39 41 955</p>
+      </div>
     </header>
 
     <main>
@@ -36,30 +40,33 @@
           <!-- Button-filter -->
           <ul class="list button-filter-list">
             <li class="button-filter-item">
-              <button class="filter-btn" type="button" data-filter="all">
-                А3 + 4А
+              <button class="filter-button" type="button" data-filter="all">
+                Разом
               </button>
             </li>
             <li class="button-filter-item">
-              <button class="filter-btn" type="button" data-filter="all">
+              <button class="filter-button" type="button" data-filter="a3">
                 A3
               </button>
             </li>
             <li class="button-filter-item">
-              <button class="filter-btn" type="button" data-filter="all">
+              <button class="filter-button" type="button" data-filter="a4">
                 A4
               </button>
             </li>
           </ul>
 
-          <ul class="gallery-list list">
+          <ul class="gallery-list list" id="itemsList">
             <li class="gallery-item">
               <img
                 src="./images/catalog/tn/a3/tn3002.jpg"
                 alt="ТН3002"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3002</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3002</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -67,7 +74,10 @@
                 alt="ТН3003"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3003</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3003</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -75,7 +85,10 @@
                 alt="ТН3004"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3004</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3004</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -83,7 +96,10 @@
                 alt="ТН3006"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3006</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3006</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -91,7 +107,10 @@
                 alt="ТН3007"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3007</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3007</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -99,7 +118,10 @@
                 alt="ТН3008"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3008</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3008</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -107,7 +129,10 @@
                 alt="ТН3009"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3009</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3009</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -115,7 +140,10 @@
                 alt="ТН3010"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3010</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3010</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -123,7 +151,10 @@
                 alt="ТН3010-Ч"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3010-Ч</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3010-Ч</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -131,7 +162,10 @@
                 alt="ТН3010-C"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3010-C</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3010-С</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -139,7 +173,10 @@
                 alt="ТН3010-З"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3010-З</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3010-З</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
             </li>
             <li class="gallery-item">
               <img
@@ -147,11 +184,59 @@
                 alt="ТН3011-С"
                 width="300"
               />
-              <h3 class="gallery-article">ТН3011-С</h3>
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН3011-С</h3>
+                <p class="gallery-price">Ціна 170 грн.</p>
+              </div>
+            </li>
+            <li class="gallery-item">
+              <img
+                src="./images/catalog/tn/a4/tn4001.JPG"
+                alt="ТН4001"
+                width="300"
+              />
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН4001</h3>
+                <p class="gallery-price">Ціна 95 грн.</p>
+              </div>
+            </li>
+            <li class="gallery-item">
+              <img
+                src="./images/catalog/tn/a4/tn4002.JPG"
+                alt="ТН4002"
+                width="300"
+              />
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН4002</h3>
+                <p class="gallery-price">Ціна 95 грн.</p>
+              </div>
+            </li>
+            <li class="gallery-item">
+              <img
+                src="./images/catalog/tn/a4/tn4003.JPG"
+                alt="ТН4003"
+                width="300"
+              />
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН4003</h3>
+                <p class="gallery-price">Ціна 95 грн.</p>
+              </div>
+            </li>
+            <li class="gallery-item">
+              <img
+                src="./images/catalog/tn/a4/tn4004.JPG"
+                alt="ТН4004"
+                width="300"
+              />
+              <div class="callery-wrapper">
+                <h3 class="gallery-article">ТН4004</h3>
+                <p class="gallery-price">Ціна 95 грн.</p>
+              </div>
             </li>
           </ul>
         </div>
       </section>
     </main>
+    <script src="./js/filter.js"></script>
   </body>
 </html>

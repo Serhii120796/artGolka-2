@@ -90,7 +90,35 @@ body {
 /* =================================/COMPONENTS=============================== */
 
 /* ====================================HEADER================================= */
+/* header{
+  padding: 20px 0;
+} */
 
+header .container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color-theme-light);
+}
+
+.logo-accent {
+
+  color: var(--logo-color);
+}
+
+.header-contacts{
+  padding-top: 20px;
+}
 
 /* ===================================/HEADER================================= */
 
@@ -100,9 +128,6 @@ body {
 /* ====================================/HERO================================== */
 
 /* =====================================GALLERY================================== */
-.gallery{
-  padding: 50px 0;
-}
 
 /* Button-filter */
 .button-filter-list {
@@ -122,7 +147,7 @@ body {
   } */
 }
 
-.filter-btn {
+.filter-button {
   font-family: inherit;
   font-style: normal;
   font-weight: 500;
@@ -163,11 +188,11 @@ body {
 background-color: var(--primary-text-color-theme-dark);
 }
 
-.gallery-article{
-  background-color: inherit;
-  text-align: center;
-  padding: 10px;
+.callery-wrapper{
+padding: 10px;
+text-align: center;
 }
+
 
 /* ====================================/GALLERY================================== */
 

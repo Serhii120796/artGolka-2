@@ -1,0 +1,154 @@
+:root {
+  /* Color */
+  --primary-text-color-theme-light: #434455;
+  --secondary-text-color-theme-light: #2e2f42;
+  --primary-text-color-theme-dark: #ffffff;
+  --secondary-text-color-theme-dark: #f4f4fd;
+  --logo-color: #4d5ae5;
+  --accent-color: #404bbf;
+  /* --accent-color-footer: #31d0aa;
+  --batton-background-theme-dark: #4d5ae5;
+  --batton-background-accent: #404bbf;
+  --customers-icon-color: #8e8f99;
+  --color-for-input: rgba(46, 47, 66, 0.4);
+  --timing-function: cubic-bezier(0.4, 0, 0.2, 1); */
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul {
+  padding-left: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  /* object-fit: cover;
+  object-position: center; */
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--primary-text-color-theme-light);
+}
+
+.container {
+  min-width: 320px;
+  max-width: 428px;
+  padding: 0 16px;
+
+  margin: 0 auto;
+
+  @media only screen and (min-width: 768px) {
+    max-width: 768px;
+  }
+
+  @media only screen and (min-width: 1158px) {
+    max-width: 1158px;
+    padding: 0 15px;
+  }
+}
+
+/* ==================================COMPONENTS=============================== */
+/* =================================/COMPONENTS=============================== */
+
+/* ====================================HEADER================================= */
+
+.header-img {
+  /* background-color: var(--secondary-text-color-theme-light); */
+  background-image: url(../images/header.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 10vw;
+
+  /* @media only screen and (min-device-pixel-ratio: 2) and (max-width: 428px),
+  only screen and (min-resolution: 192dpi) and (max-width: 428px),
+  only screen and (min-resolution: 2dppx) and (max-width: 428px) {
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+      url(../images/mobile/hero-mobile@2x.jpg);
+  }
+
+  @media only screen and (min-width: 429px) {
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+      url(../images/tablet/hero-tablet.jpg);
+
+    @media only screen and (min-device-pixel-ratio: 2),
+    only screen and (min-resolution: 192dpi),
+    only screen and (min-resolution: 2dppx) {
+      background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+        url(../images/tablet/hero-tablet@2x.jpg);
+    }
+  } */
+}
+
+.logo {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color-theme-light);
+}
+
+.logo-accent {
+
+  color: var(--logo-color);
+}
+
+
+/* ===================================/HEADER================================= */
+
+/* =====================================HERO================================== */
+.hero {
+  /* background-color: var(--secondary-text-color-theme-light); */
+  background-image: url(../images/business-card.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 550px;
+}
+
+/* ====================================/HERO================================== */

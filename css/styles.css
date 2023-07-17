@@ -105,7 +105,7 @@ header .container{
   padding-bottom: 20px;
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: var(--primary-text-color-theme-light);
@@ -118,6 +118,11 @@ header .container{
 
 .header-contacts{
   padding-top: 20px;
+  font-size: 20px;
+  background: linear-gradient(45deg, red, blue, green);
+    background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
 }
 
 /* ===================================/HEADER================================= */
@@ -131,10 +136,13 @@ header .container{
 
 /* Button-filter */
 .button-filter-list {
+  position: sticky;
+    top: 0;
   display: flex;
   justify-content: center;
   gap: 24px;
   margin-bottom: 20px;
+  background-color: rgb(248, 241, 229);
 
   /* @media only screen and (min-width: 768px) {
     justify-content: center;

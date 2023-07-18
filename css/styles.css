@@ -198,6 +198,10 @@ header .container{
 background-color: var(--primary-text-color-theme-dark);
 }
 
+/* .gallery-img{
+
+} */
+
 .watermark{
   position: absolute;
 top: 50%;

@@ -141,16 +141,17 @@ header .container{
     z-index: 1;
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 14px;
   margin-bottom: 20px;
   background-color: rgb(248, 241, 229);
 
-  /* @media only screen and (min-width: 768px) {
-    justify-content: center;
-    margin-bottom: 64px;
+  @media only screen and (min-width: 768px) {
+    gap: 24px;
+    /* justify-content: center;
+    margin-bottom: 64px; */
   }
 
-  @media only screen and (min-width: 1158px) {
+  /* @media only screen and (min-width: 1158px) {
     justify-content: center;
     margin-bottom: 72px;
   } */

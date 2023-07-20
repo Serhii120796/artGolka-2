@@ -86,7 +86,6 @@ body {
 
 /* ==================================COMPONENTS=============================== */
 
-
 /* =================================/COMPONENTS=============================== */
 
 /* ====================================HEADER================================= */
@@ -94,41 +93,52 @@ body {
   padding: 20px 0;
 } */
 
-header .container{
-  display: flex;
-  justify-content: space-between;
+@media screen and (min-width: 768px) {
+  header .container {
+    display: flex;
+    justify-content: space-between;
+  }
 }
+
 
 .logo {
-  display: block;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 800;
-  font-size: 20px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  color: var(--primary-text-color-theme-light);
+  display: none;
+ }
+
+@media screen and (min-width: 768px) {
+  .logo {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color-theme-light);
+  }
+
+  .logo-accent {
+    color: var(--logo-color);
+  }
 }
 
-.logo-accent {
-
-  color: var(--logo-color);
-}
-
-.header-contacts{
-  padding-top: 20px;
-  font-size: 20px;
+.header-contacts {
+  font-size: 16px;
+  text-align: center;
   background: linear-gradient(45deg, red, blue, green);
-    background-clip: text;
-        -webkit-background-clip: text;
-        color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  @media screen and (min-width: 768px) {
+    padding-top: 20px;
+    font-size: 20px;
+  }
 }
 
 /* ===================================/HEADER================================= */
 
 /* =====================================HERO================================== */
-
 
 /* ====================================/HERO================================== */
 
@@ -137,8 +147,8 @@ header .container{
 /* Button-filter */
 .button-filter-list {
   position: sticky;
-    top: 0;
-    z-index: 1;
+  top: 0;
+  z-index: 1;
   display: flex;
   justify-content: center;
   gap: 14px;
@@ -170,45 +180,48 @@ header .container{
   border: 1px solid #e7e9fc;
   border-radius: 4px;
   cursor: pointer;
-  transition: color 250ms var(--timing-function), background-color 250ms var(--timing-function),
-    border-color 250ms var(--timing-function), box-shadow 250ms var(--timing-function);
+  transition: color 250ms var(--timing-function),
+    background-color 250ms var(--timing-function),
+    border-color 250ms var(--timing-function),
+    box-shadow 250ms var(--timing-function);
 }
 
 .filter-button:hover,
 .filter-button:focus {
   color: var(--primary-text-color-theme-dark);
   background-color: var(--accent-color);
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
   border: 1px solid transparent;
 }
 /* /Button-filter */
 
-.gallery-list{
+.gallery-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
-  }
+}
 
-.gallery-item{
+.gallery-item {
   position: relative;
   /* Для вирівнювання артикулів товару через різні розміри фото */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   /* /Для вирівнювання артикулів товару через різні розміри фото */
-background-color: var(--primary-text-color-theme-dark);
+  background-color: var(--primary-text-color-theme-dark);
 }
 
 /* .gallery-img{
 
 } */
 
-.watermark{
+.watermark {
   position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   /* text-transform: uppercase; */
   font-family: 'Raleway', sans-serif;
   font-size: 60px;
@@ -218,11 +231,9 @@ transform: translate(-50%, -50%);
   opacity: 0.6;
 }
 
-.callery-wrapper{
-padding: 10px;
-text-align: center;
+.callery-wrapper {
+  padding: 10px;
+  text-align: center;
 }
 
-
 /* ====================================/GALLERY================================== */
-

@@ -10,8 +10,9 @@
   --batton-background-theme-dark: #4d5ae5;
   --batton-background-accent: #404bbf;
   --customers-icon-color: #8e8f99;
-  --color-for-input: rgba(46, 47, 66, 0.4);
-  --timing-function: cubic-bezier(0.4, 0, 0.2, 1); */
+  --color-for-input: rgba(46, 47, 66, 0.4); */
+  --animation-duration: 250ms;
+  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 h1,
@@ -222,6 +223,11 @@ body {
   justify-content: space-between;
   /* /Для вирівнювання артикулів товару через різні розміри фото */
   background-color: var(--primary-text-color-theme-dark);
+  transition: transform var(--animation-duration) var(--timing-function);
+}
+
+.gallery-item:hover {
+  transform: scale(1.03);
 }
 
 /* .gallery-img{

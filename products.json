@@ -594,54 +594,54 @@
     "img": "./images/catalog/tn/a4/tn4056.jpg",
     "article": "ТН4056",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 15,
+    "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 21
   },
   {
     "id": "tn4057",
     "img": "./images/catalog/tn/a4/tn4057.jpg",
     "article": "ТН4057",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 14,
+    "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 19
   },
   {
     "id": "tn4057a",
     "img": "./images/catalog/tn/a4/tn4057a.jpg",
     "article": "ТН4057А",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 14,
+    "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 19
   },
   {
     "id": "tn4058",
     "img": "./images/catalog/tn/a4/tn4058.jpg",
     "article": "ТН4058",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 15,
+    "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 20
   },
   {
     "id": "tn4059",
     "img": "./images/catalog/tn/a4/tn4059.jpg",
     "article": "ТН4059",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 20,
+    "quantityHalfBeads": 13,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 33
   },
   {
     "id": "tn4060",
-    "img": "./images/catalog/tn/a4/tn4059.jpg",
+    "img": "./images/catalog/tn/a4/tn4060.jpg",
     "article": "ТН4060",
     "type": "tnA4",
     "quantityBeads": 0,
@@ -654,40 +654,40 @@
     "img": "./images/catalog/tn/a4/tn4060a.jpg",
     "article": "ТН4060А",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 7,
+    "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 8
   },
   {
     "id": "tn4061",
     "img": "./images/catalog/tn/a4/tn4061.jpg",
     "article": "ТН4061",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 6,
+    "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 4
   },
   {
     "id": "tn4063",
     "img": "./images/catalog/tn/a4/tn4063.jpg",
     "article": "ТН4063",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 8,
+    "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 11
   },
   {
     "id": "tn4064",
     "img": "./images/catalog/tn/a4/tn4064.jpg",
     "article": "ТН4064",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 13,
+    "quantityHalfBeads": 10,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 21
   },
   {
     "id": "tn3001m",

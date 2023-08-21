@@ -4,7 +4,9 @@ const price = {
   luxe: 19,
   shs: 7,
   tnA3: 170,
+  tnA3plus: 220,
   tnA4: 95,
+  tnA4plus: 100,
   tnA5: 50,
   tnP2060: 170,
 };
@@ -34,10 +36,20 @@ function createMarkup(arr) {
             cost = price.tnA4;
             description = '(Розмір 20х30 см)';
             break;
+          
+          case "tnA4plus":
+            cost = price.tnA4plus;
+            description = '(Розмір 20х33 см)';
+            break;
 
           case "tnA3":
             cost = price.tnA3;
             description = '(Розмір 30х40 см)';
+            break;
+          
+          case "tnA3plus":
+            cost = price.tnA3plus;
+            description = '(Розмір 35х40 см)';
             break;
 
           case "tnP2060":

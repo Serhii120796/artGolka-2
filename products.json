@@ -1225,20 +1225,20 @@
     "img": "./images/catalog/tn/tapestry/tnp001.jpg",
     "article": "ТНП001",
     "type": "tnP2060",
-    "quantityBeads": 0,
+    "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 4
   },
   {
     "id": "tnp002",
     "img": "./images/catalog/tn/tapestry/tnp002.jpg",
     "article": "ТНП002",
     "type": "tnP2060",
-    "quantityBeads": 0,
+    "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 4
   },
   {
     "id": "tnp003",
@@ -1247,8 +1247,8 @@
     "type": "tnP2060",
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantityLuxe": 7,
+    "quantitySHS": 4
   },
   {
     "id": "tnp004",
@@ -1257,7 +1257,7 @@
     "type": "tnP2060",
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantityLuxe": 7,
+    "quantitySHS": 4
   }
 ]

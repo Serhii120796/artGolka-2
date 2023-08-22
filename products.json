@@ -1135,10 +1135,10 @@
     "img": "./images/catalog/tn/a3/tn3038.jpg",
     "article": "ТН3038",
     "type": "tnA3",
-    "quantityBeads": 0,
+    "quantityBeads": 7,
     "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantityLuxe": 2,
+    "quantitySHS": 5
   },
   {
     "id": "tn3039",

@@ -62,6 +62,8 @@ function createMarkup(arr) {
           quantityLuxe * price.luxe || '';
         
         const costSHS = quantitySHS * price.shs || '';
+        const addCost = costSHS ? `<p class="gallery-price">Комплект бісеру (+${costBeads} грн)</p>
+                <p class="gallery-price">Комплект ниток СХС (+${costSHS} грн)</p>` : '';
 
         const extraImages = sketch ? `<img
                 src="${sketch}"
@@ -72,9 +74,7 @@ function createMarkup(arr) {
                 loading="lazy"
               />` : '';
 
-        if (!costBeads) {
-
-          return `
+              return `
     <li class="gallery-item">
               <div class="gallery-img-wrapper">
               <img
@@ -91,29 +91,7 @@ function createMarkup(arr) {
               <div class="callery-wrapper">
                 <h3 class="gallery-article">${article}</h3>
                 <p class="gallery-price">Ціна ${cost} грн. ${description}</p>
-              </div>
-            </li>`;
-        }
-
-        return `
-    <li class="gallery-item">
-              <div class="gallery-img-wrapper">
-              <img
-                src="${img}"
-                alt="${article}"
-                class="gallery-img"
-                width="300"
-                height="461"
-                loading="lazy"
-              />
-              ${extraImages}
-              </div>
-              <p class="watermark">ArtGolka</p>
-              <div class="callery-wrapper">
-                <h3 class="gallery-article">${article}</h3>
-                <p class="gallery-price">Ціна ${cost} грн. ${description}</p>
-                <p class="gallery-price">Комплект бісеру (+${costBeads} грн)</p>
-                <p class="gallery-price">Комплект ниток СХС (+${costSHS} грн)</p>
+                ${addCost}
               </div>
             </li>`;
       },

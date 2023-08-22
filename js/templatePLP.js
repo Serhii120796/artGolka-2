@@ -59,11 +59,11 @@ function createMarkup(arr) {
 
         const costBeads = quantityBeads * price.beads +
           quantityHalfBeads * price.halfBeads +
-          quantityLuxe * price.luxe || '';
+          quantityLuxe * price.luxe;
+         const costBeadsDesc = costBeads ? `<p class="gallery-price">Комплект бісеру (+${costBeads} грн)</p>` : '';
         
-        const costSHS = quantitySHS * price.shs || '';
-        const addCost = costSHS ? `<p class="gallery-price">Комплект бісеру (+${costBeads} грн)</p>
-                <p class="gallery-price">Комплект ниток СХС (+${costSHS} грн)</p>` : '';
+        const costSHS = quantitySHS * price.shs;
+        const costSHSDesc = costSHS ? `<p class="gallery-price">Комплект ниток СХС (+${costSHS} грн)</p>` : '';
 
         const extraImages = sketch ? `<img
                 src="${sketch}"
@@ -91,7 +91,8 @@ function createMarkup(arr) {
               <div class="callery-wrapper">
                 <h3 class="gallery-article">${article}</h3>
                 <p class="gallery-price">Ціна ${cost} грн. ${description}</p>
-                ${addCost}
+                ${costBeadsDesc}
+                ${costSHSDesc}
               </div>
             </li>`;
       },

@@ -691,6 +691,16 @@
     "quantitySHS": 21
   },
   {
+    "id": "tn4065",
+    "img": "./images/catalog/tn/a4/tn4065.jpg",
+    "article": "ТН4065",
+    "type": "tnA4",
+    "quantityBeads": 8,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 5
+  },
+  {
     "id": "tn3001m",
     "img": "./images/catalog/tn/a3/tn3001m.jpg",
     "article": "ТН3001",

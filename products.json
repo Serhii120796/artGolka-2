@@ -1025,10 +1025,10 @@
     "img": "./images/catalog/tn/a3/tn3027plus.jpg",
     "article": "ТН3027+",
     "type": "tnA3plus",
-    "quantityBeads": 25,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 28,
+    "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 20
+    "quantitySHS": 21
   },
   {
     "id": "tn3028",

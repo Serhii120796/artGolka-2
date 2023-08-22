@@ -555,9 +555,9 @@
     "article": "ТН4051",
     "type": "tnA4",
     "quantityBeads": 13,
-    "quantityHalfBeads": 0,
+    "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 1
+    "quantitySHS": 13
   },
   {
     "id": "tn4052",

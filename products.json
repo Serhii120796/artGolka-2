@@ -364,10 +364,10 @@
     "img": "./images/catalog/tn/a4/tn4030.jpg",
     "article": "ТН4030",
     "type": "tnA4",
-    "quantityBeads": 0,
+    "quantityBeads": 10,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 8
   },
   {
     "id": "tn4031",

@@ -725,10 +725,10 @@
     "img": "./images/catalog/tn/a3/tn3004.JPG",
     "article": "ТН3004",
     "type": "tnA3",
-    "quantityBeads": 0,
+    "quantityBeads": 14,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 9
   },
   {
     "id": "tn3005",

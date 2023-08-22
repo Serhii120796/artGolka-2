@@ -223,12 +223,12 @@ body {
   justify-content: space-between;
   /* /Для вирівнювання артикулів товару через різні розміри фото */
   background-color: var(--primary-text-color-theme-dark);
-  transition: transform var(--animation-duration) var(--timing-function);
+  /* transition: transform var(--animation-duration) var(--timing-function); */
 }
 
-.gallery-item:hover {
+/* .gallery-item:hover {
   transform: scale(1.03);
-}
+} */
 
 /* .gallery-img{
 
@@ -253,5 +253,20 @@ body {
   text-align: center;
   
 }
+
+.gallery-img-wrapper{
+  position: relative;
+}
+
+.sketch {
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  transition: transform var(--animation-duration) var(--timing-function);
+}
+
+ .sketch:hover {
+   transform: scale(1.05);
+ }
 
 /* ====================================/GALLERY================================== */

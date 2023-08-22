@@ -24,7 +24,7 @@ function createMarkup(arr) {
         quantityBeads,
         quantityHalfBeads,
         quantityLuxe,
-        quantitySHS,
+        quantitySHS, sketch
       }) => {
         switch (type) {
           case "tnA5":
@@ -63,9 +63,20 @@ function createMarkup(arr) {
         
         const costSHS = quantitySHS * price.shs || '';
 
+        const extraImages = sketch ? `<img
+                src="${sketch}"
+                alt="sketch"
+                class="sketch"
+                width="60"
+                height="92"
+                loading="lazy"
+              />` : '';
+
         if (!costBeads) {
+
           return `
     <li class="gallery-item">
+              <div class="gallery-img-wrapper">
               <img
                 src="${img}"
                 alt="${article}"
@@ -74,6 +85,8 @@ function createMarkup(arr) {
                 height="461"
                 loading="lazy"
               />
+              ${extraImages}
+              </div>
               <p class="watermark">ArtGolka</p>
               <div class="callery-wrapper">
                 <h3 class="gallery-article">${article}</h3>
@@ -84,6 +97,7 @@ function createMarkup(arr) {
 
         return `
     <li class="gallery-item">
+              <div class="gallery-img-wrapper">
               <img
                 src="${img}"
                 alt="${article}"
@@ -92,6 +106,8 @@ function createMarkup(arr) {
                 height="461"
                 loading="lazy"
               />
+              ${extraImages}
+              </div>
               <p class="watermark">ArtGolka</p>
               <div class="callery-wrapper">
                 <h3 class="gallery-article">${article}</h3>

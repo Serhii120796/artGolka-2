@@ -4,5 +4,6 @@ import { createMarkup } from './js/templatePLP.js';
 
 const galleryList = document.querySelector('.gallery-list');
 
-galleryList.insertAdjacentHTML('beforeend', createMarkup(instruments));
+galleryList.innerHTML = createMarkup(instruments);
+// galleryList.insertAdjacentHTML('beforeend', createMarkup(instruments));
 

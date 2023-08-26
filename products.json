@@ -1312,6 +1312,26 @@
     "quantitySHS": 7
   },
   {
+    "id": "tn3050",
+    "img": "./images/catalog/tn/a3/tn3050.jpg",
+    "article": "ТН3050",
+    "type": "tnA3",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 16
+  },
+  {
+    "id": "tn3050",
+    "img": "./images/catalog/tn/a3/tn3050black.jpg",
+    "article": "ТН3050",
+    "type": "tnA3",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 16
+  },
+  {
     "id": "tnp001",
     "img": "./images/catalog/tn/tapestry/tnp001.jpg",
     "article": "ТНП001",

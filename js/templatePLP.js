@@ -24,57 +24,66 @@ function createMarkup(arr) {
         quantityBeads,
         quantityHalfBeads,
         quantityLuxe,
-        quantitySHS, sketch
+        quantitySHS,
+        sketch,
       }) => {
         switch (type) {
-          case "tnA5":
+          case 'tnA5':
             cost = price.tnA5;
             description = '(Розмір 15х20 см)';
             break;
 
-          case "tnA4":
+          case 'tnA4':
             cost = price.tnA4;
             description = '(Розмір 20х30 см)';
             break;
-          
-          case "tnA4plus":
+
+          case 'tnA4plus':
             cost = price.tnA4plus;
             description = '(Розмір 20х33 см)';
             break;
 
-          case "tnA3":
+          case 'tnA3':
             cost = price.tnA3;
             description = '(Розмір 30х40 см)';
             break;
-          
-          case "tnA3plus":
+
+          case 'tnA3plus':
             cost = price.tnA3plus;
             description = '(Розмір 35х40 см)';
             break;
 
-          case "tnP2060":
+          case 'tnP2060':
             cost = price.tnP2060;
             description = '(Розмір 20х60 см)';
         }
 
-        const costBeads = quantityBeads * price.beads +
+        const costBeads =
+          quantityBeads * price.beads +
           quantityHalfBeads * price.halfBeads +
           quantityLuxe * price.luxe;
-         const costBeadsDesc = costBeads ? `<p class="gallery-price">Комплект бісеру (+${costBeads} грн)</p>` : '';
         
-        const costSHS = quantitySHS * price.shs;
-        const costSHSDesc = costSHS ? `<p class="gallery-price">Комплект ниток СХС (+${costSHS} грн)</p>` : '';
+        const costBeadsDesc = costBeads
+          ? `<p class="gallery-price">Комплект бісеру (+${costBeads} грн)</p>`
+          : '';
 
-        const extraImages = sketch ? `<img
+        const costSHS = quantitySHS * price.shs;
+        const costSHSDesc = costSHS
+          ? `<p class="gallery-price">Комплект ниток СХС (+${costSHS} грн)</p>`
+          : '';
+
+        const extraImages = sketch
+          ? `<img
                 src="${sketch}"
                 alt="sketch"
                 class="sketch"
                 width="60"
                 height="92"
                 loading="lazy"
-              />` : '';
+              />`
+          : '';
 
-              return `
+        return `
     <li class="gallery-item">
               <div class="gallery-img-wrapper">
               <img

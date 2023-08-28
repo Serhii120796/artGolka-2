@@ -1464,17 +1464,46 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 5,
     "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp005.jpg"
-  }
-  ,
+  },
   {
     "id": "tnp006",
     "img": "./images/catalog/tn/tapestry/tnp006.jpg",
     "article": "ТНП006",
     "type": "tnP2060",
+    "quantityBeads": 7,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 3,
+    "quantitySHS": 6,
+  },
+  {
+    "id": "tnp007",
+    "img": "./images/catalog/tn/tapestry/tnp007.jpg",
+    "article": "ТНП007",
+    "type": "tnP2060",
     "quantityBeads": 10,
     "quantityHalfBeads": 0,
+    "quantityLuxe": 1,
+    "quantitySHS": 7,
+  },
+  {
+    "id": "tnp008",
+    "img": "./images/catalog/tn/tapestry/tnp008.jpg",
+    "article": "ТНП008",
+    "type": "tnP2060",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 6,
+    "quantitySHS": 9,
+  },
+  {
+    "id": "tnp008",
+    "img": "./images/catalog/tn/tapestry/tnp008black.jpg",
+    "article": "ТНП008",
+    "type": "tnP2060",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 9,
   }
 ]
 

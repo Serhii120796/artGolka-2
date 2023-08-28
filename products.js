@@ -1459,7 +1459,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp005.jpg"
   }
 ]
 

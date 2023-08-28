@@ -262,11 +262,13 @@ body {
   position: absolute;
   bottom: 0%;
   left: 0%;
-  transition: transform var(--animation-duration) var(--timing-function);
+  /* transition: transform var(--animation-duration) var(--timing-function); */
+  transition: width var(--animation-duration) var(--timing-function);
 }
 
  .sketch:hover {
-   transform: scale(1.05);
+   /* transform: scale(5); */
+   width: 300px;
  }
 
 /* ====================================/GALLERY================================== */

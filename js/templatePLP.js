@@ -78,7 +78,6 @@ function createMarkup(arr) {
                 alt="sketch"
                 class="sketch"
                 width="60"
-                height="92"
                 loading="lazy"
               />`
           : '';

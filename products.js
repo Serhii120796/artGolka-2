@@ -1510,10 +1510,10 @@ const goods = [
     "img": "./images/catalog/tn/tapestry/tnp009.jpg",
     "article": "ТНП009",
     "type": "tnP2060",
-    "quantityBeads": 0,
+    "quantityBeads": 24,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0,
+    "quantitySHS": 20,
   }
 ]
 

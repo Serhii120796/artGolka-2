@@ -1514,6 +1514,16 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 20,
+  },
+  {
+    "id": "tnp009",
+    "img": "./images/catalog/tn/tapestry/tnp009black.jpg",
+    "article": "ТНП009",
+    "type": "tnP2060",
+    "quantityBeads": 24,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 20,
   }
 ]
 

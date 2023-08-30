@@ -768,8 +768,8 @@ const goods = [
     "type": "tnA4",
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantityLuxe": 4,
+    "quantitySHS": 3
   },
   {
     "id": "tn4072",
@@ -1504,6 +1504,16 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 9,
+  },
+  {
+    "id": "tnp009",
+    "img": "./images/catalog/tn/tapestry/tnp009.jpg",
+    "article": "ТНП009",
+    "type": "tnP2060",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
   }
 ]
 

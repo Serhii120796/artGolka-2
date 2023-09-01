@@ -1036,6 +1036,16 @@ const goods = [
     "quantitySHS": 17
   },
   {
+    "id": "tn3016",
+    "img": "./images/catalog/tn/a3/tn3016black.jpg",
+    "article": "ТН3016",
+    "type": "tnA3",
+    "quantityBeads": 17,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 17
+  },
+  {
     "id": "tn3017",
     "img": "./images/catalog/tn/a3/tn3017.JPG",
     "article": "ТН3017",

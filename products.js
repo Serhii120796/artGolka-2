@@ -1545,6 +1545,26 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 20,
+  },
+  {
+    "id": "tnp010",
+    "img": "./images/catalog/tn/tapestry/tnp010.jpg",
+    "article": "ТНП010",
+    "type": "tnP2060",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+  },
+  {
+    "id": "tnp010",
+    "img": "./images/catalog/tn/tapestry/tnp010black.jpg",
+    "article": "ТНП010",
+    "type": "tnP2060",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
   }
 ]
 

@@ -1461,10 +1461,10 @@ const goods = [
     "img": "./images/catalog/tn/a3/tn3052black.jpg",
     "article": "ТН3052",
     "type": "tnA3",
-    "quantityBeads": 0,
+    "quantityBeads": 26,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 22
   },
   {
     "id": "tnp001",

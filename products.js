@@ -501,7 +501,7 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 8,
     "quantityLuxe": 0,
-    "quantitySHS": 17
+    "quantitySHS": 18
   },
   {
     "id": "tn4044",

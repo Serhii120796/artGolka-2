@@ -895,7 +895,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3001.jpg"
   }
   ,
   {

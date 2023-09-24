@@ -1688,6 +1688,17 @@ const goods = [
     "quantitySHS": 9
   },
   {
+    "id": "tn3060",
+    "img": "./images/catalog/tn/a3/tn3060.jpg",
+    "article": "ТН3060",
+    "type": "tnA3",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3060.jpg"
+  },
+  {
     "id": "tnp001",
     "img": "./images/catalog/tn/tapestry/tnp001.jpg",
     "article": "ТНП001",

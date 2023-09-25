@@ -880,7 +880,7 @@ const goods = [
   {
     "id": "tn4079",
     "img": "./images/catalog/tn/a4/tn4079.jpg",
-    "article": "ТН4078",
+    "article": "ТН4079",
     "type": "tnA4",
     "quantityBeads": 0,
     "quantityHalfBeads": 0,

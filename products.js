@@ -899,6 +899,16 @@ const goods = [
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4080.jpg"
   },
   {
+    "id": "tn4081",
+    "img": "./images/catalog/tn/a4/tn4081.jpg",
+    "article": "ТН4081",
+    "type": "tnA4",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 12
+  },
+  {
     "id": "tn3001m",
     "img": "./images/catalog/tn/a3/tn3001m.jpg",
     "article": "ТН3001",

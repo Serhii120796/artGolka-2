@@ -1774,6 +1774,38 @@ const goods = [
     "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3063.jpg"
   },
   {
+    "id": "tn3064",
+    "img": "./images/catalog/tn/a3/tn3064.jpg",
+    "article": "ТН3064",
+    "type": "tnA3",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 16,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3064.jpg"
+  },
+  {
+    "id": "tn3065",
+    "img": "./images/catalog/tn/a3/tn3065.jpg",
+    "article": "ТН3065",
+    "type": "tnA3",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 15,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3065.jpg"
+  },
+  {
+    "id": "tn3066",
+    "img": "./images/catalog/tn/a3/tn3066.jpg",
+    "article": "ТН3066",
+    "type": "tnA3",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 14,
+    "quantitySHS": 10
+  },
+  {
     "id": "tnp001",
     "img": "./images/catalog/tn/tapestry/tnp001.jpg",
     "article": "ТНП001",

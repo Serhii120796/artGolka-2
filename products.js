@@ -1673,7 +1673,8 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 16
+    "quantitySHS": 16,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3050.jpg"
   },
   {
     "id": "tn3051",
@@ -1875,7 +1876,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 2,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3068.jpg"
   },
   {
     "id": "tnp001",

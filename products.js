@@ -2070,6 +2070,17 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 5,
   }
+  ,
+  {
+    "id": "tnp011",
+    "img": "./images/catalog/tn/tapestry/tnp011.jpg",
+    "article": "ТНП011",
+    "type": "tnP2060",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 11,
+  }
 ]
 
 export {goods};

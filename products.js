@@ -1629,16 +1629,6 @@ const goods = [
     "img": "./images/catalog/tn/a3/tn3043.jpg",
     "article": "ТН3043",
     "type": "tnA3",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 0
-  },
-  {
-    "id": "tn3043A",
-    "img": "./images/catalog/tn/a3/tn3043A.jpg",
-    "article": "ТН3043А",
-    "type": "tnA3",
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,

@@ -1052,6 +1052,16 @@ const goods = [
     "quantitySHS": 27
   },
   {
+    "id": "tn4095",
+    "img": "./images/catalog/tn/a4/tn4095.jpg",
+    "article": "ТН4095",
+    "type": "tnA4",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 8
+  },
+  {
     "id": "tn3001m",
     "img": "./images/catalog/tn/a3/tn3001m.jpg",
     "article": "ТН3001",
@@ -1969,6 +1979,26 @@ const goods = [
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
     "quantitySHS": 19
+  },
+  {
+    "id": "tn3071",
+    "img": "./images/catalog/tn/a3/tn3071.jpg",
+    "article": "ТН3071",
+    "type": "tnA3",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 9
+  },
+  {
+    "id": "tn3072",
+    "img": "./images/catalog/tn/a3/tn3072.jpg",
+    "article": "ТН3072",
+    "type": "tnA3",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 7
   },
   {
     "id": "tnp001",

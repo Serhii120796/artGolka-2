@@ -7,7 +7,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 0,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn5002",
@@ -17,7 +18,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 0,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn5003",
@@ -27,7 +29,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 0,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn5004",
@@ -37,7 +40,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 0,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn5005",
@@ -47,7 +51,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 0,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn5006",
@@ -57,7 +62,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 0,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn5007",
@@ -67,7 +73,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 0
+    "quantitySHS": 0,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4001",
@@ -78,7 +85,7 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 4,
     "quantitySHS": 5,
-    "sketch": ""
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4002",
@@ -89,7 +96,8 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 11,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4002.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4002.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4003",
@@ -100,7 +108,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 4,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4003.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4003.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4004",
@@ -110,7 +119,8 @@ const goods = [
     "quantityBeads": 6,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4005",
@@ -120,7 +130,8 @@ const goods = [
     "quantityBeads": 6,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4006",
@@ -130,7 +141,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4007",
@@ -140,7 +152,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4008",
@@ -150,7 +163,8 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 19
+    "quantitySHS": 19,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4009",
@@ -160,7 +174,8 @@ const goods = [
     "quantityBeads": 21,
     "quantityHalfBeads": 7,
     "quantityLuxe": 0,
-    "quantitySHS": 28
+    "quantitySHS": 28,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4010",
@@ -170,7 +185,8 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4011",
@@ -180,7 +196,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4012",
@@ -190,7 +207,8 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4013",
@@ -200,7 +218,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4014",
@@ -210,7 +229,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4015",
@@ -220,7 +240,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4016",
@@ -230,7 +251,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 15
+    "quantitySHS": 15,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4017",
@@ -240,7 +262,8 @@ const goods = [
     "quantityBeads": 3,
     "quantityHalfBeads": 0,
     "quantityLuxe": 3,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4018",
@@ -250,7 +273,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 5,
-    "quantitySHS": 3
+    "quantitySHS": 3,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4019",
@@ -260,7 +284,8 @@ const goods = [
     "quantityBeads": 3,
     "quantityHalfBeads": 0,
     "quantityLuxe": 3,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4020",
@@ -270,7 +295,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 7,
     "quantityLuxe": 0,
-    "quantitySHS": 19
+    "quantitySHS": 19,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4021",
@@ -280,7 +306,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 6
+    "quantitySHS": 6,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4022",
@@ -290,7 +317,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 6
+    "quantitySHS": 6,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4023",
@@ -300,7 +328,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 6
+    "quantitySHS": 6,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4024",
@@ -310,7 +339,8 @@ const goods = [
     "quantityBeads": 3,
     "quantityHalfBeads": 0,
     "quantityLuxe": 3,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4025",
@@ -320,7 +350,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 9,
     "quantityLuxe": 0,
-    "quantitySHS": 21
+    "quantitySHS": 21,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4026",
@@ -330,7 +361,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4027",
@@ -340,7 +372,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 10
+    "quantitySHS": 10,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4028",
@@ -350,7 +383,8 @@ const goods = [
     "quantityBeads": 21,
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 27
+    "quantitySHS": 27,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4029",
@@ -360,7 +394,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4030",
@@ -370,7 +405,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4031",
@@ -380,7 +416,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4032",
@@ -391,7 +428,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 9,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4032.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4032.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4033",
@@ -401,7 +439,8 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4034",
@@ -411,7 +450,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 17
+    "quantitySHS": 17,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4035",
@@ -421,7 +461,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4036",
@@ -431,7 +472,8 @@ const goods = [
     "quantityBeads": 6,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4037",
@@ -441,7 +483,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4038",
@@ -452,7 +495,8 @@ const goods = [
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
     "quantitySHS": 18,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4038.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4038.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4039",
@@ -462,7 +506,8 @@ const goods = [
     "quantityBeads": 8,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4040",
@@ -473,7 +518,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 7,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4040.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4040.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4041",
@@ -483,7 +529,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 2,
     "quantityLuxe": 6,
-    "quantitySHS": 6
+    "quantitySHS": 6,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4042",
@@ -493,7 +540,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4043",
@@ -503,7 +551,8 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 8,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4044",
@@ -513,7 +562,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4045",
@@ -523,7 +573,8 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 16
+    "quantitySHS": 16,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4046",
@@ -533,7 +584,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 13
+    "quantitySHS": 13,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4047",
@@ -543,7 +595,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4048",
@@ -553,7 +606,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 6
+    "quantitySHS": 6,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4049+",
@@ -563,7 +617,8 @@ const goods = [
     "quantityBeads": 8,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4050+",
@@ -573,7 +628,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4051",
@@ -583,7 +639,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 13
+    "quantitySHS": 13,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4052",
@@ -593,7 +650,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 20
+    "quantitySHS": 20,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4053",
@@ -603,7 +661,8 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 20
+    "quantitySHS": 20,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4054",
@@ -613,7 +672,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 17
+    "quantitySHS": 17,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4055",
@@ -623,7 +683,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 15
+    "quantitySHS": 15,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4056",
@@ -633,7 +694,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 21
+    "quantitySHS": 21,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4057",
@@ -643,7 +705,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 19
+    "quantitySHS": 19,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4057a",
@@ -653,7 +716,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 19
+    "quantitySHS": 19,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4058",
@@ -663,7 +727,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 20
+    "quantitySHS": 20,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4059",
@@ -673,7 +738,8 @@ const goods = [
     "quantityBeads": 20,
     "quantityHalfBeads": 13,
     "quantityLuxe": 0,
-    "quantitySHS": 33
+    "quantitySHS": 33,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4060",
@@ -683,7 +749,8 @@ const goods = [
     "quantityBeads": 8,
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4060a",
@@ -693,7 +760,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4061",
@@ -703,7 +771,8 @@ const goods = [
     "quantityBeads": 6,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4062",
@@ -713,7 +782,8 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 21
+    "quantitySHS": 21,
+    "date": new Date("2023-10-20")
   },
   {
     "id": "tn4063",
@@ -723,7 +793,8 @@ const goods = [
     "quantityBeads": 8,
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4064",
@@ -733,7 +804,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 10,
     "quantityLuxe": 0,
-    "quantitySHS": 21
+    "quantitySHS": 21,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4065",
@@ -743,7 +815,8 @@ const goods = [
     "quantityBeads": 8,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4066",
@@ -753,7 +826,8 @@ const goods = [
     "quantityBeads": 8,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4067",
@@ -763,7 +837,8 @@ const goods = [
     "quantityBeads": 8,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4068",
@@ -773,7 +848,8 @@ const goods = [
     "quantityBeads": 6,
     "quantityHalfBeads": 0,
     "quantityLuxe": 2,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4069",
@@ -783,7 +859,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 5,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4070",
@@ -793,7 +870,8 @@ const goods = [
     "quantityBeads": 2,
     "quantityHalfBeads": 0,
     "quantityLuxe": 4,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4071",
@@ -803,7 +881,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 4,
-    "quantitySHS": 3
+    "quantitySHS": 3,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4072",
@@ -813,17 +892,9 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 4,
-    "quantitySHS": 3
-  },
-  {
-    "id": "tn4072",
-    "img": "./images/catalog/tn/a4/tn4072black.jpg",
-    "article": "ТН4072",
-    "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 4,
-    "quantitySHS": 3
+    "quantitySHS": 3,
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4072.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4073",
@@ -833,7 +904,8 @@ const goods = [
     "quantityBeads": 19,
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
-    "quantitySHS": 23
+    "quantitySHS": 23,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4074",
@@ -844,7 +916,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 11,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4074.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4074.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4075",
@@ -855,7 +928,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 11,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4075.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4075.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4076",
@@ -866,6 +940,7 @@ const goods = [
     "quantityHalfBeads": 9,
     "quantityLuxe": 0,
     "quantitySHS": 20,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4077",
@@ -876,7 +951,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 0,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4077.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4077.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4078",
@@ -887,7 +963,8 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 7,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4078.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4078.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4079",
@@ -897,7 +974,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4080",
@@ -908,7 +986,8 @@ const goods = [
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
     "quantitySHS": 14,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4080.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4080.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4081",
@@ -918,7 +997,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 12
+    "quantitySHS": 12,
+    "date": new Date("2023-01-01")
   },
    {
     "id": "tn4082",
@@ -928,7 +1008,8 @@ const goods = [
     "quantityBeads": 16,
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn4083",
@@ -939,7 +1020,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 8,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4083.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4083.jpg",
+    "date": new Date("2023-10-13")
   },
   {
     "id": "tn4084",
@@ -949,7 +1031,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 8,
     "quantityLuxe": 0,
-    "quantitySHS": 22
+    "quantitySHS": 22,
+    "date": new Date("2023-10-14")
   },
   {
     "id": "tn4085",
@@ -959,7 +1042,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 7,
     "quantityLuxe": 0,
-    "quantitySHS": 16
+    "quantitySHS": 16,
+    "date": new Date("2023-10-15")
   },
   {
     "id": "tn4086",
@@ -969,7 +1053,8 @@ const goods = [
     "quantityBeads": 16,
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 17
+    "quantitySHS": 17,
+    "date": new Date("2023-10-17")
   },
   {
     "id": "tn4087",
@@ -979,7 +1064,8 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 12
+    "quantitySHS": 12,
+    "date": new Date("2023-10-18")
   },
   {
     "id": "tn4088",
@@ -989,7 +1075,8 @@ const goods = [
     "quantityBeads": 5,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-10-21")
   },
   {
     "id": "tn4089",
@@ -999,7 +1086,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 14
+    "quantitySHS": 14,
+    "date": new Date("2023-10-22")
   },
   {
     "id": "tn4090",
@@ -1009,7 +1097,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-10-23")
   },
   {
     "id": "tn4091",
@@ -1019,7 +1108,8 @@ const goods = [
     "quantityBeads": 13,
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 16
+    "quantitySHS": 16,
+    "date": new Date("2023-10-24")
   },
   {
     "id": "tn4092",
@@ -1030,7 +1120,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 5,
-    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4092.jpg"
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4092.jpg",
+    "date": new Date("2023-10-29")
   },
   {
     "id": "tn4093",
@@ -1040,7 +1131,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 9,
     "quantityLuxe": 0,
-    "quantitySHS": 23
+    "quantitySHS": 23,
+    "date": new Date("2023-10-31")
   },
   {
     "id": "tn4094",
@@ -1050,7 +1142,8 @@ const goods = [
     "quantityBeads": 20,
     "quantityHalfBeads": 7,
     "quantityLuxe": 0,
-    "quantitySHS": 27
+    "quantitySHS": 27,
+    "date": new Date("2023-11-01")
   },
   {
     "id": "tn4095",
@@ -1060,7 +1153,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-11-02")
   },
   {
     "id": "tn4096",
@@ -1070,7 +1164,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-11-07")
   },
   {
     "id": "tn3001m",
@@ -1081,7 +1176,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 8,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3001.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3001.jpg",
+    "date": new Date("2023-01-01")
   }
   ,
   {
@@ -1092,17 +1188,9 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 11
-  },
-  {
-    "id": "tn3002",
-    "img": "./images/catalog/tn/a3/tn3002black.jpg",
-    "article": "ТН3002",
-    "type": "tnA3",
-    "quantityBeads": 17,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3002.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3003",
@@ -1112,7 +1200,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3004",
@@ -1122,7 +1211,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3005",
@@ -1132,7 +1222,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3006",
@@ -1142,17 +1233,9 @@ const goods = [
     "quantityBeads": 2,
     "quantityHalfBeads": 0,
     "quantityLuxe": 9,
-    "quantitySHS": 7
-  },
-  {
-    "id": "tn3006",
-    "img": "./images/catalog/tn/a3/tn3006black.jpg",
-    "article": "ТН3006",
-    "type": "tnA3",
-    "quantityBeads": 11,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3006.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3007",
@@ -1162,7 +1245,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3008",
@@ -1172,17 +1256,9 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
-  },
-  {
-    "id": "tn3008",
-    "img": "./images/catalog/tn/a3/tn3008black.jpg",
-    "article": "ТН3008",
-    "type": "tnA3",
-    "quantityBeads": 11,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3008.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3009",
@@ -1192,7 +1268,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3010",
@@ -1202,17 +1279,9 @@ const goods = [
     "quantityBeads": 5,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 3
-  },
-  {
-    "id": "tn3010black",
-    "img": "./images/catalog/tn/a3/tn3010black.JPG",
-    "article": "ТН3010",
-    "type": "tnA3",
-    "quantityBeads": 5,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 3
+    "quantitySHS": 3,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3010.JPG",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3010blue",
@@ -1222,17 +1291,9 @@ const goods = [
     "quantityBeads": 5,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 3
-  },
-  {
-    "id": "tn3010green",
-    "img": "./images/catalog/tn/a3/tn3010green.JPG",
-    "article": "ТН3010",
-    "type": "tnA3",
-    "quantityBeads": 5,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 3
+    "quantitySHS": 3,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3010green.JPG",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3011",
@@ -1242,17 +1303,9 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
-  },
-  {
-    "id": "tn3011gray",
-    "img": "./images/catalog/tn/a3/tn3011gray.JPG",
-    "article": "ТН3011",
-    "type": "tnA3",
-    "quantityBeads": 12,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3011.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3012",
@@ -1263,7 +1316,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 5,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3012.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3012.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3013",
@@ -1273,17 +1327,9 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
-  },
-  {
-    "id": "tn3013black",
-    "img": "./images/catalog/tn/a3/tn3013black.jpg",
-    "article": "ТН3013",
-    "type": "tnA3",
-    "quantityBeads": 9,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3013.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3014",
@@ -1293,17 +1339,9 @@ const goods = [
     "quantityBeads": 22,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 15
-  },
-  {
-    "id": "tn3014",
-    "img": "./images/catalog/tn/a3/tn3014black.jpg",
-    "article": "ТН3014",
-    "type": "tnA3",
-    "quantityBeads": 22,
-    "quantityHalfBeads": 1,
-    "quantityLuxe": 0,
-    "quantitySHS": 15
+    "quantitySHS": 15,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3014.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3015",
@@ -1313,17 +1351,9 @@ const goods = [
     "quantityBeads": 24,
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 21
-  },
-  {
-    "id": "tn3015",
-    "img": "./images/catalog/tn/a3/tn3015black.jpg",
-    "article": "ТН3015",
-    "type": "tnA3",
-    "quantityBeads": 24,
-    "quantityHalfBeads": 4,
-    "quantityLuxe": 0,
-    "quantitySHS": 21
+    "quantitySHS": 21,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3015.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3016",
@@ -1333,17 +1363,9 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 17
-  },
-  {
-    "id": "tn3016",
-    "img": "./images/catalog/tn/a3/tn3016black.jpg",
-    "article": "ТН3016",
-    "type": "tnA3",
-    "quantityBeads": 17,
-    "quantityHalfBeads": 4,
-    "quantityLuxe": 0,
-    "quantitySHS": 17
+    "quantitySHS": 17,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3016.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3017",
@@ -1353,17 +1375,9 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 8
-  },
-  {
-    "id": "tn3017",
-    "img": "./images/catalog/tn/a3/tn3017black.jpg",
-    "article": "ТН3017",
-    "type": "tnA3",
-    "quantityBeads": 12,
-    "quantityHalfBeads": 1,
-    "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3017.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3018",
@@ -1373,17 +1387,9 @@ const goods = [
     "quantityBeads": 22,
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-    "quantitySHS": 19
-  },
-  {
-    "id": "tn3018",
-    "img": "./images/catalog/tn/a3/tn3018black.jpg",
-    "article": "ТН3018",
-    "type": "tnA3",
-    "quantityBeads": 22,
-    "quantityHalfBeads": 3,
-    "quantityLuxe": 0,
-    "quantitySHS": 19
+    "quantitySHS": 19,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3018.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3019",
@@ -1393,7 +1399,8 @@ const goods = [
     "quantityBeads": 17,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3020",
@@ -1403,7 +1410,8 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 12
+    "quantitySHS": 12,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3021",
@@ -1413,7 +1421,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3022",
@@ -1424,7 +1433,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 7,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3022.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3022.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3023",
@@ -1434,17 +1444,9 @@ const goods = [
     "quantityBeads": 24,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 17
-  },
-  {
-    "id": "tn3023",
-    "img": "./images/catalog/tn/a3/tn3023black.jpg",
-    "article": "ТН3023",
-    "type": "tnA3",
-    "quantityBeads": 24,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 17
+    "quantitySHS": 17,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3023.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3024",
@@ -1455,7 +1457,8 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 11,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3024.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3024.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3025",
@@ -1465,7 +1468,8 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3026",
@@ -1476,7 +1480,8 @@ const goods = [
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
     "quantitySHS": 18,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3026.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3026.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3027",
@@ -1486,17 +1491,9 @@ const goods = [
     "quantityBeads": 25,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 20
-  },
-  {
-    "id": "tn3027black",
-    "img": "./images/catalog/tn/a3/tn3027black.jpg",
-    "article": "ТН3027",
-    "type": "tnA3",
-    "quantityBeads": 25,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 20
+    "quantitySHS": 20,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3027.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3027plus",
@@ -1506,7 +1503,8 @@ const goods = [
     "quantityBeads": 28,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 21
+    "quantitySHS": 21,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3028",
@@ -1517,7 +1515,8 @@ const goods = [
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
     "quantitySHS": 14,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3028.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3028.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3029",
@@ -1528,7 +1527,8 @@ const goods = [
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
     "quantitySHS": 15,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3029.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3029.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3030",
@@ -1539,7 +1539,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 21,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3030.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3030.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3031",
@@ -1549,7 +1550,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 10
+    "quantitySHS": 10,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3032",
@@ -1559,7 +1561,8 @@ const goods = [
     "quantityBeads": 15,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 11
+    "quantitySHS": 11,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3033",
@@ -1570,7 +1573,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 14,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3033.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3033.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3034",
@@ -1581,7 +1585,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 8,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3034.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3034.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3035",
@@ -1592,7 +1597,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 7,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3035.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3035.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn30036",
@@ -1602,7 +1608,8 @@ const goods = [
     "quantityBeads": 16,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 10
+    "quantitySHS": 10,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3037",
@@ -1612,7 +1619,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3038",
@@ -1622,7 +1630,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 2,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3039",
@@ -1632,7 +1641,8 @@ const goods = [
     "quantityBeads": 16,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 10
+    "quantitySHS": 10,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3040",
@@ -1642,7 +1652,8 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3041",
@@ -1653,7 +1664,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 0,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3041.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3041.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3042",
@@ -1663,7 +1675,8 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3043",
@@ -1673,7 +1686,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3044",
@@ -1684,7 +1698,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 8,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3044.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3044.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3045",
@@ -1694,7 +1709,8 @@ const goods = [
     "quantityBeads": 12,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3046",
@@ -1704,17 +1720,9 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 7,
-    "quantitySHS": 4
-  },
-  {
-    "id": "tn3046",
-    "img": "./images/catalog/tn/a3/tn3046black.jpg",
-    "article": "ТН3046",
-    "type": "tnA3",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 7,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3046.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3047",
@@ -1724,7 +1732,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 8
+    "quantitySHS": 8,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3048",
@@ -1735,7 +1744,8 @@ const goods = [
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
     "quantitySHS": 23,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3048.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3048.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3049",
@@ -1745,7 +1755,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3050",
@@ -1755,7 +1766,9 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
-    "quantitySHS": 16
+    "quantitySHS": 16,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3050.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3050",
@@ -1766,7 +1779,7 @@ const goods = [
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
     "quantitySHS": 16,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3050.jpg"
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3051",
@@ -1776,7 +1789,8 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 18
+    "quantitySHS": 18,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3052",
@@ -1786,17 +1800,9 @@ const goods = [
     "quantityBeads": 26,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 22
-  },
-  {
-    "id": "tn3052",
-    "img": "./images/catalog/tn/a3/tn3052black.jpg",
-    "article": "ТН3052",
-    "type": "tnA3",
-    "quantityBeads": 26,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 22
+    "quantitySHS": 22,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3052.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3053",
@@ -1807,7 +1813,8 @@ const goods = [
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
     "quantitySHS": 16,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3053.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3053.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3054",
@@ -1818,7 +1825,8 @@ const goods = [
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
     "quantitySHS": 16,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3054.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3054.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3055",
@@ -1829,7 +1837,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 0,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3055.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3055.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3056",
@@ -1840,7 +1849,8 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 9,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3056.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3056.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3057",
@@ -1851,7 +1861,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 0,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3057.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3057.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3058",
@@ -1861,7 +1872,8 @@ const goods = [
     "quantityBeads": 16,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3059",
@@ -1872,7 +1884,8 @@ const goods = [
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
     "quantitySHS": 0,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3059.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3059.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3060",
@@ -1883,7 +1896,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 12,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3060.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3060.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3061",
@@ -1894,7 +1908,8 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 7,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3061.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3061.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3062",
@@ -1905,7 +1920,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 6,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3062.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3062.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tn3063",
@@ -1916,7 +1932,8 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 0,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3063.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3063.jpg",
+    "date": new Date("2023-10-09")
   },
   {
     "id": "tn3064",
@@ -1927,7 +1944,8 @@ const goods = [
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
     "quantitySHS": 16,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3064.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3064.jpg",
+    "date": new Date("2023-10-10")
   },
   {
     "id": "tn3065",
@@ -1938,7 +1956,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 15,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3065.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3065.jpg",
+    "date": new Date("2023-10-11")
   },
   {
     "id": "tn3066",
@@ -1948,7 +1967,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 1,
     "quantityLuxe": 14,
-    "quantitySHS": 10
+    "quantitySHS": 10,
+    "date": new Date("2023-10-12")
   },
   {
     "id": "tn3067",
@@ -1958,7 +1978,8 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 16
+    "quantitySHS": 16,
+    "date": new Date("2023-10-16")
   },
   {
     "id": "tn3068",
@@ -1969,7 +1990,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 2,
     "quantitySHS": 9,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3068.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3068.jpg",
+    "date": new Date("2023-10-19")
   },
   {
     "id": "tn3069",
@@ -1979,7 +2001,8 @@ const goods = [
     "quantityBeads": 9,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 5
+    "quantitySHS": 5,
+    "date": new Date("2023-10-25")
   },
   {
     "id": "tn3070",
@@ -1989,7 +2012,8 @@ const goods = [
     "quantityBeads": 20,
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 19
+    "quantitySHS": 19,
+    "date": new Date("2023-10-30")
   },
   {
     "id": "tn3071",
@@ -1999,7 +2023,8 @@ const goods = [
     "quantityBeads": 14,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 9
+    "quantitySHS": 9,
+    "date": new Date("2023-11-03")
   },
   {
     "id": "tn3072",
@@ -2009,7 +2034,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "date": new Date("2023-11-04")
   },
   {
     "id": "tn3073",
@@ -2019,7 +2045,8 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "date": new Date("2023-11-05")
   },
   {
     "id": "tn3074",
@@ -2030,7 +2057,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 11,
     "quantitySHS": 7,
-    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3074.jpg"
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3074.jpg",
+    "date": new Date("2023-11-06")
   },
   {
     "id": "tn3076",
@@ -2040,7 +2068,20 @@ const goods = [
     "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 7
+    "quantitySHS": 7,
+    "date": new Date("2023-11-08")
+  },
+  {
+    "id": "tn2002",
+    "img": "./images/catalog/tn/a2/tn2002.jpg",
+    "article": "ТН2002",
+    "type": "tnA2",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 12,
+    "quantitySHS": 7,
+    "sketch": "./images/catalog/tn/a2/sketch/sketch_tn2002.jpg",
+    "date": new Date("2023-11-09")
   },
   {
     "id": "tnp001",
@@ -2050,7 +2091,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp002",
@@ -2060,7 +2102,8 @@ const goods = [
     "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp003",
@@ -2070,7 +2113,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 7,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp004",
@@ -2080,7 +2124,8 @@ const goods = [
     "quantityBeads": 0,
     "quantityHalfBeads": 0,
     "quantityLuxe": 7,
-    "quantitySHS": 4
+    "quantitySHS": 4,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp005",
@@ -2091,7 +2136,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 5,
-    "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp005.jpg"
+    "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp005.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp006",
@@ -2102,6 +2148,7 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 3,
     "quantitySHS": 6,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp007",
@@ -2112,6 +2159,7 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 1,
     "quantitySHS": 7,
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp008",
@@ -2122,16 +2170,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 9,
-  },
-  {
-    "id": "tnp008",
-    "img": "./images/catalog/tn/tapestry/tnp008black.jpg",
-    "article": "ТНП008",
-    "type": "tnP2060",
-    "quantityBeads": 15,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 9,
+    "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp008.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp009",
@@ -2142,16 +2182,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 20,
-  },
-  {
-    "id": "tnp009",
-    "img": "./images/catalog/tn/tapestry/tnp009black.jpg",
-    "article": "ТНП009",
-    "type": "tnP2060",
-    "quantityBeads": 24,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 20,
+    "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp009.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp010",
@@ -2162,16 +2194,8 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 5,
-  },
-  {
-    "id": "tnp010",
-    "img": "./images/catalog/tn/tapestry/tnp010black.jpg",
-    "article": "ТНП010",
-    "type": "tnP2060",
-    "quantityBeads": 7,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 5,
+    "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp010.jpg",
+    "date": new Date("2023-01-01")
   },
   {
     "id": "tnp011",
@@ -2182,6 +2206,7 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 11,
+    "date": new Date("2023-10-26")
   },
   {
     "id": "tnp012",
@@ -2192,6 +2217,7 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 12,
     "quantitySHS": 8,
+    "date": new Date("2023-10-27")
   },
   {
     "id": "tnp013",
@@ -2202,6 +2228,7 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 18,
+    "date": new Date("2023-10-28")
   }
 ]
 

@@ -163,7 +163,7 @@ body {
   letter-spacing: 0.04em;
   color: var(--logo-color);
   background-color: var(--secondary-text-color-theme-dark);
-  padding: 12px 24px;
+  padding: 4px 8px;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
   cursor: pointer;
@@ -171,6 +171,10 @@ body {
     background-color 250ms var(--timing-function),
     border-color 250ms var(--timing-function),
     box-shadow 250ms var(--timing-function);
+
+    @media screen and (min-width: 768px){
+      padding: 12px 24px;
+    }
 }
 
 .filter-button:hover,

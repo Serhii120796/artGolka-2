@@ -3,6 +3,7 @@ const price = {
   halfBeads: 10,
   luxe: 19,
   shs: 7,
+  tnA2: 340,
   tnA3: 170,
   tnA3plus: 220,
   tnA4: 95,
@@ -51,6 +52,11 @@ function createMarkup(arr) {
           case 'tnA3plus':
             cost = price.tnA3plus;
             description = '(Розмір 35х40 см)';
+            break;
+          
+          case 'tnA2':
+            cost = price.tnA2;
+            description = '(Розмір 40х60 см)';
             break;
 
           case 'tnP2060':

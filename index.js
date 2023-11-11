@@ -14,7 +14,7 @@ function handleClick(evt) {
     }
 
     if (evt.target.getAttribute('data-filter') === 'novelty') {
-        currentGalleryList = [...goods].sort((a, b) => b.date - a.date);
+        currentGalleryList = [...goods].sort((a, b) => b.date - a.date).splice(0, 40);
         galleryList.innerHTML = createMarkup(currentGalleryList);
         return;
     }

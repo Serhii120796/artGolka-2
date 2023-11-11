@@ -882,7 +882,7 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 4,
     "quantitySHS": 3,
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-01")
   },
   {
     "id": "tn4072",
@@ -894,7 +894,7 @@ const goods = [
     "quantityLuxe": 4,
     "quantitySHS": 3,
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4072.jpg",
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-02")
   },
   {
     "id": "tn4073",
@@ -905,7 +905,7 @@ const goods = [
     "quantityHalfBeads": 6,
     "quantityLuxe": 0,
     "quantitySHS": 23,
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-03")
   },
   {
     "id": "tn4074",
@@ -917,7 +917,7 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 11,
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4074.jpg",
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-04")
   },
   {
     "id": "tn4075",
@@ -929,7 +929,7 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 11,
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4075.jpg",
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-05")
   },
   {
     "id": "tn4076",
@@ -940,7 +940,7 @@ const goods = [
     "quantityHalfBeads": 9,
     "quantityLuxe": 0,
     "quantitySHS": 20,
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-06")
   },
   {
     "id": "tn4077",
@@ -952,7 +952,7 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 0,
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4077.jpg",
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-07")
   },
   {
     "id": "tn4078",
@@ -964,7 +964,7 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 7,
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4078.jpg",
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-08")
   },
   {
     "id": "tn4079",
@@ -975,7 +975,7 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 5,
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-09")
   },
   {
     "id": "tn4080",
@@ -987,7 +987,7 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 14,
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4080.jpg",
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-10")
   },
   {
     "id": "tn4081",
@@ -998,7 +998,7 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 12,
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-11")
   },
    {
     "id": "tn4082",
@@ -1009,7 +1009,7 @@ const goods = [
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
     "quantitySHS": 18,
-    "date": new Date("2023-01-01")
+    "date": new Date("2023-10-12")
   },
   {
     "id": "tn4083",

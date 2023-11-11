@@ -6,7 +6,7 @@ const filterList = document.querySelector('.filter-list-js');
 filterList.addEventListener('click', handleClick);
 
 let currentGalleryList = [...goods].sort((a, b) => b.date - a.date);
-galleryList.innerHTML = createMarkup(currentGalleryList);
+galleryList.insertAdjacentHTML('beforeend', createMarkup(currentGalleryList));
 
 function handleClick(evt) {
   if (evt.target === evt.currentTarget) {
@@ -25,6 +25,5 @@ function handleClick(evt) {
   galleryList.innerHTML = createMarkup(currentGalleryList);
 }
 
-// galleryList.insertAdjacentHTML('beforeend', createMarkup(instruments));
 
 

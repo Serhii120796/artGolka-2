@@ -1,13 +1,30 @@
-import {goods} from './products.js';
+import { goods } from './products.js';
 import { createMarkup } from './js/templatePLP.js';
 
+const galleryList = document.querySelector('.gallery-list-js');
+const filterList = document.querySelector('.filter-list-js');
+filterList.addEventListener('click', handleClick);
 
-const galleryList = document.querySelector('.gallery-list');
+let currentGalleryList = [...goods].sort((a, b) => b.date - a.date);
+galleryList.innerHTML = createMarkup(currentGalleryList);
 
-galleryList.innerHTML = createMarkup(goods);
+function handleClick(evt) {
+  if (evt.target === evt.currentTarget) {
+    return;
+    }
+
+    if (evt.target.getAttribute('data-filter') === 'novelty') {
+        currentGalleryList = [...goods].sort((a, b) => b.date - a.date);
+        galleryList.innerHTML = createMarkup(currentGalleryList);
+        return;
+    }
+    
+  currentGalleryList = goods.filter(
+    ({ type }) => evt.target.getAttribute('data-filter').includes(type),
+  ).reverse();
+  galleryList.innerHTML = createMarkup(currentGalleryList);
+}
+
 // galleryList.insertAdjacentHTML('beforeend', createMarkup(instruments));
 
 
-// Брався до сортування масиву
-// const goodsSortedByDate = goods
-// const log = goods.filter(({date}) => date).sort((a, b) => b.date - a.date);

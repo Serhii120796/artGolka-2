@@ -52,7 +52,7 @@
           <h2 class="visually-hidden"></h2>
 
           <!-- Button-filter -->
-          <ul class="list button-filter-list">
+          <ul class="list button-filter-list filter-list-js">
             <!-- <li class="button-filter-item">
               <button class="filter-button" type="button" data-filter="all">
                 Усі
@@ -60,26 +60,8 @@
             </li> -->
 
             <li class="button-filter-item">
-              <button class="filter-button" type="button" data-filter="a5">
+              <button class="filter-button" type="button" data-filter="tnA5">
                 A5
-              </button>
-            </li>
-
-            <li class="button-filter-item">
-              <button class="filter-button" type="button" data-filter="a4">
-                A4
-              </button>
-            </li>
-
-            <li class="button-filter-item">
-              <button class="filter-button" type="button" data-filter="a3">
-                A3
-              </button>
-            </li>
-
-            <li class="button-filter-item">
-              <button class="filter-button" type="button" data-filter="a2">
-                A2
               </button>
             </li>
 
@@ -87,23 +69,44 @@
               <button
                 class="filter-button"
                 type="button"
-                data-filter="tapestry"
+                data-filter="tnA4-tnA4plus"
               >
+                A4
+              </button>
+            </li>
+
+            <li class="button-filter-item">
+              <button
+                class="filter-button"
+                type="button"
+                data-filter="tnA3-tnA3plus"
+              >
+                A3
+              </button>
+            </li>
+
+            <li class="button-filter-item">
+              <button class="filter-button" type="button" data-filter="tnA2">
+                A2
+              </button>
+            </li>
+
+            <li class="button-filter-item">
+              <button class="filter-button" type="button" data-filter="tnP2060">
                 Панно
               </button>
             </li>
 
             <li class="button-filter-item plus-768px">
-              <a href="./Novelty.html"
-                ><button class="filter-button" type="button">Новинки</button></a
-              >
+              <button class="filter-button" type="button" data-filter="novelty">
+                Новинки
+              </button>
             </li>
           </ul>
 
-          <ul class="gallery-list list" id="itemsList"></ul>
+          <ul class="gallery-list list gallery-list-js" id="itemsList"></ul>
         </div>
       </section>
     </main>
-    <script src="./js/filter.js" defer></script>
   </body>
 </html>

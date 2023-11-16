@@ -1907,7 +1907,7 @@ const goods = [
     "quantityBeads": 10,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 7,
+    "quantitySHS": 9,
     "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3061.jpg",
     "date": new Date("2023-01-01")
   },

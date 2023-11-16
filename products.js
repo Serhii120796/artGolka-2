@@ -2242,6 +2242,18 @@ const goods = [
     "quantitySHS": 18,
     "date": new Date("2023-10-28")
   }
+  ,
+  {
+    "id": "tnp014",
+    "img": "./images/catalog/tn/tapestry/tnp014.jpg",
+    "article": "ТНП014",
+    "type": "tnP2060",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 9,
+    "date": new Date("2023-11-16")
+  }
 ]
 
 export {goods};

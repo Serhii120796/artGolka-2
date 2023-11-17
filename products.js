@@ -2137,6 +2137,7 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 7,
     "quantitySHS": 4,
+    "sketch": "./images/catalog/tn/tapestry/sketch/sketch_tnp004.jpg",
     "date": new Date("2023-01-01")
   },
   {

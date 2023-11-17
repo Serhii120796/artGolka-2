@@ -947,10 +947,10 @@ const goods = [
     "img": "./images/catalog/tn/a4/tn4077.jpg",
     "article": "ТН4077",
     "type": "tnA4",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 10,
+    "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 0,
+    "quantitySHS": 7,
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4077.jpg",
     "date": new Date("2023-10-07")
   },

@@ -2100,10 +2100,10 @@ const goods = [
     "img": "./images/catalog/tn/a3/tn3079.jpg",
     "article": "ТН3079",
     "type": "tnA3",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 21,
+    "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-    "quantitySHS": 0,
+    "quantitySHS": 24,
     "date": new Date("2023-11-21")
   },
   {

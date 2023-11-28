@@ -2118,6 +2118,17 @@ const goods = [
     "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3080.jpg",
     "date": new Date("2023-11-25")
   },
+    {
+    "id": "tn3081",
+    "img": "./images/catalog/tn/a3/tn3081.jpg",
+    "article": "ТН3081",
+    "type": "tnA3",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 12,
+    "date": new Date("2023-11-28")
+  },
   {
     "id": "tn2002",
     "img": "./images/catalog/tn/a2/tn2002.jpg",

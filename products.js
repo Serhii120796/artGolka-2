@@ -185,7 +185,7 @@ const goods = [
     "quantityBeads": 18,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 18,
+    "quantitySHS": 18,"sketch": "./images/catalog/tn/a4/sketch/sketch_tn4010.jpg",
     "date": new Date("2023-01-01")
   },
   {
@@ -629,6 +629,7 @@ const goods = [
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 5,
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4050plus.jpg",
     "date": new Date("2023-01-01")
   },
   {
@@ -794,6 +795,7 @@ const goods = [
     "quantityHalfBeads": 4,
     "quantityLuxe": 0,
     "quantitySHS": 11,
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4063.jpg",
     "date": new Date("2023-01-01")
   },
   {

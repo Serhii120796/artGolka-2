@@ -2096,6 +2096,7 @@ const goods = [
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
     "quantitySHS": 5,
+    "sketch": "./images/catalog/tn/a3/sketch/sketch_tn3069.jpg",
     "date": new Date("2023-10-25")
   },
   {

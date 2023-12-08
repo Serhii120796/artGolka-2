@@ -1067,6 +1067,7 @@ const goods = [
     "quantityHalfBeads": 3,
     "quantityLuxe": 0,
     "quantitySHS": 12,
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4087.jpg",
     "date": new Date("2023-10-18")
   },
   {
@@ -1192,6 +1193,17 @@ const goods = [
     "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4098.jpg",
     "date": new Date("2023-12-01")
   },
+  {
+    "id": "tn4099",
+    "img": "./images/catalog/tn/a4/tn4099.jpg",
+    "article": "ТН4099",
+    "type": "tnA4",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 10,
+    "date": new Date("2023-12-08")
+  },
    {
     "id": "tn4100",
     "img": "./images/catalog/tn/a4/tn4100.jpg",
@@ -1235,6 +1247,18 @@ const goods = [
     "quantityLuxe": 0,
     "quantitySHS": 10,
     "date": new Date("2023-12-07")
+  },
+  {
+    "id": "tn4104",
+    "img": "./images/catalog/tn/a4/tn4104.jpg",
+    "article": "ТН4104",
+    "type": "tnA4",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 9,
+    "sketch": "./images/catalog/tn/a4/sketch/sketch_tn4104.jpg",
+    "date": new Date("2023-12-08")
   },
   {
     "id": "tn3001m",

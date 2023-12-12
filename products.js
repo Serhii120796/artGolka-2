@@ -2448,6 +2448,18 @@ const goods = [
     quantitySHS: 0,
     date: new Date('2023-12-10'),
   },
+  {
+    id: 'tnp016',
+    img: './images/catalog/tn/tapestry/tnp016.jpg',
+    article: 'ТНП016',
+    type: 'tnP2060',
+    quantityBeads: 24,
+    quantityHalfBeads: 0,
+    quantityLuxe: 0,
+    quantitySHS: 14,
+    sketch: './images/catalog/tn/tapestry/sketch/sketch_tnp016.jpg',
+    date: new Date('2023-12-12'),
+  },
 ];
 
 export { goods };

@@ -85,6 +85,7 @@ const goods = [
     quantityHalfBeads: 0,
     quantityLuxe: 0,
     quantitySHS: 0,
+    sketch: './images/catalog/tn/a5/sketch/sketch_tn5008.jpg',
     date: new Date('2023-12-27'),
   },
   {
@@ -118,6 +119,7 @@ const goods = [
     quantityHalfBeads: 0,
     quantityLuxe: 0,
     quantitySHS: 0,
+    sketch: './images/catalog/tn/a5/sketch/sketch_tn5011.jpg',
     date: new Date('2023-12-27'),
   },
   {

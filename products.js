@@ -2346,6 +2346,17 @@ const goods = [
     date: new Date('2023-12-26'),
   },
   {
+    id: 'tn3087',
+    img: './images/catalog/tn/a3/tn3087.jpg',
+    article: 'ТН3087',
+    type: 'tnA3',
+    quantityBeads: 15,
+    quantityHalfBeads: 1,
+    quantityLuxe: 0,
+    quantitySHS: 10,
+    date: new Date('2023-12-28'),
+  },
+  {
     id: 'tn2002',
     img: './images/catalog/tn/a2/tn2002.jpg',
     article: 'ТН2002',

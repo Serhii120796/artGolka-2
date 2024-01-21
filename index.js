@@ -27,6 +27,4 @@ function handleClick(evt) {
   galleryList.innerHTML = createMarkup(currentGalleryList);
 }
 
-goods.map(good => (good.new = ''));
 
-console.log(goods);

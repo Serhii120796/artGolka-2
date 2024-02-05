@@ -1385,10 +1385,10 @@ const goods = [
     img: './images/catalog/tn/a4/tn4112.jpg',
     article: 'ТН4112',
     type: 'tnA4',
-    quantityBeads: 0,
+    quantityBeads: 6,
     quantityHalfBeads: 0,
     quantityLuxe: 0,
-    quantitySHS: 0,
+    quantitySHS: 4,
     date: new Date('2024-01-28'),
   },
   {

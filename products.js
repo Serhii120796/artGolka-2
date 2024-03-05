@@ -2452,10 +2452,10 @@ const goods = [
     img: './images/catalog/tn/a3/tn3086.jpg',
     article: 'ТН3086',
     type: 'tnA3',
-    quantityBeads: 19,
+    quantityBeads: 7,
     quantityHalfBeads: 0,
-    quantityLuxe: 0,
-    quantitySHS: 15,
+    quantityLuxe: 8,
+    quantitySHS: 8,
     date: new Date('2023-12-26'),
   },
   {

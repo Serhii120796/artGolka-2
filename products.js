@@ -1469,6 +1469,17 @@ const goods = [
     date: new Date('2024-03-05'),
   },
   {
+    id: 'tn4121',
+    img: './images/catalog/tn/a4/tn4121.jpg',
+    article: 'ТН4121',
+    type: 'tnA4',
+    quantityBeads: 0,
+    quantityHalfBeads: 0,
+    quantityLuxe: 0,
+    quantitySHS: 0,
+    date: new Date('2024-03-06'),
+  },
+  {
     id: 'tn3001m',
     img: './images/catalog/tn/a3/tn3001m.jpg',
     article: 'ТН3001',

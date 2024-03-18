@@ -207,6 +207,7 @@ body {
   /* /Для вирівнювання артикулів товару через різні розміри фото */
   background-color: var(--primary-text-color-theme-dark);
   /* transition: transform var(--animation-duration) var(--timing-function); */
+  width: 300px;
 }
 
 /* .gallery-item:hover {

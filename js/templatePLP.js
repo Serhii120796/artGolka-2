@@ -67,7 +67,7 @@ function createMarkup(arr) {
           
           case 'rps':
             cost = price.rps;
-            description = '(Розмір 35х55 см)';
+            description = '(Розмір 35х55 см) Заготовка на габардині';
             break;
         }
 

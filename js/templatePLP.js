@@ -10,6 +10,7 @@ const price = {
   tnA4plus: 100,
   tnA5: 50,
   tnP2060: 170,
+  rps: 130,
 };
 
 let cost;
@@ -62,6 +63,12 @@ function createMarkup(arr) {
           case 'tnP2060':
             cost = price.tnP2060;
             description = '(Розмір 20х60 см)';
+            break;
+          
+          case 'rps':
+            cost = price.rps;
+            description = '(Розмір 35х55 см)';
+            break;
         }
 
         const costBeads =

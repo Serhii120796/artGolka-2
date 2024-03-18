@@ -3062,10 +3062,10 @@ const goods = [
     img: './images/catalog/rps/rps013.jpg',
     article: 'РПС013',
     type: 'rps',
-    quantityBeads: 0,
-    quantityHalfBeads: 0,
+    quantityBeads: 15,
+    quantityHalfBeads: 5,
     quantityLuxe: 0,
-     quantitySHS: 0,
+     quantitySHS: 19,
     date: new Date('2024-03-18'),
   },
    {

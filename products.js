@@ -3167,6 +3167,17 @@ const goods = [
      quantitySHS: 0,
     date: new Date('2024-03-24'),
   },
+   {
+    id: 'rps022',
+    img: './images/catalog/rps/rps022.jpg',
+    article: 'РПС022',
+    type: 'rps',
+    quantityBeads: 0,
+    quantityHalfBeads: 0,
+    quantityLuxe: 0,
+     quantitySHS: 0,
+    date: new Date('2024-03-27'),
+  },
 ];
 
 export { goods };

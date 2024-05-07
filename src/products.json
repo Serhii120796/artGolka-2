@@ -3397,6 +3397,17 @@
      "quantitySHS": 0,
     "date": "2024-01-01"
   },
+  {
+    "id": "rss002",
+    "img": "./images/catalog/rss/rss002.jpg",
+    "article": "РСС002",
+    "type": "rss",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-05-07"
+  },
    {
     "id": "bow002",
     "img": "./images/catalog/bow/bow002.jpg",

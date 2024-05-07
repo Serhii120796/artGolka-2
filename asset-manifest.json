@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/artgolka-3/static/css/main.ccfa9e00.css",
+    "main.js": "/artgolka-3/static/js/main.c6a289f0.js",
+    "index.html": "/artgolka-3/index.html",
+    "main.ccfa9e00.css.map": "/artgolka-3/static/css/main.ccfa9e00.css.map",
+    "main.c6a289f0.js.map": "/artgolka-3/static/js/main.c6a289f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfa9e00.css",
+    "static/js/main.c6a289f0.js"
+  ]
+}

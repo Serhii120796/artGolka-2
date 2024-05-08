@@ -3430,6 +3430,39 @@
      "quantitySHS": 0,
     "date": "2024-05-07"
   },
+  {
+    "id": "rss003",
+    "img": "./images/catalog/rss/rss003.jpg",
+    "article": "РСС003",
+    "type": "rss",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-05-08"
+  },
+  {
+    "id": "rss004",
+    "img": "./images/catalog/rss/rss004.jpg",
+    "article": "РСС004",
+    "type": "rss",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-05-08"
+  },
+  {
+    "id": "rss005",
+    "img": "./images/catalog/rss/rss005.jpg",
+    "article": "РСС005",
+    "type": "rss",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-05-08"
+  },
    {
     "id": "bow002",
     "img": "./images/catalog/bow/bow002.jpg",

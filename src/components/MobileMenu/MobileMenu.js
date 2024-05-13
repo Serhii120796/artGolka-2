@@ -111,6 +111,17 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
             Банти
           </Button>
         </li>
+        <li>
+          <Button
+            type="button"
+            onClick={() => {
+              abc('rvm');
+              onCloseMenu();
+            }}
+          >
+            Рушники обрядові (малі)
+          </Button>
+        </li>
       </ul>
     </Menu>
   );

@@ -44,6 +44,9 @@ export const Sidebar = ({ abc }) => {
         <ListItem>
           <Button type="button" onClick={() => abc("bow")}>Банти</Button>
         </ListItem>
+        <ListItem>
+          <Button type="button" onClick={() => abc("rvm")}>Рушники обрядові (малі)</Button>
+        </ListItem>
       </ul>
     </Aside>
   );

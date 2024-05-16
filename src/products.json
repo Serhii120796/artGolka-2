@@ -3123,6 +3123,17 @@
     "date": "2024-02-05"
   },
   {
+    "id": "tnp022",
+    "img": "./images/catalog/tn/tapestry/tnp022.jpg",
+    "article": "ТНП022",
+    "type": "tnP2060",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 5,
+     "quantitySHS": 10,
+    "date": "2024-05-16"
+  },
+  {
     "id": "rps001",
     "img": "./images/catalog/rps/rps001.jpg",
     "article": "РПС001",

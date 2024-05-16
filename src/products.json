@@ -3474,6 +3474,28 @@
      "quantitySHS": 0,
     "date": "2024-05-08"
   },
+  {
+    "id": "rss006",
+    "img": "./images/catalog/rss/rss006.jpg",
+    "article": "РСС006",
+    "type": "rss",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-05-16"
+  },
+  {
+    "id": "rss007",
+    "img": "./images/catalog/rss/rss007.jpg",
+    "article": "РСС007",
+    "type": "rss",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-05-16"
+  },
    {
     "id": "bow002",
     "img": "./images/catalog/bow/bow002.jpg",

@@ -1,6 +1,16 @@
 import { Menu, CloseButton, Icon, Text, Button } from './MobileMenu.styled';
 
 export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
+  const butonTypes = ['rps', 'rss', 'bow', 'rvm',
+  ];
+
+  const categories = {
+    rps: 'Рушники великодні',
+    rss: 'Рушники спасівські',
+    bow: 'Банти',
+    rvm: 'Рушники обрядові (малі)',
+  }
+
   return (
     <Menu $status={statusMenu}>
       <CloseButton type="button" onClick={onCloseMenu}>
@@ -78,50 +88,17 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
             </li>
           </ul>
         </li>
-        <li>
+        {butonTypes.map(type => <li>
           <Button
             type="button"
             onClick={() => {
-              abc('rps');
+              abc(type);
               onCloseMenu();
             }}
           >
-            Рушники великодні
+            {categories[type]}
           </Button>
-        </li>
-        <li>
-          <Button
-            type="button"
-            onClick={() => {
-              abc('rss');
-              onCloseMenu();
-            }}
-          >
-            Рушники спасівські
-          </Button>
-        </li>
-        <li>
-          <Button
-            type="button"
-            onClick={() => {
-              abc('bow');
-              onCloseMenu();
-            }}
-          >
-            Банти
-          </Button>
-        </li>
-        <li>
-          <Button
-            type="button"
-            onClick={() => {
-              abc('rvm');
-              onCloseMenu();
-            }}
-          >
-            Рушники обрядові (малі)
-          </Button>
-        </li>
+        </li>)}
       </ul>
     </Menu>
   );

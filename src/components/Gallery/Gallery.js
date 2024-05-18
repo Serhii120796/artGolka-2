@@ -8,6 +8,8 @@ import { Container, GalleryList } from './Gallery.styled';
 export const Gallery = ({statusMenu, onCloseMenu}) => {
   const [filter, setFilter] = useState('');
 
+  // Переробити алгоритм роботи фільтрів
+
   const changeFilter = data => setFilter(data);
 
   let currentGalleryList = [...products].sort(
@@ -25,6 +27,8 @@ export const Gallery = ({statusMenu, onCloseMenu}) => {
       .filter(({ type }) => type.includes(filter))
       .reverse();
   }
+
+  // Переробити алгоритм роботи фільтрів
 
   return (<>
     <MobileMenu abc={changeFilter} onCloseMenu={onCloseMenu} statusMenu={ statusMenu} />

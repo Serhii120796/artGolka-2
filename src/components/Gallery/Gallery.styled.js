@@ -1,4 +1,4 @@
-import css from "styled-components";
+import css from 'styled-components';
 
 export const Container = css.div`
 min-width: 320px;
@@ -22,7 +22,7 @@ export const GalleryList = css.ul`
 display: flex;
 flex-wrap: wrap;
 gap: 20px 10px;
-  width: 100%;
+width: 100%;
 
 //   Центрує зображення на телефоні через різні розміри зображень
 // @media (max-width: 1158px) {

@@ -23,14 +23,14 @@ export const Sidebar = ({ abc }) => {
       <Text>Каталог товарів</Text>
       <ul>
         {Object.keys(categories).map(type => (
-          <ListItem>
+          <ListItem key={type}>
             <Button type="button" onClick={() => abc(type)}>
               {categories[type].name}
             </Button>
             {categories[type].list && (
               <ul>
                 {Object.keys(categories[type].list).map(subType => (
-                  <ListItem>
+                  <ListItem key={subType}>
                     <Button type="button" onClick={() => abc(subType)}>
                       {categories[type].list[subType]}
                     </Button>

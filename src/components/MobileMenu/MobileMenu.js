@@ -1,15 +1,7 @@
 import { Menu, CloseButton, Icon, Text, Button } from './MobileMenu.styled';
+import { categories } from '../../productCategories.js';
 
 export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
-  const buttonTypes = ['rps', 'rss', 'bow', 'rvm'];
-
-  const categories = {
-    rps: 'Рушники великодні',
-    rss: 'Рушники спасівські',
-    bow: 'Банти',
-    rvm: 'Рушники обрядові (малі)',
-  };
-
   const handleClick = buttonType => {
     abc(buttonType);
     onCloseMenu();
@@ -24,43 +16,22 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
       </CloseButton>
       <Text>Каталог товарів</Text>
       <ul>
-        <li>
-          <Button type="button" onClick={() => handleClick('tn')}>
-            Термоналіпки
-          </Button>
-          <ul>
-            <li>
-              <Button type="button" onClick={() => handleClick('tnA5')}>
-                А5
-              </Button>
-            </li>
-            <li>
-              <Button type="button" onClick={() => handleClick('tnA4')}>
-                А4
-              </Button>
-            </li>
-            <li>
-              <Button type="button" onClick={() => handleClick('tnA3')}>
-                А3
-              </Button>
-            </li>
-            <li>
-              <Button type="button" onClick={() => handleClick('tnA2')}>
-                А2
-              </Button>
-            </li>
-            <li>
-              <Button type="button" onClick={() => handleClick('tnP2060')}>
-                Панно
-              </Button>
-            </li>
-          </ul>
-        </li>
-        {buttonTypes.map(type => (
+        {Object.keys(categories).map(type => (
           <li key={type}>
             <Button type="button" onClick={() => handleClick(type)}>
-              {categories[type]}
+              {categories[type].name}
             </Button>
+            {categories[type].list && (
+              <ul>
+                {Object.keys(categories[type].list).map(subType => (
+                  <li key={subType}>
+                    <Button type="button" onClick={() => handleClick(subType)}>
+                      {categories[type].list[subType]}
+                    </Button>
+                  </li>
+                ))}
+              </ul>
+            )}
           </li>
         ))}
       </ul>

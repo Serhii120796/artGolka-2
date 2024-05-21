@@ -1,6 +1,15 @@
 import { Aside, Text, ListItem, Button } from './SideBar.styled';
 
 export const Sidebar = ({ abc }) => {
+  const buttonTypes = ['rps', 'rss', 'bow', 'rvm'];
+
+  const categories = {
+    rps: 'Рушники великодні',
+    rss: 'Рушники спасівські',
+    bow: 'Банти',
+    rvm: 'Рушники обрядові (малі)',
+  };
+
   return (
     <Aside>
       <Text>Каталог товарів</Text>
@@ -37,26 +46,13 @@ export const Sidebar = ({ abc }) => {
             </ListItem>
           </ul>
         </ListItem>
-        <ListItem>
-          <Button type="button" onClick={() => abc('rps')}>
-            Рушники великодні
-          </Button>
-        </ListItem>
-        <ListItem>
-          <Button type="button" onClick={() => abc('rss')}>
-            Рушники спасівські
-          </Button>
-        </ListItem>
-        <ListItem>
-          <Button type="button" onClick={() => abc('bow')}>
-            Банти
-          </Button>
-        </ListItem>
-        <ListItem>
-          <Button type="button" onClick={() => abc('rvm')}>
-            Рушники обрядові (малі)
-          </Button>
-        </ListItem>
+        {buttonTypes.map(type => (
+          <ListItem>
+            <Button type="button" onClick={() => abc(type)}>
+              {categories[type]}
+            </Button>
+          </ListItem>
+        ))}
       </ul>
     </Aside>
   );

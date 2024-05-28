@@ -23,6 +23,5 @@ const [isOpen, setIsOpen] = useState(query ? false : true);
         <Route index element={<Home statusMenu={isOpen} onCloseMenu={ closeMobileMenu}/>} />
       </Route>
     </Routes>
-
   );
 };

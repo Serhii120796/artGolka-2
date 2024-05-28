@@ -7,11 +7,12 @@ import { Container, GalleryList } from './Gallery.styled';
 import { useSearchParams } from 'react-router-dom';
 
 export const Gallery = ({statusMenu, onCloseMenu}) => {
-  const [filter, setFilter] = useState('');
+  const [filter, setFilter] = useState(null);
   const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get("query");
-  if (query && query !== filter) {
-    setFilter(query);
+  
+  if (query !== filter) {
+    setFilter(query ? query : null);
       }
 
   // Переробити алгоритм роботи фільтрів

@@ -4,13 +4,22 @@ import { Sidebar } from '../SideBar/SideBar';
 import { MobileMenu } from '../MobileMenu/MobileMenu.js';
 import products from '../../products.json';
 import { Container, GalleryList } from './Gallery.styled';
+import { useSearchParams } from 'react-router-dom';
 
 export const Gallery = ({statusMenu, onCloseMenu}) => {
   const [filter, setFilter] = useState('');
+  const [searchParams, setSearchParams] = useSearchParams();
+  const query = searchParams.get("query");
+  if (query && query !== filter) {
+    setFilter(query);
+      }
 
   // Переробити алгоритм роботи фільтрів
 
-  const changeFilter = data => setFilter(data);
+  const changeFilter = data => {
+    setSearchParams({ query: data });
+  };
+
 
   let currentGalleryList = [...products].sort(
     (a, b) => new Date(b.date) - new Date(a.date)

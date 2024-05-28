@@ -40,7 +40,7 @@ export const GalleryItem = ({
   return (
     <Item>
       <GalleryImgWrapper>
-        <img src={img} alt={article} width="300" height="461" loading="lazy" />
+        <img src={`${process.env.PUBLIC_URL}${img}`} alt={article} width="300" height="461" loading="lazy" />
         {sketch && <Sketch src={sketch} alt="sketch" width="60" loading="lazy" />}
       </GalleryImgWrapper>
       <Watermark>ArtGolka</Watermark>

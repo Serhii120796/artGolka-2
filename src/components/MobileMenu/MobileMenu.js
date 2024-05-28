@@ -11,7 +11,7 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
     <Menu $status={statusMenu}>
       <CloseButton type="button" onClick={onCloseMenu}>
         <Icon width="24" height="24">
-          <use href="./images/icons.svg#icon-close"></use>
+          <use href={`${process.env.PUBLIC_URL}/images/icons.svg#icon-close`}></use>
         </Icon>
       </CloseButton>
       <Text>Каталог товарів</Text>

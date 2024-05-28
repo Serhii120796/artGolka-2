@@ -15,7 +15,7 @@ export const Layout = ({ onOpenMenu }) => {
     <>
       <HeaderCss>
         <Container>
-          <Link href="./index.html">
+          <Link to="/">
             <span>Art</span>Golka
           </Link>
           <BurgerButton type="button" onClick={() => onOpenMenu()}>

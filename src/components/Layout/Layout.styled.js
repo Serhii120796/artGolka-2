@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import css from 'styled-components';
 
 export const HeaderCss = css.header`
@@ -33,7 +34,7 @@ align-items: center;
 }
 `;
 
-export const Link = css.a`
+export const Link = css(NavLink)`
 display: none;
 
 @media (min-width: 768px) {

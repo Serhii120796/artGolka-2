@@ -2,11 +2,14 @@ import { Routes, Route } from "react-router-dom";
 import { useState } from 'react';
 import { Layout } from "./Layout/Layout.js";
 import { lazy } from 'react';
+import { useSearchParams } from 'react-router-dom';
 
 const Home = lazy(() => import('../pages/Home/Home.js'));
 
 export const App = () => {
-const [isOpen, setIsOpen] = useState(true);
+  const [searchParams] = useSearchParams();
+  const query = searchParams.get("query");
+const [isOpen, setIsOpen] = useState(query ? false : true);
   
   const openMobileMenu = () => setIsOpen(true);
   const closeMobileMenu = () => setIsOpen(false);

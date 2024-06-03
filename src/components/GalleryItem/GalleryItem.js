@@ -1,22 +1,6 @@
+import { price } from '../../price.js';
+import { Link } from 'react-router-dom';
 import { Item, Watermark, GalleryImgWrapper, GalleryWrapper, Sketch, Text } from "./GalleryItem.styled";
-
-const price = {
-  beads: 17,
-  halfBeads: 10,
-  luxe: 19,
-  shs: 7,
-  tnA2: 340,
-  tnA3: 180,
-  tnA3plus: 220,
-  tnA4: 95,
-  tnA4plus: 100,
-  tnA5: 50,
-  tnP2060: 180,
-  rps: 130,
-  rss: 130,
-  bow: 80,
-  rvm: 150,
-};
 
 const description = {
   tnA2: "(Розмір 40х60 см)",
@@ -33,12 +17,13 @@ const description = {
 };
 
 export const GalleryItem = ({
-  item: { img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch },
+  item: { id, img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch },
 }) => {
   const costBeads = quantityBeads * price.beads + quantityHalfBeads * price.halfBeads + quantityLuxe * price.luxe;
   const costSHS = quantitySHS * price.shs;
   return (
     <Item>
+      <Link to={`/${id}`}>
       <GalleryImgWrapper>
         <img src={`${process.env.PUBLIC_URL}${img}`} alt={article} width="300" height="461" loading="lazy" />
         {sketch && <Sketch src={sketch} alt="sketch" width="60" loading="lazy" />}
@@ -52,6 +37,7 @@ export const GalleryItem = ({
         {costBeads ? <Text>Комплект бісеру (+{costBeads} грн)</Text> : ''}
         {costSHS ? <Text>Комплект ниток СХС (+{costSHS} грн)</Text> : ''}
       </GalleryWrapper>
+      </Link>
     </Item>
   );
 };

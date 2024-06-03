@@ -5,6 +5,7 @@ import { lazy } from 'react';
 import { useSearchParams } from 'react-router-dom';
 
 const Home = lazy(() => import('../pages/Home/Home.js'));
+const ProductDetails = lazy(() => import('../pages/ProductDetails/ProductDetails.js'));
 
 export const App = () => {
   const [searchParams] = useSearchParams();
@@ -20,7 +21,8 @@ const [isOpen, setIsOpen] = useState(query ? false : true);
   return (
     <Routes>
       <Route path="/" element={<Layout onOpenMenu={openMobileMenu}/>}>
-        <Route index element={<Home statusMenu={isOpen} onCloseMenu={ closeMobileMenu}/>} />
+        <Route index element={<Home statusMenu={isOpen} onCloseMenu={closeMobileMenu} />} />
+        <Route path="/:productId" element={ <ProductDetails/>} />
       </Route>
     </Routes>
   );

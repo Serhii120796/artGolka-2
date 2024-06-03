@@ -1,0 +1,17 @@
+export const price = {
+  beads: 17,
+  halfBeads: 10,
+  luxe: 19,
+  shs: 7,
+  tnA2: 340,
+  tnA3: 180,
+  tnA3plus: 220,
+  tnA4: 95,
+  tnA4plus: 100,
+  tnA5: 50,
+  tnP2060: 180,
+  rps: 130,
+  rss: 130,
+  bow: 80,
+  rvm: 150,
+};

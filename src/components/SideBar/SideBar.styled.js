@@ -32,6 +32,7 @@ color: #666666;
 
 &:hover {
   background-color: #e6e6e6;
+  cursor: pointer;
 }
 
 &:focus {

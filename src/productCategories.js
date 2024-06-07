@@ -13,5 +13,6 @@ export const categories = {
     rss: { name: 'Рушники спасівські' },
     bow: { name: 'Банти' },
   rvm: { name: 'Рушники обрядові (малі)' },
-    dor: { name: 'Доріжки' },
+  dor: { name: 'Доріжки' },
+    rvs: { name: 'Рушники ресільні, на ікони' },
   };

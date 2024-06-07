@@ -3804,6 +3804,61 @@
     "quantityLuxe": 0,
      "quantitySHS": 0,
     "date": "2024-05-13"
+  },
+  {
+    "id": "dor001",
+    "img": "/images/catalog/dor/dor001.jpg",
+    "article": "ДОР001",
+    "type": "dor",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-06-07"
+  },
+  {
+    "id": "dor002",
+    "img": "/images/catalog/dor/dor002.jpg",
+    "article": "ДОР002",
+    "type": "dor",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-06-07"
+  },
+  {
+    "id": "dor003",
+    "img": "/images/catalog/dor/dor003.jpg",
+    "article": "ДОР003",
+    "type": "dor",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-06-07"
+  },
+  {
+    "id": "dor004",
+    "img": "/images/catalog/dor/dor004.jpg",
+    "article": "ДОР004",
+    "type": "dor",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-06-07"
+  },
+  {
+    "id": "dor005",
+    "img": "/images/catalog/dor/dor005.jpg",
+    "article": "ДОР005",
+    "type": "dor",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-06-07"
   }
 ]
 

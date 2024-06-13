@@ -3938,6 +3938,17 @@
     "date": "2024-06-07"
   },
   {
+    "id": "dor006",
+    "img": "/images/catalog/dor/dor006.jpg",
+    "article": "ДОР006",
+    "type": "dor",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-06-12"
+  },
+  {
     "id": "rvs001",
     "img": "/images/catalog/rvs/rvs001.jpg",
     "article": "РВС001",

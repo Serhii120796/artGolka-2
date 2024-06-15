@@ -3081,6 +3081,17 @@
     "date": "2024-06-14"
   },
   {
+    "id": "tn2005",
+    "img": "/images/catalog/tn/a2/tn2005.jpg",
+    "article": "ТН2005",
+    "type": "tnA2",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "date": "2024-06-15"
+  },
+  {
     "id": "tnp001",
     "img": "/images/catalog/tn/tapestry/tnp001.jpg",
     "article": "ТНП001",

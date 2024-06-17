@@ -3986,10 +3986,10 @@
     "img": "/images/catalog/rvs/rvs001.jpg",
     "article": "РВС001",
     "type": "rvs",
-    "quantityBeads": 0,
+    "quantityBeads": 33,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 21,
     "date": "2024-06-07"
   },
   {
@@ -3997,10 +3997,10 @@
     "img": "/images/catalog/rvs/rvs002.jpg",
     "article": "РВС002",
     "type": "rvs",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 22,
+    "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 16,
     "date": "2024-06-07"
   },
   {
@@ -4008,10 +4008,10 @@
     "img": "/images/catalog/rvs/rvs004.jpg",
     "article": "РВС004",
     "type": "rvs",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 23,
+    "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 18,
     "date": "2024-06-07"
   },
   {
@@ -4030,10 +4030,10 @@
     "img": "/images/catalog/rvs/rvv001.jpg",
     "article": "РВВ001",
     "type": "rvs",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 36,
+    "quantityHalfBeads": 5,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 28,
      "desc": "(Розмір 200х40 см) Заготовка на габардині",
      "priceItem": 250,
     "date": "2024-06-17"
@@ -4043,10 +4043,10 @@
     "img": "/images/catalog/rvs/rvv002.jpg",
     "article": "РВВ002",
     "type": "rvs",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 11,
+    "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 7,
      "desc": "(Розмір 200х40 см) Заготовка на габардині",
      "priceItem": 250,
     "date": "2024-06-17"

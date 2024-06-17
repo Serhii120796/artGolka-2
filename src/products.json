@@ -4024,6 +4024,32 @@
     "quantityLuxe": 0,
      "quantitySHS": 17,
     "date": "2024-06-14"
+  },
+  {
+    "id": "rvv001",
+    "img": "/images/catalog/rvs/rvv001.jpg",
+    "article": "РВВ001",
+    "type": "rvs",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+     "desc": "(Розмір 200х40 см) Заготовка на габардині",
+     "priceItem": 250,
+    "date": "2024-06-17"
+  },
+  {
+    "id": "rvv002",
+    "img": "/images/catalog/rvs/rvv002.jpg",
+    "article": "РВВ002",
+    "type": "rvs",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+     "desc": "(Розмір 200х40 см) Заготовка на габардині",
+     "priceItem": 250,
+    "date": "2024-06-17"
   }
 ]
 

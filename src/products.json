@@ -3865,10 +3865,10 @@
     "img": "/images/catalog/rvm/rvm001.jpg",
     "article": "РВМ001",
     "type": "rvm",
-    "quantityBeads": 0,
+    "quantityBeads": 7,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 5,
     "date": "2024-01-01"
   },
   {
@@ -3876,10 +3876,10 @@
     "img": "/images/catalog/rvm/rvm002.jpg",
     "article": "РВМ002",
     "type": "rvm",
-    "quantityBeads": 0,
+    "quantityBeads": 11,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 7,
     "date": "2024-01-01"
   },
   {
@@ -3887,10 +3887,10 @@
     "img": "/images/catalog/rvm/rvm003.jpg",
     "article": "РВМ003",
     "type": "rvm",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 15,
+    "quantityHalfBeads": 3,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 16,
     "date": "2024-01-01"
   },
   {
@@ -3898,10 +3898,10 @@
     "img": "/images/catalog/rvm/rvm005.jpg",
     "article": "РВМ005",
     "type": "rvm",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 27,
+    "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 24,
     "date": "2024-01-01"
   },
   {
@@ -3909,10 +3909,10 @@
     "img": "/images/catalog/rvm/rvm006.jpg",
     "article": "РВМ006",
     "type": "rvm",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 7,
+    "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-     "quantitySHS": 0,
+     "quantitySHS": 4,
     "date": "2024-05-13"
   },
   {

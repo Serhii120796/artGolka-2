@@ -3571,7 +3571,7 @@
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
      "quantitySHS": 0,
-    "date": "2024-01-01"
+    "date": "2024-06-23"
   },
   {
     "id": "rps001",
@@ -4265,7 +4265,7 @@
     "quantityHalfBeads": 5,
     "quantityLuxe": 0,
      "quantitySHS": 28,
-     "desc": "(Розмір 200х40 см) Заготовка на габардині",
+     "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-06-17"
   },
@@ -4278,7 +4278,7 @@
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,
      "quantitySHS": 14,
-     "desc": "(Розмір 200х40 см) Заготовка на габардині",
+     "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-06-17"
   }

@@ -17,3 +17,4 @@ export const categories = {
   dor: { name: 'Доріжки' },
   rvs: { name: 'Рушники весільні, на ікони' },
 };
+

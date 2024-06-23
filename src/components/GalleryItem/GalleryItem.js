@@ -20,6 +20,8 @@ const price = {
   rvs: 220,
 };
 
+const printPrice = 'А7 - 20 грн., А6 - 30 грн., А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';
+
 const description = {
   tnA2: "(Розмір 40х60 см)",
   tnA3: "(Розмір 30х40 см)",
@@ -37,7 +39,7 @@ const description = {
 };
 
 export const GalleryItem = ({
-  item: { img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch, desc,  priceItem},
+  item: { img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch, desc, priceItem},
 }) => {
   const costBeads = quantityBeads * price.beads + quantityHalfBeads * price.halfBeads + quantityLuxe * price.luxe;
   const costSHS = quantitySHS * price.shs;
@@ -51,7 +53,8 @@ export const GalleryItem = ({
       <GalleryWrapper>
         <h3>{article}</h3>
         <Text>
-          Ціна {priceItem || price[type]} грн. {desc || description[type]}
+          {type !== 'tnPrint' ? `Ціна ${priceItem || price[type]} грн. ${desc || description[type]}` : printPrice}
+          
         </Text>
         {costBeads ? <Text>Комплект бісеру (+{costBeads} грн)</Text> : ''}
         {costSHS ? <Text>Комплект ниток СХС (+{costSHS} грн)</Text> : ''}

@@ -20,7 +20,7 @@ const price = {
   rvs: 220,
 };
 
-const printPrice = 'А7 - 20 грн., А6 - 30 грн., А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';
+const printPrice = 'А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';
 
 const description = {
   tnA2: {

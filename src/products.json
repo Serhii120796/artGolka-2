@@ -3728,6 +3728,17 @@
     "date": "2024-01-01"
   },
   {
+    "id": "t033",
+    "img": "/images/catalog/tn/print/t033.jpg",
+    "article": "Т033",
+    "type": "tnPrint",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
     "id": "rps001",
     "img": "/images/catalog/rps/rps001.jpg",
     "article": "РПС001",

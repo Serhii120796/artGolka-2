@@ -4323,6 +4323,17 @@
     "date": "2024-05-13"
   },
   {
+    "id": "rvm007",
+    "img": "/images/catalog/rvm/rvm007.jpg",
+    "article": "РВМ007",
+    "type": "rvm",
+    "quantityBeads": 12,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 8,
+    "date": "2024-05-13"
+  },
+  {
     "id": "dor001",
     "img": "/images/catalog/dor/dor001.jpg",
     "article": "ДОР001",

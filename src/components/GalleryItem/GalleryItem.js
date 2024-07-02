@@ -1,4 +1,4 @@
-import { Item, Watermark, GalleryImgWrapper, GalleryWrapper, Sketch, Text } from "./GalleryItem.styled";
+import { Item, GalleryImgWrapper, GalleryWrapper, Sketch, Text } from "./GalleryItem.styled";
 
 const price = {
   beads: 17,
@@ -104,7 +104,6 @@ export const GalleryItem = ({
         <img src={`${process.env.PUBLIC_URL}${img}`} alt={article} width="300" height="461" loading="lazy" />
         {sketch && <Sketch src={`${process.env.PUBLIC_URL}${sketch}`} alt="sketch" width="60" loading="lazy" />}
       </GalleryImgWrapper>
-      <Watermark>ArtGolka</Watermark>
       <GalleryWrapper>
         <h3>{description[type].title } {article}</h3>
         <Text>

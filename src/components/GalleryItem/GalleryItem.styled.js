@@ -1,8 +1,6 @@
 import css from 'styled-components';
 
 export const Item = css.li`
-// Для позиціонування водяного знаку над фото
-position: relative;
   /* Для вирівнювання артикулів товару через різні розміри фото */
   display: flex;
   flex-direction: column;
@@ -24,21 +22,6 @@ position: relative;
 
 }
 `
-
-export const Watermark = css.p`
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-/* text-transform: uppercase; */
-font-family: 'Raleway', sans-serif;
-font-size: 60px;
-font-weight: 400;
-letter-spacing: 0.05;
-color: #372c2c;
-opacity: 0.6;
-`
-
 
 export const GalleryImgWrapper = css.div`
 position: relative;

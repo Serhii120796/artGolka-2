@@ -2829,9 +2829,9 @@
     "img": "/images/catalog/tn/a3/tn3099.jpg",
     "article": "ТН3099",
     "type": "tnA3",
-    "quantityBeads": 21,
+    "quantityBeads": 20,
     "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
+    "quantityLuxe": 1,
     "quantitySHS": 13,
     "date": "2024-02-09"
   },

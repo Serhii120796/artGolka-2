@@ -3941,8 +3941,8 @@
     "img": "/images/catalog/rps/rps002.jpg",
     "article": "РПС002",
     "type": "rps",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 11,
+    "quantityHalfBeads": 3,
     "quantityLuxe": 0,
      "quantitySHS": 8,
     "date": "2024-03-18"
@@ -3963,8 +3963,8 @@
     "img": "/images/catalog/rps/rps004.jpg",
     "article": "РПС004",
     "type": "rps",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
+    "quantityBeads": 17,
+    "quantityHalfBeads": 3,
     "quantityLuxe": 0,
      "quantitySHS": 19,
     "date": "2024-03-18"

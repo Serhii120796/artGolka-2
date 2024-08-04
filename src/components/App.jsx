@@ -26,14 +26,3 @@ const [isOpen, setIsOpen] = useState(query ? false : true);
   );
 };
 
-// {
-//     "id": "tn4117",
-//     "img": "/images/catalog/tn/a4/tn4117.jpg",
-//     "article": "ТН4117",
-//     "type": "tnA4",
-//     "quantityBeads": 11,
-//     "quantityHalfBeads": 1,
-//     "quantityLuxe": 0,
-//     "quantitySHS": 11,
-//     "date": "2024-03-05"
-//   },

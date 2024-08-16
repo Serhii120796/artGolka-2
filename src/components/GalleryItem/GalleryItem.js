@@ -17,7 +17,7 @@ const price = {
   bow: 80,
   rvm: 150,
   dor: 130,
-  rvs: 220,
+  rvs: 225,
 };
 
 const printPrice = 'А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';

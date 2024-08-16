@@ -47,10 +47,6 @@ display: none;
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: var(--primary-text-color-theme-light);
-
-    span {
-    color: var(--logo-color);
-    }
   }
 `;
 

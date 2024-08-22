@@ -1408,9 +1408,9 @@
     "article": "ТН4114",
     "type": "tnA4",
     "quantityBeads": 9,
-    "quantityHalfBeads": 1,
+    "quantityHalfBeads": 2,
     "quantityLuxe": 0,
-    "quantitySHS": 8,
+    "quantitySHS": 9,
     "date": "2024-02-09"
   },
   {
@@ -4139,6 +4139,17 @@
     "id": "t045",
     "img": "/images/catalog/tn/print/t045.jpg",
     "article": "Т045",
+    "type": "tnPrint",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
+    "id": "t046",
+    "img": "/images/catalog/tn/print/t046.jpg",
+    "article": "Т046",
     "type": "tnPrint",
     "quantityBeads": 0,
     "quantityHalfBeads": 0,

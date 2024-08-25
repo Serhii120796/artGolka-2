@@ -4808,6 +4808,17 @@
     "date": "2024-05-13"
   },
   {
+    "id": "rvm008",
+    "img": "/images/catalog/rvm/rvm008.jpg",
+    "article": "РВМ008",
+    "type": "rvm",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 15,
+    "date": "2024-08-25"
+  },
+  {
     "id": "dor001",
     "img": "/images/catalog/dor/dor001.jpg",
     "article": "ДОР001",
@@ -4942,6 +4953,19 @@
      "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-06-17"
+  }
+  {
+    "id": "rvv004",
+    "img": "/images/catalog/rvs/rvv004.jpg",
+    "article": "РВВ004",
+    "type": "rvs",
+    "quantityBeads": 26,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 21,
+     "desc": "(Розмір 200х40 см)",
+     "priceItem": 250,
+    "date": "2024-08-25"
   }
 ]
 

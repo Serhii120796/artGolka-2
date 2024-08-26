@@ -4753,17 +4753,6 @@
     "date": "2024-01-01"
   },
   {
-    "id": "rvm002",
-    "img": "/images/catalog/rvm/rvm002.jpg",
-    "article": "РВМ002",
-    "type": "rvm",
-    "quantityBeads": 11,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-     "quantitySHS": 7,
-    "date": "2024-01-01"
-  },
-  {
     "id": "rvm003",
     "img": "/images/catalog/rvm/rvm003.jpg",
     "article": "РВМ003",

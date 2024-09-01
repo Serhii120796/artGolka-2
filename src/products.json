@@ -5021,6 +5021,34 @@
      "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-08-25"
+  },
+  {
+    "id": "sample001",
+    "img": "/images/catalog/samples/sample001.jpg",
+    "article": "Зразок001",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample002",
+    "img": "/images/catalog/samples/sample002.jpg",
+    "article": "Зразок002",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample003",
+    "img": "/images/catalog/samples/sample003.jpg",
+    "article": "Зразок003",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample004",
+    "img": "/images/catalog/samples/sample004.jpg",
+    "article": "Зразок004",
+    "type": "sample",
+    "date": "2024-01-01"
   }
 ]
 

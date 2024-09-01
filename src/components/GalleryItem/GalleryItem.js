@@ -104,7 +104,7 @@ export const GalleryItem = ({
         <img src={`${process.env.PUBLIC_URL}${img}`} alt={article} width="300" height="461" loading="lazy" />
         {sketch && <Sketch src={`${process.env.PUBLIC_URL}${sketch}`} alt="sketch" width="60" loading="lazy" />}
       </GalleryImgWrapper>
-      <GalleryWrapper>
+      {type !== 'sample' && <GalleryWrapper>
         <h3>{description[type].title } {article}</h3>
         <Text>
           {description[type].desc}
@@ -114,7 +114,7 @@ export const GalleryItem = ({
         </Text>
         {costBeads ? <Text>Комплект бісеру (+{costBeads} грн)</Text> : ''}
         {costSHS ? <Text>Комплект ниток СХС (+{costSHS} грн)</Text> : ''}
-      </GalleryWrapper>
+      </GalleryWrapper>}
     </Item>
   );
 };

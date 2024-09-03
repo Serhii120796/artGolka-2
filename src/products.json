@@ -4202,6 +4202,17 @@
     "date": "2024-01-01"
   },
   {
+    "id": "t049",
+    "img": "/images/catalog/tn/print/t049.jpg",
+    "article": "Т049",
+    "type": "tnPrint",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
     "id": "rps001",
     "img": "/images/catalog/rps/rps001.jpg",
     "article": "РПС001",

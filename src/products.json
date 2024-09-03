@@ -4624,9 +4624,9 @@
     "img": "/images/catalog/rss/rss006.jpg",
     "article": "РСС006",
     "type": "rss",
-    "quantityBeads": 21,
+    "quantityBeads": 20,
     "quantityHalfBeads": 4,
-    "quantityLuxe": 0,
+    "quantityLuxe": 1,
      "quantitySHS": 25,
     "date": "2024-05-16"
   },

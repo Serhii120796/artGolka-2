@@ -1,9 +1,9 @@
 import { Item, GalleryImgWrapper, GalleryWrapper, Sketch, Text } from "./GalleryItem.styled";
 
 const price = {
-  beads: 17,
+  beads: 18,
   halfBeads: 10,
-  luxe: 19,
+  luxe: 20,
   shs: 7,
   tnA2: 340,
   tnA3: 180,

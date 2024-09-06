@@ -5082,6 +5082,13 @@
     "article": "Зразок004",
     "type": "sample",
     "date": "2024-01-01"
+  },
+  {
+    "id": "sample005",
+    "img": "/images/catalog/samples/sample005.jpg",
+    "article": "Зразок005",
+    "type": "sample",
+    "date": "2024-01-01"
   }
 ]
 

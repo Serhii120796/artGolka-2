@@ -3689,6 +3689,17 @@
     "img": "/images/catalog/tn/tapestry/tnp023.jpg",
     "article": "ТНП023",
     "type": "tnP2060",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 8,
+    "date": "2024-05-19"
+  },
+  {
+    "id": "tnp024",
+    "img": "/images/catalog/tn/tapestry/tnp024.jpg",
+    "article": "ТНП024",
+    "type": "tnP2060",
     "quantityBeads": 14,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,

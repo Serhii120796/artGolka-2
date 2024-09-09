@@ -5122,6 +5122,76 @@
     "article": "Зразок005",
     "type": "sample",
     "date": "2024-01-01"
+  },
+  {
+    "id": "sample006",
+    "img": "/images/catalog/samples/sample006.jpg",
+    "article": "Зразок006",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample007",
+    "img": "/images/catalog/samples/sample007.jpg",
+    "article": "Зразок007",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample008",
+    "img": "/images/catalog/samples/sample008.jpg",
+    "article": "Зразок008",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample009",
+    "img": "/images/catalog/samples/sample009.jpg",
+    "article": "Зразок009",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample010",
+    "img": "/images/catalog/samples/sample010.jpg",
+    "article": "Зразок010",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample011",
+    "img": "/images/catalog/samples/sample011.jpg",
+    "article": "Зразок011",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample012",
+    "img": "/images/catalog/samples/sample012.jpg",
+    "article": "Зразок012",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample013",
+    "img": "/images/catalog/samples/sample013.jpg",
+    "article": "Зразок013",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample014",
+    "img": "/images/catalog/samples/sample014.jpg",
+    "article": "Зразок014",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample015",
+    "img": "/images/catalog/samples/sample015.jpg",
+    "article": "Зразок015",
+    "type": "sample",
+    "date": "2024-01-01"
   }
 ]
 

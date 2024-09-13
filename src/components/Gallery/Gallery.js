@@ -12,7 +12,7 @@ export const Gallery = ({statusMenu, onCloseMenu}) => {
   const query = searchParams.get("query");
   
   if (query !== filter) {
-    setFilter(query ? query : null);
+    setFilter(query);
       }
 
   // Переробити алгоритм роботи фільтрів

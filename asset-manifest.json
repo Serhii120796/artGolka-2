@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/artGolka-2/static/css/main.ccfa9e00.css",
-    "main.js": "/artGolka-2/static/js/main.db110fc7.js",
-    "static/js/69.8cb2c65b.chunk.js": "/artGolka-2/static/js/69.8cb2c65b.chunk.js",
+    "main.js": "/artGolka-2/static/js/main.a358d40e.js",
+    "static/js/69.60146792.chunk.js": "/artGolka-2/static/js/69.60146792.chunk.js",
     "index.html": "/artGolka-2/index.html",
     "main.ccfa9e00.css.map": "/artGolka-2/static/css/main.ccfa9e00.css.map",
-    "main.db110fc7.js.map": "/artGolka-2/static/js/main.db110fc7.js.map",
-    "69.8cb2c65b.chunk.js.map": "/artGolka-2/static/js/69.8cb2c65b.chunk.js.map"
+    "main.a358d40e.js.map": "/artGolka-2/static/js/main.a358d40e.js.map",
+    "69.60146792.chunk.js.map": "/artGolka-2/static/js/69.60146792.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfa9e00.css",
-    "static/js/main.db110fc7.js"
+    "static/js/main.a358d40e.js"
   ]
 }

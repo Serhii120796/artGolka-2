@@ -15,12 +15,9 @@ export const Gallery = ({statusMenu, onCloseMenu}) => {
     setFilter(query);
       }
 
-  // Переробити алгоритм роботи фільтрів
-
-  const changeFilter = data => {
+   const changeFilter = data => {
     setSearchParams({ query: data });
   };
-
 
   let currentGalleryList = [...products].sort(
     (a, b) => new Date(b.date) - new Date(a.date)
@@ -30,15 +27,11 @@ export const Gallery = ({statusMenu, onCloseMenu}) => {
     currentGalleryList = currentGalleryList.filter(({ type }) =>
       type.includes(filter)
     );
-  }
-
-  if (filter && filter !== 'tn') {
+  } else if (filter) {
     currentGalleryList = products
-      .filter(({ type }) => type.includes(filter))
+      .filter(({ type }) => type === filter)
       .reverse();
   }
-
-  // Переробити алгоритм роботи фільтрів
 
   return (<>
     <MobileMenu abc={changeFilter} onCloseMenu={onCloseMenu} statusMenu={ statusMenu} />

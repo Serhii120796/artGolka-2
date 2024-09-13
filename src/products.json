@@ -657,10 +657,10 @@
     "date": "2023-01-01"
   },
   {
-    "id": "tn4049+",
-    "img": "/images/catalog/tn/a4/tn4049plus.jpg",
-    "article": "ТН4049+",
-    "type": "tnA4plus",
+    "id": "tn4049",
+    "img": "/images/catalog/tn/a4/tn4049.jpg",
+    "article": "ТН4049",
+    "type": "tnA4",
     "quantityBeads": 8,
     "quantityHalfBeads": 0,
     "quantityLuxe": 0,

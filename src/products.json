@@ -4323,6 +4323,39 @@
     "date": "2024-01-01"
   },
   {
+    "id": "t053",
+    "img": "/images/catalog/tn/print/t053.jpg",
+    "article": "Т053",
+    "type": "tnPrint",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
+    "id": "t054",
+    "img": "/images/catalog/tn/print/t054.jpg",
+    "article": "Т054",
+    "type": "tnPrint",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
+    "id": "t055",
+    "img": "/images/catalog/tn/print/t055.jpg",
+    "article": "Т055",
+    "type": "tnPrint",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
     "id": "rps001",
     "img": "/images/catalog/rps/rps001.jpg",
     "article": "РПС001",

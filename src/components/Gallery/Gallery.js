@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { GalleryItem } from '../GalleryItem/GalleryItem';
 import { Sidebar } from '../SideBar/SideBar';
 import { MobileMenu } from '../MobileMenu/MobileMenu.js';
@@ -7,13 +6,8 @@ import { Container, GalleryList } from './Gallery.styled';
 import { useSearchParams } from 'react-router-dom';
 
 export const Gallery = ({statusMenu, onCloseMenu}) => {
-  const [filter, setFilter] = useState(null);
   const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get("query");
-  
-  if (query !== filter) {
-    setFilter(query);
-      }
 
    const changeFilter = data => {
     setSearchParams({ query: data });
@@ -23,13 +17,13 @@ export const Gallery = ({statusMenu, onCloseMenu}) => {
     (a, b) => new Date(b.date) - new Date(a.date)
   );
 
-  if (filter === 'tn') {
+  if (query === 'tn') {
     currentGalleryList = currentGalleryList.filter(({ type }) =>
-      type.includes(filter)
+      type.includes(query)
     );
-  } else if (filter) {
+  } else if (query) {
     currentGalleryList = products
-      .filter(({ type }) => type === filter)
+      .filter(({ type }) => type === query)
       .reverse();
   }
 

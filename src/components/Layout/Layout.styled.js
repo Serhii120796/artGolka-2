@@ -62,15 +62,16 @@ fill: black;
 `;
 
 export const Contact = css.p`
-font-size: 16px;
-text-align: right;
-background: linear-gradient(45deg, red, blue, green);
-background-clip: text;
--webkit-background-clip: text;
-color: transparent;
-
-@media (min-width: 768px) {
-    // padding-top: 20px;
-    font-size: 20px;
+@media (max-width: 768px) {
+  display: none;
+  }
+  
+  @media (min-width: 768px) {
+    font-size: 16px;
+  text-align: right;
+  background: linear-gradient(45deg, red, blue, green);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 `;

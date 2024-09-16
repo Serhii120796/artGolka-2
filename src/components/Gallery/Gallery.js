@@ -8,6 +8,7 @@ import { useSearchParams } from 'react-router-dom';
 export const Gallery = ({statusMenu, onCloseMenu}) => {
   const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get("query");
+  const productName = searchParams.get("article");
 
    const changeFilter = data => {
     setSearchParams({ query: data });
@@ -25,7 +26,13 @@ export const Gallery = ({statusMenu, onCloseMenu}) => {
     currentGalleryList = products
       .filter(({ type }) => type === query)
       .reverse();
-  }
+  };
+
+  if (productName) {
+    currentGalleryList = currentGalleryList.filter(({ article }) =>
+      article.toLowerCase().includes(productName.replace(/\s+/g, '').toLowerCase())
+    );
+  };
 
   return (<>
     <MobileMenu abc={changeFilter} onCloseMenu={onCloseMenu} statusMenu={ statusMenu} />

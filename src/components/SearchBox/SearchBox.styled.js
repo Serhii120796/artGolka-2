@@ -1,5 +1,6 @@
 import css from "styled-components";
 import { HiSearch } from "react-icons/hi";
+import { VscClose } from "react-icons/vsc";
 
 export const Wrapper = css.div`
   display: inline-flex;
@@ -20,10 +21,23 @@ export const Input = css.input`
   font: inherit;
 `;
 
-export const Icon = css(HiSearch)`
+export const IconSearch = css(HiSearch)`
 display: block;
   width: 20px;
   height: 20px;
   position: absolute;
   right: 6px;
+`;
+
+export const IconClose = css(VscClose)`
+display: block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 6px;
+  transition: scale var(--standart-transition);
+
+  &:hover {
+  scale: 1.3;
+  }
 `;

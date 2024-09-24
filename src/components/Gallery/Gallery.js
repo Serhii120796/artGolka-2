@@ -4,13 +4,15 @@ import { MobileMenu } from '../MobileMenu/MobileMenu.js';
 import products from '../../products.json';
 import { Container, GalleryList } from './Gallery.styled';
 import { useSearchParams } from 'react-router-dom';
+import { useEffect, useRef } from 'react';
 
-export const Gallery = ({statusMenu, onCloseMenu}) => {
+export const Gallery = ({ statusMenu, onCloseMenu }) => {
   const [searchParams, setSearchParams] = useSearchParams();
-  const query = searchParams.get("query");
-  const productName = searchParams.get("article");
+  const query = searchParams.get('query');
+  const productName = searchParams.get('article');
+  const galleryRef = useRef(null);
 
-   const changeFilter = data => {
+  const changeFilter = data => {
     setSearchParams({ query: data });
   };
 
@@ -26,26 +28,46 @@ export const Gallery = ({statusMenu, onCloseMenu}) => {
     currentGalleryList = products
       .filter(({ type }) => type === query)
       .reverse();
-  };
+  }
 
+  // Фільтрація галереї за пошуковим запитом
   if (productName) {
     currentGalleryList = currentGalleryList.filter(({ article }) =>
-      article.toLowerCase().includes(productName.replace(/\s+/g, '').toLowerCase())
+      article
+        .toLowerCase()
+        .includes(productName.replace(/\s+/g, '').toLowerCase())
     );
-  };
+  }
+  // Фільтрація галереї за пошуковим запитом
 
-  return (<>
-    <MobileMenu abc={changeFilter} onCloseMenu={onCloseMenu} statusMenu={ statusMenu} />
-    <section>
-      <Container>
-        <Sidebar abc={changeFilter} />
-        <GalleryList>
-          {currentGalleryList.map(product => (
-            <GalleryItem key={product.id} item={product} />
-          ))}
-        </GalleryList>
-      </Container>
-    </section>
+  // Прогортання галереї вверх при зміні фільтра
+  useEffect(() => {
+    const galleryPosition =
+      galleryRef.current.getBoundingClientRect().top + window.scrollY;
+    window.scrollTo({
+      top: galleryPosition,
+      behavior: 'smooth',
+    });
+  }, [query]);
+  // Прогортання галереї вверх при зміні фільтра
+
+  return (
+    <>
+      <MobileMenu
+        abc={changeFilter}
+        onCloseMenu={onCloseMenu}
+        statusMenu={statusMenu}
+      />
+      <section>
+        <Container>
+          <Sidebar abc={changeFilter} />
+          <GalleryList ref={galleryRef}>
+            {currentGalleryList.map(product => (
+              <GalleryItem key={product.id} item={product} />
+            ))}
+          </GalleryList>
+        </Container>
+      </section>
     </>
   );
 };

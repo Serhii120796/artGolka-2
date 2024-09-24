@@ -46,7 +46,6 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
       galleryRef.current.getBoundingClientRect().top + window.scrollY;
     window.scrollTo({
       top: galleryPosition,
-      behavior: 'smooth',
     });
   }, [query]);
   // Прогортання галереї вверх при зміні фільтра

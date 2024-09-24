@@ -17,6 +17,7 @@ const price = {
   rvm: 150,
   dor: 130,
   rvs: 225,
+  svb: 65,
 };
 
 const printPrice = 'А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';
@@ -85,10 +86,15 @@ const description = {
     desc: '(заготовка на габардині)',
     size: '(Розмір 200х33 см)',
   },
+  svb: {
+    title: 'Схема',
+    desc: '(заготовка на габардині)',
+    size: '(Розмір 20х26 см)',
+  },
 };
 
 export const GalleryItem = ({
-  item: { img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch, desc, priceItem},
+  item: { img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch, desc, priceItem, title},
 }) => {
   const costBeads = quantityBeads * price.beads + quantityHalfBeads * price.halfBeads + quantityLuxe * price.luxe;
   const costSHS = quantitySHS * price.shs;
@@ -99,7 +105,7 @@ export const GalleryItem = ({
         {sketch && <Sketch src={`${process.env.PUBLIC_URL}${sketch}`} alt="sketch" width="60" loading="lazy" />}
       </GalleryImgWrapper>
       {type !== 'sample' && <GalleryWrapper>
-        <h3>{description[type].title } {article}</h3>
+        <h3>{title ? title : description[type].title } {article}</h3>
         <Text>
           {description[type].desc}
         </Text>

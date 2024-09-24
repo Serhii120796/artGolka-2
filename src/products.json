@@ -5254,6 +5254,44 @@
     "date": "2024-08-25"
   },
   {
+    "id": "a3r004",
+    "img": "/images/catalog/svb/a3r004.jpg",
+    "article": "А3Р004",
+    "type": "svb",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 1,
+    "quantitySHS": 8,
+    "desc": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Мадонна",
+    "date": "2024-09-24"
+  },
+  {
+    "id": "a4r001",
+    "img": "/images/catalog/svb/a4r001.jpg",
+    "article": "А4Р001",
+    "type": "svb",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 8,
+    "quantitySHS": 14,
+    "title": "МБ Казанська",
+    "date": "2024-09-24"
+  },
+{
+    "id": "a4r002",
+    "img": "/images/catalog/svb/a4r002.jpg",
+    "article": "А4Р002",
+    "type": "svb",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 6,
+    "quantitySHS": 14,
+    "title": "Вседержитель",
+    "date": "2024-09-24"
+  },
+  {
     "id": "sample001",
     "img": "/images/catalog/samples/sample001.jpg",
     "article": "Зразок001",

@@ -1,14 +1,31 @@
 import { Menu, CloseButton, Icon, Text, Button } from './MobileMenu.styled';
 import { categories } from '../../productCategories.js';
+import { useEffect, useRef  } from 'react';
 
 export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
+  const windowRef = useRef(null);
+
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (windowRef.current && !windowRef.current.contains(event.target) && statusMenu) {
+        onCloseMenu();
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [windowRef, onCloseMenu, statusMenu]);
+
   const handleClick = buttonType => {
     abc(buttonType);
     onCloseMenu();
   };
 
   return (
-    <Menu $status={statusMenu}>
+    <Menu $status={statusMenu} ref={windowRef}>
       <CloseButton type="button" onClick={onCloseMenu}>
         <Icon width="24" height="24">
           <use href={`${process.env.PUBLIC_URL}/images/icons.svg#icon-close`}></use>

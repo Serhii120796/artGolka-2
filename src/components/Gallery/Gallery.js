@@ -42,12 +42,12 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
 
   // Прогортання галереї вверх при зміні фільтра
   useEffect(() => {
-    const galleryPosition =
-      galleryRef.current.getBoundingClientRect().top + window.scrollY;
-    window.scrollTo({
-      top: galleryPosition,
-    });
-  }, [query]);
+  const headerHeight = document.querySelector('header').offsetHeight; // Заміна 'header' на ваш селектор
+  const galleryPosition = galleryRef.current.getBoundingClientRect().top + window.scrollY - headerHeight;
+  window.scrollTo({
+    top: galleryPosition,
+  });
+}, [query]);
   // Прогортання галереї вверх при зміні фільтра
 
   return (

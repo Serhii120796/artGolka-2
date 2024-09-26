@@ -5382,9 +5382,9 @@
     "img": "/images/catalog/svb/a4r001.jpg",
     "article": "А4Р001",
     "type": "svb",
-    "quantityBeads": 11,
+    "quantityBeads": 9,
     "quantityHalfBeads": 0,
-    "quantityLuxe": 8,
+    "quantityLuxe": 10,
     "quantitySHS": 14,
     "title": "МБ Казанська",
     "date": "2024-09-24"
@@ -5394,12 +5394,24 @@
     "img": "/images/catalog/svb/a4r002.jpg",
     "article": "А4Р002",
     "type": "svb",
-    "quantityBeads": 10,
+    "quantityBeads": 8,
     "quantityHalfBeads": 2,
-    "quantityLuxe": 6,
+    "quantityLuxe": 8,
     "quantitySHS": 14,
     "title": "Вседержитель",
     "date": "2024-09-24"
+  },
+  {
+    "id": "a4r003",
+    "img": "/images/catalog/svb/a4r003.jpg",
+    "article": "А4Р003",
+    "type": "svb",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 10,
+    "quantitySHS": 15,
+    "title": "МБ Семистрільна",
+    "date": "2024-09-26"
   },
   {
     "id": "sample001",

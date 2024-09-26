@@ -19,19 +19,27 @@ export const Item = css.li`
 
   @media (min-width: 1260px) {
   width: calc((100% - 3 * 10px) / 4);
-
 }
-`
+`;
 
 export const GalleryImgWrapper = css.div`
 position: relative;
-`
-    
+`;
+
+export const Image = css.img`
+@media screen and (max-width: 768px) {
+  ${({ $fullscreen }) =>
+    $fullscreen
+      ? 'position: fixed; height: 100vh; width: auto; z-index: 2; top: 0; left: 50%; transform: translateX(-50%);'
+      : 'position: absolut'}
+}
+`;
+
 export const GalleryWrapper = css.div`
   padding: 10px;
   text-align: center;
-`
-    
+`;
+
 export const Sketch = css.img`
 position: absolute;
   bottom: 0%;
@@ -43,10 +51,8 @@ position: absolute;
     /* transform: scale(5); */
     width: 300px;
   }
-`
+`;
 
 export const Text = css.p`
 font-size: 15px;
 `;
-
-

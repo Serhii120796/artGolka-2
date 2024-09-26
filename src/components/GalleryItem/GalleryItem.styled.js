@@ -30,7 +30,7 @@ export const Image = css.img`
 @media screen and (max-width: 768px) {
   ${({ $fullscreen }) =>
     $fullscreen
-      ? 'position: fixed; height: auto; width: 100vw;; z-index: 2; top: 0; left: 50%; transform: translateX(-50%);'
+      ? 'position: fixed; height: auto; width: 100vw;; z-index: 2; top: 50%; left: 50%; transform: translate(-5%0, -50%);'
       : 'position: absolut'}
 }
 `;

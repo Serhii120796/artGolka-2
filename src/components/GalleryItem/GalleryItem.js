@@ -108,7 +108,6 @@ export const GalleryItem = ({
 
   const costBeads = quantityBeads * price.beads + quantityHalfBeads * price.halfBeads + quantityLuxe * price.luxe;
   const costSHS = quantitySHS * price.shs;
-  console.log(fullscreen);
 
   return (
     <Item>

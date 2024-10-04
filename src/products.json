@@ -3773,6 +3773,17 @@
     "date": "2024-09-08"
   },
   {
+    "id": "tnp025",
+    "img": "/images/catalog/tn/tapestry/tnp025.jpg",
+    "article": "ТНП025",
+    "type": "tnP2060",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 6,
+    "date": "2024-10-04"
+  },
+  {
     "id": "t001",
     "img": "/images/catalog/tn/print/t001.jpg",
     "article": "Т001",
@@ -5450,6 +5461,20 @@
      "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-08-25"
+  },
+  {
+    "id": "a3r003",
+    "img": "/images/catalog/svb/a3r003.jpg",
+    "article": "А3Р003",
+    "type": "svb",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 8,
+    "desc": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Мадонна",
+    "date": "2024-10-04"
   },
   {
     "id": "a3r004",

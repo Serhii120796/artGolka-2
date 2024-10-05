@@ -3437,9 +3437,9 @@
     "img": "/images/catalog/tn/a3/tn3140.jpg",
     "article": "ТН3140",
     "type": "tnA3",
-    "quantityBeads": 22,
+    "quantityBeads": 21,
     "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
+    "quantityLuxe": 1,
     "quantitySHS": 17,
     "date": "2024-09-12"
   },

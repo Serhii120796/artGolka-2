@@ -1,5 +1,4 @@
-import { Item, GalleryImgWrapper, Image, GalleryWrapper, Sketch, Text } from "./GalleryItem.styled";
-import { useState } from 'react';
+import { Item, GalleryImgWrapper, GalleryWrapper, Sketch, Text } from "./GalleryItem.styled";
 
 const price = {
   beads: 18,
@@ -103,8 +102,6 @@ const description = {
 export const GalleryItem = ({
   item: { img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch, desc, priceItem, title},
 }) => {
-  const [fullscreen, setFullscreen] = useState(false);
-  const clickToggle = () => setFullscreen(!fullscreen);
 
   const costBeads = quantityBeads * price.beads + quantityHalfBeads * price.halfBeads + quantityLuxe * price.luxe;
   const costSHS = quantitySHS * price.shs;
@@ -112,7 +109,7 @@ export const GalleryItem = ({
   return (
     <Item>
       <GalleryImgWrapper>
-        <Image onClick={clickToggle} $fullscreen={fullscreen} src={`${process.env.PUBLIC_URL}${img}`} alt={article} width="300" height="461" loading="lazy" />
+        <img src={`${process.env.PUBLIC_URL}${img}`} alt={article} width="300" height="461" loading="lazy" />
         {sketch && <Sketch src={`${process.env.PUBLIC_URL}${sketch}`} alt="sketch" width="60" loading="lazy" />}
       </GalleryImgWrapper>
       {type !== 'sample' && <GalleryWrapper>

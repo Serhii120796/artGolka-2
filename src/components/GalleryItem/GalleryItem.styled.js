@@ -26,15 +26,6 @@ export const GalleryImgWrapper = css.div`
 position: relative;
 `;
 
-export const Image = css.img`
-@media screen and (max-width: 768px) {
-  ${({ $fullscreen }) =>
-    $fullscreen
-      ? 'position: fixed; height: auto; width: 100vw;; z-index: 2; top: 50%; left: 50%; transform: translate(-50%, -50%);'
-      : 'position: absolut'}
-}
-`;
-
 export const GalleryWrapper = css.div`
   padding: 10px;
   text-align: center;

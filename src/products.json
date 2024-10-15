@@ -5617,6 +5617,20 @@
     "date": "2024-08-25"
   },
   {
+    "id": "a3r002",
+    "img": "/images/catalog/svb/a3r002.jpg",
+    "article": "А3Р002",
+    "type": "svb",
+    "quantityBeads": 8,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 6,
+    "desc": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Мадонна",
+    "date": "2024-10-04"
+  },
+  {
     "id": "a3r003",
     "img": "/images/catalog/svb/a3r003.jpg",
     "article": "А3Р003",
@@ -5639,6 +5653,20 @@
     "quantityHalfBeads": 0,
     "quantityLuxe": 1,
     "quantitySHS": 8,
+    "desc": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Мадонна",
+    "date": "2024-09-24"
+  },
+  {
+    "id": "a3r005",
+    "img": "/images/catalog/svb/a3r005.jpg",
+    "article": "А3Р005",
+    "type": "svb",
+    "quantityBeads": 8,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 6,
     "desc": "(Розмір А3)",
     "priceItem": 120,
     "title": "Мадонна",

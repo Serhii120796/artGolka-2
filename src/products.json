@@ -5784,6 +5784,20 @@
     "article": "Зразок015",
     "type": "sample",
     "date": "2024-01-01"
+  },
+  {
+    "id": "sample016",
+    "img": "/images/catalog/samples/sample016.jpg",
+    "article": "Зразок016",
+    "type": "sample",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "sample017",
+    "img": "/images/catalog/samples/sample017.jpg",
+    "article": "Зразок017",
+    "type": "sample",
+    "date": "2024-01-01"
   }
 ]
 

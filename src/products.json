@@ -5797,6 +5797,18 @@
     "date": "2024-09-26"
   },
   {
+    "id": "a4004",
+    "img": "/images/catalog/svb/a4004.jpg",
+    "article": "А4004",
+    "type": "svb",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 9,
+    "title": "Лисеня",
+    "date": "2024-10-20"
+  },
+  {
     "id": "sample001",
     "img": "/images/catalog/samples/sample001.jpg",
     "article": "Зразок001",

@@ -6246,6 +6246,14 @@
     "type": "sample",
     "date": "2024-01-01"
   }
+  ,
+  {
+    "id": "sample018",
+    "img": "/images/catalog/samples/sample018.jpg",
+    "article": "Зразок018",
+    "type": "sample",
+    "date": "2024-01-01"
+  }
 ]
 
 

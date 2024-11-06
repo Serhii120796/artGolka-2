@@ -5598,6 +5598,17 @@
      "quantitySHS": 18,
     "date": "2024-07-02"
   },
+  {
+    "id": "rss009",
+    "img": "/images/catalog/rss/rss009.jpg",
+    "article": "РСС009",
+    "type": "rss",
+    "quantityBeads": 24,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 22,
+    "date": "2024-11-06"
+  },
    {
     "id": "bow002",
     "img": "/images/catalog/bow/bow002.jpg",
@@ -6022,6 +6033,18 @@
      "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-08-25"
+  },{
+    "id": "rvv005",
+    "img": "/images/catalog/rvs/rvv005.jpg",
+    "article": "РВВ005",
+    "type": "rvs",
+    "quantityBeads": 31,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+     "quantitySHS": 25,
+     "desc": "(Розмір 200х40 см)",
+     "priceItem": 250,
+    "date": "2024-11-06"
   },
   {
     "id": "a3r002",
@@ -6114,6 +6137,30 @@
     "quantitySHS": 15,
     "title": "МБ Семистрільна",
     "date": "2024-09-26"
+  },
+  {
+    "id": "a4r004",
+    "img": "/images/catalog/svb/a4r004.jpg",
+    "article": "А4Р004",
+    "type": "svb",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "title": "МБ Казанська",
+    "date": "2024-11-06"
+  },
+  {
+    "id": "a4r005",
+    "img": "/images/catalog/svb/a4r005.jpg",
+    "article": "А4Р005",
+    "type": "svb",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "title": "Вседержитель",
+    "date": "2024-11-06"
   },
   {
     "id": "a4004",

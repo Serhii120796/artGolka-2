@@ -1999,6 +1999,17 @@
     "date": "2024-10-27"
   },
   {
+    "id": "tn4169",
+    "img": "/images/catalog/tn/a4/tn4169.jpg",
+    "article": "ТН4169",
+    "type": "tnA4",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 7,
+    "date": "2024-11-07"
+  },
+  {
     "id": "tn3001m",
     "img": "/images/catalog/tn/a3/tn3001m.jpg",
     "article": "ТН3001",
@@ -5820,6 +5831,17 @@
     "date": "2024-08-25"
   },
   {
+    "id": "rvm009",
+    "img": "/images/catalog/rvm/rvm009.jpg",
+    "article": "РВМ009",
+    "type": "rvm",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 8,
+    "date": "2024-11-07"
+  },
+  {
     "id": "dor001",
     "img": "/images/catalog/dor/dor001.jpg",
     "article": "ДОР001",
@@ -6163,6 +6185,18 @@
     "date": "2024-11-06"
   },
   {
+    "id": "a4003",
+    "img": "/images/catalog/svb/a4003.jpg",
+    "article": "А4003",
+    "type": "svb",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 8,
+    "quantityLuxe": 0,
+    "quantitySHS": 26,
+    "title": "Лісова красуня",
+    "date": "2024-11-07"
+  },
+  {
     "id": "a4004",
     "img": "/images/catalog/svb/a4004.jpg",
     "article": "А4004",
@@ -6172,6 +6206,18 @@
     "quantityLuxe": 0,
     "quantitySHS": 9,
     "title": "Лисеня",
+    "date": "2024-10-20"
+  },
+  {
+    "id": "a4006",
+    "img": "/images/catalog/svb/a4006.jpg",
+    "article": "А4006",
+    "type": "svb",
+    "quantityBeads": 20,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 18,
+    "title": "Брюнетка",
     "date": "2024-10-20"
   },
   {

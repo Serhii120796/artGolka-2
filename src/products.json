@@ -123,6 +123,17 @@
     "date": "2023-12-27"
   },
   {
+    "id": "tn5012",
+    "img": "/images/catalog/tn/a5/tn5012.jpg",
+    "article": "ТН5012",
+    "type": "tnA5",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "date": "2024-11-16"
+  },
+  {
     "id": "tn4001",
     "img": "/images/catalog/tn/a4/tn4001.JPG",
     "article": "ТН4001",
@@ -2030,6 +2041,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 12,
     "date": "2024-11-10"
+  },
+  {
+    "id": "tn4172",
+    "img": "/images/catalog/tn/a4/tn4172.jpg",
+    "article": "ТН4172",
+    "type": "tnA4",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 16,
+    "date": "2024-11-16"
   },
   {
     "id": "tn3001m",
@@ -6227,6 +6249,18 @@
     "quantitySHS": 13,
     "title": "Вседержитель",
     "date": "2024-11-06"
+  },
+  {
+    "id": "a4r006",
+    "img": "/images/catalog/svb/a4r006.jpg",
+    "article": "А4Р006",
+    "type": "svb",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "title": "Микола Чудотворець",
+    "date": "2024-11-16"
   },
   {
     "id": "a4003",

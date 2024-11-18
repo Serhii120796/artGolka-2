@@ -5929,6 +5929,17 @@
     "date": "2024-11-07"
   },
   {
+    "id": "rvm010",
+    "img": "/images/catalog/rvm/rvm010.jpg",
+    "article": "РВМ010",
+    "type": "rvm",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 11,
+    "date": "2024-11-18"
+  },
+  {
     "id": "dor001",
     "img": "/images/catalog/dor/dor001.jpg",
     "article": "ДОР001",

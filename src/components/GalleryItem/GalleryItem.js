@@ -17,7 +17,7 @@ const price = {
   bow: 80,
   rvm: 150,
   dor: 130,
-  rvs: 225,
+  rvs: 230,
   svb: 65,
 };
 

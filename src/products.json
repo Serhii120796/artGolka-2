@@ -6271,6 +6271,17 @@
     "date": "2024-12-04"
   },
   {
+    "id": "rvs015",
+    "img": "/images/catalog/rvs/rvs015.jpg",
+    "article": "РВС015",
+    "type": "rvs",
+    "quantityBeads": 33,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 27,
+    "date": "2024-12-05"
+  },
+  {
     "id": "rvv001",
     "img": "/images/catalog/rvs/rvv001.jpg",
     "article": "РВВ001",

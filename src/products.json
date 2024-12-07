@@ -6330,7 +6330,8 @@
      "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-08-25"
-  },{
+  },
+  {
     "id": "rvv005",
     "img": "/images/catalog/rvs/rvv005.jpg",
     "article": "РВВ005",
@@ -6342,6 +6343,19 @@
      "desc": "(Розмір 200х40 см)",
      "priceItem": 250,
     "date": "2024-11-06"
+  },
+  {
+    "id": "rvv006",
+    "img": "/images/catalog/rvs/rvv006.jpg",
+    "article": "РВВ006",
+    "type": "rvs",
+    "quantityBeads": 45,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 28,
+     "desc": "(Розмір 200х40 см)",
+     "priceItem": 250,
+    "date": "2024-12-07"
   },
   {
     "id": "a3r002",

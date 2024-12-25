@@ -6,6 +6,7 @@ export const SearchBox = ({ value, onChange }) => {
       {value ? <IconClose onClick={() => onChange('')} /> : <IconSearch />}
       <Input
         type="text"
+        id="search"
         value={value}
         onChange={e => onChange(e.target.value)}
         placeholder="Пошук"

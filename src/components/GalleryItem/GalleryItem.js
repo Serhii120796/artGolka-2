@@ -12,13 +12,13 @@ const price = {
   tnA5: 50,
   tnP2060: 180,
   rps: 140,
-  rpd: 75,
+  rpd: 85,
   rss: 140,
-  bow: 80,
-  rvm: 150,
+  bow: 90,
+  rvm: 165,
   dor: 140,
-  rvs: 230,
-  svb: 65,
+  rvs: 240,
+  svb: 70,
 };
 
 const printPrice = 'А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';

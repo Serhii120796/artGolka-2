@@ -5885,6 +5885,17 @@
     "date": "2024-09-24"
   },
   {
+    "id": "rpd002",
+    "img": "/images/catalog/rpd/rpd002.jpg",
+    "article": "РПД002",
+    "type": "rpd",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 7,
+    "quantityLuxe": 0,
+     "quantitySHS": 21,
+    "date": "2025-01-01"
+  },
+  {
     "id": "rpd003",
     "img": "/images/catalog/rpd/rpd003.jpg",
     "article": "РПД003",

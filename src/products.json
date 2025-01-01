@@ -5852,6 +5852,28 @@
     "date": "2025-01-01"
   },
   {
+    "id": "rps050",
+    "img": "/images/catalog/rps/rps050.jpg",
+    "article": "РПС050",
+    "type": "rps",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 5,
+    "date": "2025-01-01"
+  },
+  {
+    "id": "rps051",
+    "img": "/images/catalog/rps/rps051.jpg",
+    "article": "РПС051",
+    "type": "rps",
+    "quantityBeads": 7,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 7,
+    "date": "2025-01-01"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",

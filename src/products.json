@@ -5874,6 +5874,17 @@
     "date": "2025-01-01"
   },
   {
+    "id": "rps052",
+    "img": "/images/catalog/rps/rps052.jpg",
+    "article": "РПС052",
+    "type": "rps",
+    "quantityBeads": 7,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 6,
+    "date": "2025-01-03"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",
@@ -6164,6 +6175,28 @@
     "id": "bow027",
     "img": "/images/catalog/bow/bow027.jpg",
     "article": "Бант 027",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
+    "id": "bow041",
+    "img": "/images/catalog/bow/bow041.jpg",
+    "article": "Бант 041",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2024-01-01"
+  },
+  {
+    "id": "bow-bs002",
+    "img": "/images/catalog/bow/bow-bs002.jpg",
+    "article": "Бант БС002",
     "type": "bow",
     "quantityBeads": 0,
     "quantityHalfBeads": 0,

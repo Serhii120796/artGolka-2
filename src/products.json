@@ -6205,6 +6205,17 @@
     "date": "2024-01-01"
   },
   {
+    "id": "bow052",
+    "img": "/images/catalog/bow/bow052.jpg",
+    "article": "Бант 052",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2025-09-01"
+  },
+  {
     "id": "bow-bs002",
     "img": "/images/catalog/bow/bow-bs002.jpg",
     "article": "Бант БС002",

@@ -5918,6 +5918,17 @@
     "date": "2025-01-03"
   },
   {
+    "id": "rps054",
+    "img": "/images/catalog/rps/rps054.jpg",
+    "article": "РПС054",
+    "type": "rps",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 12,
+    "date": "2025-01-18"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",
@@ -6590,6 +6601,17 @@
     "date": "2024-12-05"
   },
   {
+    "id": "rvs017",
+    "img": "/images/catalog/rvs/rvs017.jpg",
+    "article": "РВС017",
+    "type": "rvs",
+    "quantityBeads": 29,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 21,
+    "date": "2025-01-18"
+  },
+  {
     "id": "rvv001",
     "img": "/images/catalog/rvs/rvv001.jpg",
     "article": "РВВ001",
@@ -6640,6 +6662,19 @@
      "desc": "(Розмір 200х40 см)",
      "priceItem": 270,
     "date": "2024-12-07"
+  },
+  {
+    "id": "rvv007",
+    "img": "/images/catalog/rvs/rvv007.jpg",
+    "article": "РВВ007",
+    "type": "rvs",
+    "quantityBeads": 36,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 0,
+     "quantitySHS": 27,
+     "desc": "(Розмір 200х40 см)",
+     "priceItem": 270,
+    "date": "2025-01-18"
   },
   {
     "id": "a3r002",

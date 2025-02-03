@@ -6413,6 +6413,17 @@
     "date": "2024-11-18"
   },
   {
+    "id": "rvm011",
+    "img": "/images/catalog/rvm/rvm011.jpg",
+    "article": "РВМ011",
+    "type": "rvm",
+    "quantityBeads": 12,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 8,
+     "quantitySHS": 19,
+    "date": "2025-02-03"
+  },
+  {
     "id": "rvm012",
     "img": "/images/catalog/rvm/rvm012.jpg",
     "article": "РВМ012",

@@ -3233,6 +3233,17 @@
     "date": "2024-01-16"
   },
   {
+    "id": "tn3092",
+    "img": "/images/catalog/tn/a3/tn3092.jpg",
+    "article": "ТН3092",
+    "type": "tnA3",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 8,
+    "date": "2025-03-01"
+  },
+  {
     "id": "tn3093",
     "img": "/images/catalog/tn/a3/tn3093.jpg",
     "article": "ТН3093",
@@ -3488,6 +3499,17 @@
     "date": "2024-06-09"
   },
   {
+    "id": "tn3116",
+    "img": "/images/catalog/tn/a3/tn3116.jpg",
+    "article": "ТН3116",
+    "type": "tnA3",
+    "quantityBeads": 22,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "date": "2025-03-01"
+  },
+  {
     "id": "tn3117",
     "img": "/images/catalog/tn/a3/tn3117.jpg",
     "article": "ТН3117",
@@ -3508,6 +3530,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 5,
     "date": "2024-06-10"
+  },
+  {
+    "id": "tn3119",
+    "img": "/images/catalog/tn/a3/tn3119.jpg",
+    "article": "ТН3119",
+    "type": "tnA3",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 9,
+    "date": "2025-03-01"
   },
   {
     "id": "tn3120",
@@ -3796,6 +3829,17 @@
     "date": "2024-12-18"
   },
   {
+    "id": "tn3147",
+    "img": "/images/catalog/tn/a3/tn3147.jpg",
+    "article": "ТН3147",
+    "type": "tnA3",
+    "quantityBeads": 12,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 8,
+    "date": "2025-03-01"
+  },
+  {
     "id": "tn3148",
     "img": "/images/catalog/tn/a3/tn3148.jpg",
     "article": "ТН3148",
@@ -3805,6 +3849,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 6,
     "date": "2025-02-13"
+  },
+  {
+    "id": "tn3149",
+    "img": "/images/catalog/tn/a3/tn3149.jpg",
+    "article": "ТН3149",
+    "type": "tnA3",
+    "quantityBeads": 6,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 3,
+    "date": "2025-02-28"
   },
   {
     "id": "tn2001",
@@ -6026,6 +6081,17 @@
     "quantityLuxe": 0,
      "quantitySHS": 18,
     "date": "2025-02-19"
+  },
+  {
+    "id": "rps063",
+    "img": "/images/catalog/rps/rps063.jpg",
+    "article": "РПС063",
+    "type": "rps",
+    "quantityBeads": 20,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 9,
+    "date": "2025-02-28"
   },
   {
     "id": "rpd001",

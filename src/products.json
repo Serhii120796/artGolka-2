@@ -6160,6 +6160,17 @@
     "date": "2025-03-10"
   },
   {
+    "id": "rps065",
+    "img": "/images/catalog/rps/rps065.jpg",
+    "article": "РПС065",
+    "type": "rps",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 12,
+    "date": "2025-03-23"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",
@@ -6566,6 +6577,17 @@
     "quantityLuxe": 0,
      "quantitySHS": 0,
     "date": "2025-01-09"
+  },
+  {
+    "id": "bow065",
+    "img": "/images/catalog/bow/bow065.jpg",
+    "article": "Бант 065",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2025-03-23"
   },
   {
     "id": "bow-bs002",
@@ -7216,6 +7238,18 @@
     "quantitySHS": 0,
     "title": "Писанки",
     "date": "2025-03-13"
+  },
+  {
+    "id": "a4012",
+    "img": "/images/catalog/svb/a4012.jpg",
+    "article": "А4012",
+    "type": "svb",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2025-03-23"
   },
   {
     "id": "sample001",

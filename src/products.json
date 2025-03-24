@@ -690,15 +690,14 @@
     "date": "2023-01-01"
   },
   {
-    "id": "tn4050+",
-    "img": "/images/catalog/tn/a4/tn4050plus.jpg",
-    "article": "ТН4050+",
-    "type": "tnA4plus",
+    "id": "tn4050",
+    "img": "/images/catalog/tn/a4/tn4050.jpg",
+    "article": "ТН4050",
+    "type": "tnA4",
     "quantityBeads": 7,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
     "quantitySHS": 5,
-    "sketch": "/images/catalog/tn/a4/sketch/sketch_tn4050plus.jpg",
     "date": "2023-01-01"
   },
   {

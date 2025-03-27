@@ -3905,6 +3905,17 @@
     "date": "2025-03-26"
   },
   {
+    "id": "tn3153",
+    "img": "/images/catalog/tn/a3/tn3153.jpg",
+    "article": "ТН3153",
+    "type": "tnA3",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 6,
+    "date": "2025-03-27"
+  },
+  {
     "id": "tn2001",
     "img": "/images/catalog/tn/a2/tn2001.jpg",
     "article": "ТН2001",
@@ -6633,6 +6644,17 @@
     "date": "2025-03-23"
   },
   {
+    "id": "bow066",
+    "img": "/images/catalog/bow/bow066.jpg",
+    "article": "Бант 066",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2025-03-27"
+  },
+  {
     "id": "bow-bs002",
     "img": "/images/catalog/bow/bow-bs002.jpg",
     "article": "Бант БС002",
@@ -7245,6 +7267,18 @@
     "quantitySHS": 18,
     "title": "Брюнетка",
     "date": "2024-10-20"
+  },
+  {
+    "id": "a4008",
+    "img": "/images/catalog/svb/a4008.jpg",
+    "article": "А4008",
+    "type": "svb",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2025-03-27"
   },
   {
     "id": "a4009",

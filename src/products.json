@@ -6655,6 +6655,17 @@
     "date": "2025-01-09"
   },
   {
+    "id": "bow059",
+    "img": "/images/catalog/bow/bow059.jpg",
+    "article": "Бант 059",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2025-04-01"
+  },
+  {
     "id": "bow065",
     "img": "/images/catalog/bow/bow065.jpg",
     "article": "Бант 065",
@@ -6884,6 +6895,28 @@
     "quantityLuxe": 0,
      "quantitySHS": 17,
     "date": "2024-06-12"
+  },
+  {
+    "id": "dor008",
+    "img": "/images/catalog/dor/dor008.jpg",
+    "article": "ДОР008",
+    "type": "dor",
+    "quantityBeads": 26,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+     "quantitySHS": 19,
+    "date": "2025-04-01"
+  },
+  {
+    "id": "dor009",
+    "img": "/images/catalog/dor/dor009.jpg",
+    "article": "ДОР009",
+    "type": "dor",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 15,
+    "date": "2025-04-01"
   },
   {
     "id": "rvs001",

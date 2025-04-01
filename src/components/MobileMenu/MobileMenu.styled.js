@@ -16,11 +16,9 @@ import css from 'styled-components';
 // opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
 // `;
 
-
-
 export const Menu = css.div`
 @media (max-width: 768px) {
-    position: fixed;
+  position: fixed;
   z-index: 100;
   top: 0;
   left: 0;
@@ -28,10 +26,10 @@ export const Menu = css.div`
   height: 100%;
   min-height: 400px;
   background-color: #1e1823;
-  transform: translateX(${({ $status }) => $status ? "0" : "-100%"});
+  transform: translateX(${({ $status }) => ($status ? '0' : '-100%')});
   transition: transform var(--standart-transition);
   padding-top: 40px;
-  // overflow-y: scroll;
+  overflow-y: scroll;
 }
 
 @media (min-width: 768px) {

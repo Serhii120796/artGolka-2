@@ -28,7 +28,7 @@ width: 100%;
 border: none;
 padding: 2px 4px;
 background-color: #ffffff;
-color: #666666;
+color: #000000;
 
 &:hover {
   background-color: #e6e6e6;

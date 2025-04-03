@@ -8,6 +8,7 @@ export const Aside = css.aside`
   @media (min-width: 768px) {
   width: 150px;
 flex: none;
+height: max-content;
 background-color: #ffffff; 
   }
 `;

@@ -28,16 +28,16 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
   } else if (query) {
     currentGalleryList = products
       .filter(({ type }) => type === query)
-      .reverse();
+      .reverse();//мутуючий метод, але після фільтрації масив не змінюється
   }
 
   // Фільтрація галереї за пошуковим запитом
   if (productName) {
-    currentGalleryList = currentGalleryList.filter(({ article }) =>
+    currentGalleryList = products.filter(({ article }) =>
       article
         .toLowerCase()
         .includes(productName.replace(/\s+/g, '').toLowerCase())
-    );
+    ).reverse();
   }
   // Фільтрація галереї за пошуковим запитом
 

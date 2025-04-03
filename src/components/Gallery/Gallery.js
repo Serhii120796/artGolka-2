@@ -10,13 +10,14 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
   const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get('query');
   const productName = searchParams.get('article');
-  const galleryRef = useRef(null);
+  const galleryRef = useRef(null); //використовується для отримання посилання на DOM-елемент галереї (GalleryList).
+// Це потрібно для автоматичного прокручування (scroll) сторінки вгору після зміни фільтра (query) або сторінки (page).
 
   const changeFilter = data => {
     setSearchParams({ query: data });
   };
 
-  let currentGalleryList = [...products].sort(
+  let currentGalleryList = [...products].sort(//products розпилено, щоб не змінювати оригінальний масив
     (a, b) => new Date(b.date) - new Date(a.date)
   );
 

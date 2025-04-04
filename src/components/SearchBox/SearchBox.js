@@ -10,6 +10,7 @@ export const SearchBox = ({ value, onChange }) => {
         value={value}
         onChange={e => onChange(e.target.value)}
         placeholder="Пошук"
+        autoComplete="off"
       />
     </Wrapper>
   );

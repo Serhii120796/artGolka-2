@@ -2,6 +2,7 @@ import { GalleryItem } from '../GalleryItem/GalleryItem';
 import { Sidebar } from '../SideBar/SideBar';
 import { MobileMenu } from '../MobileMenu/MobileMenu.js';
 import products from '../../products.json';
+import { categoriesForSearch } from 'productCategories.js';
 import { Container, GalleryList } from './Gallery.styled';
 import { useSearchParams } from 'react-router-dom';
 import { useEffect, useRef } from 'react';
@@ -11,13 +12,14 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
   const query = searchParams.get('query');
   const productName = searchParams.get('article');
   const galleryRef = useRef(null); //використовується для отримання посилання на DOM-елемент галереї (GalleryList).
-// Це потрібно для автоматичного прокручування (scroll) сторінки вгору після зміни фільтра (query) або сторінки (page).
+  // Це потрібно для автоматичного прокручування (scroll) сторінки вгору після зміни фільтра (query) або сторінки (page).
 
   const changeFilter = data => {
     setSearchParams({ query: data });
   };
 
-  let currentGalleryList = [...products].sort(//products розпилено, щоб не змінювати оригінальний масив
+  let currentGalleryList = [...products].sort(
+    //products розпилено, щоб не змінювати оригінальний масив
     (a, b) => new Date(b.date) - new Date(a.date)
   );
 
@@ -28,27 +30,36 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
   } else if (query) {
     currentGalleryList = products
       .filter(({ type }) => type === query)
-      .reverse();//мутуючий метод, але після фільтрації масив не змінюється
+      .reverse(); //мутуючий метод, але після фільтрації масив не змінюється
   }
 
   // Фільтрація галереї за пошуковим запитом
-  if (productName) {
-    currentGalleryList = products.filter(({ article }) =>
-      article
-        .toLowerCase()
-        .includes(productName.trim().toLowerCase())
-    ).reverse();
+  if (productName && productName.length > 1) {
+    currentGalleryList = products
+      .filter(({ article, type }) => {
+        const isArticle = article
+          .toLowerCase()
+          .includes(productName.trim().toLowerCase());
+        const isCategory = categoriesForSearch[type].includes(
+          productName.trim().toLowerCase()
+        );
+        return isArticle || isCategory;
+      })
+      .reverse();
   }
   // Фільтрація галереї за пошуковим запитом
 
   // Прогортання галереї вверх при зміні фільтра
   useEffect(() => {
-  const headerHeight = document.querySelector('header').offsetHeight; // Заміна 'header' на ваш селектор
-  const galleryPosition = galleryRef.current.getBoundingClientRect().top + window.scrollY - headerHeight;
-  window.scrollTo({
-    top: galleryPosition,
-  });
-}, [query]);
+    const headerHeight = document.querySelector('header').offsetHeight; // Заміна 'header' на ваш селектор
+    const galleryPosition =
+      galleryRef.current.getBoundingClientRect().top +
+      window.scrollY -
+      headerHeight;
+    window.scrollTo({
+      top: galleryPosition,
+    });
+  }, [query]);
   // Прогортання галереї вверх при зміні фільтра
 
   return (

@@ -36,7 +36,7 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
     currentGalleryList = products.filter(({ article }) =>
       article
         .toLowerCase()
-        .includes(productName.replace(/\s+/g, '').toLowerCase())
+        .includes(productName.trim().toLowerCase())
     ).reverse();
   }
   // Фільтрація галереї за пошуковим запитом

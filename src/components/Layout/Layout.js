@@ -13,10 +13,10 @@ import {
 
 export const Layout = ({ onOpenMenu }) => {
   const [searchParams, setSearchParams] = useSearchParams();
-  const productName = searchParams.get("article") ?? "";
+  const productName = searchParams.get("search") ?? "";
 
-  const updateQueryString = (article) => {
-    const nextParams = article !== "" ? { article } : {};
+  const updateQueryString = (search) => {
+    const nextParams = search !== "" ? { search } : {};
     setSearchParams(nextParams);
   };
 

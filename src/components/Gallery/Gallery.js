@@ -10,7 +10,7 @@ import { useEffect, useRef } from 'react';
 export const Gallery = ({ statusMenu, onCloseMenu }) => {
   const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get('query');
-  const productName = searchParams.get('article');
+  const productName = searchParams.get('search');
   const galleryRef = useRef(null); //використовується для отримання посилання на DOM-елемент галереї (GalleryList).
   // Це потрібно для автоматичного прокручування (scroll) сторінки вгору після зміни фільтра (query) або сторінки (page).
 

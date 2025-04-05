@@ -3,7 +3,7 @@ import { Sidebar } from '../SideBar/SideBar';
 import { MobileMenu } from '../MobileMenu/MobileMenu.js';
 import products from '../../products.json';
 import { categoriesForSearch } from 'productCategories.js';
-import { Container, GalleryList } from './Gallery.styled';
+import { Container, GalleryList, Item } from './Gallery.styled';
 import { useSearchParams } from 'react-router-dom';
 import { useEffect, useRef } from 'react';
 
@@ -74,7 +74,9 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
           <Sidebar abc={changeFilter} />
           <GalleryList ref={galleryRef}>
             {currentGalleryList.map(product => (
-              <GalleryItem key={product.id} item={product} />
+              <Item key={product.id}>
+                <GalleryItem item={product} />
+              </Item>
             ))}
           </GalleryList>
         </Container>

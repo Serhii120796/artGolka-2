@@ -33,3 +33,25 @@ width: 100%;
 
 // }
 `;
+
+export const Item = css.li`
+  /* Для вирівнювання артикулів товару через різні розміри фото */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* /Для вирівнювання артикулів товару через різні розміри фото */
+  background-color: #ffffff;
+  width: 300px;
+  
+  @media (max-width: 768px) {
+  margin: 0 auto;
+  }
+
+  @media (min-width: 768px) {
+  width: calc((100% - 1 * 10px) / 2);
+  }
+
+  @media (min-width: 1260px) {
+  width: calc((100% - 3 * 10px) / 4);
+}
+`;

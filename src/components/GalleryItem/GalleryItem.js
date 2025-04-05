@@ -1,4 +1,9 @@
-import { Item, GalleryImgWrapper, GalleryWrapper, Sketch, Text } from "./GalleryItem.styled";
+import {
+  GalleryImgWrapper,
+  GalleryWrapper,
+  Sketch,
+  Text,
+} from './GalleryItem.styled';
 
 const price = {
   beads: 18,
@@ -100,29 +105,60 @@ const description = {
 };
 
 export const GalleryItem = ({
-  item: { img, article, type, quantityBeads, quantityHalfBeads, quantityLuxe, quantitySHS, sketch, desc, priceItem, title},
+  item: {
+    img,
+    article,
+    type,
+    quantityBeads,
+    quantityHalfBeads,
+    quantityLuxe,
+    quantitySHS,
+    sketch,
+    desc,
+    priceItem,
+    title,
+  },
 }) => {
-
-  const costBeads = quantityBeads * price.beads + quantityHalfBeads * price.halfBeads + quantityLuxe * price.luxe;
+  const costBeads =
+    quantityBeads * price.beads +
+    quantityHalfBeads * price.halfBeads +
+    quantityLuxe * price.luxe;
   const costSHS = quantitySHS * price.shs;
 
   return (
-    <Item>
+    <>
       <GalleryImgWrapper>
-        <img src={`${process.env.PUBLIC_URL}${img}`} alt={article} width="300" height="461" loading="lazy" />
-        {sketch && <Sketch src={`${process.env.PUBLIC_URL}${sketch}`} alt="sketch" width="60" loading="lazy" />}
+        <img
+          src={`${process.env.PUBLIC_URL}${img}`}
+          alt={article}
+          width="300"
+          height="461"
+          loading="lazy"
+        />
+        {sketch && (
+          <Sketch
+            src={`${process.env.PUBLIC_URL}${sketch}`}
+            alt="sketch"
+            width="60"
+            loading="lazy"
+          />
+        )}
       </GalleryImgWrapper>
-      {type !== 'sample' && <GalleryWrapper>
-        <h3>{title ? title : description[type].title } {article}</h3>
-        <Text>
-          {description[type].desc}
-        </Text>
-        <Text>
-          {type !== 'tnPrint' ? `Ціна ${priceItem || price[type]} грн. ${desc || description[type].size}` : printPrice}
-        </Text>
-        {costBeads ? <Text>Комплект бісеру (+{costBeads} грн)</Text> : ''}
-        {costSHS ? <Text>Комплект ниток СХС (+{costSHS} грн)</Text> : ''}
-      </GalleryWrapper>}
-    </Item>
+      {type !== 'sample' && (
+        <GalleryWrapper>
+          <h3>
+            {title ? title : description[type].title} {article}
+          </h3>
+          <Text>{description[type].desc}</Text>
+          <Text>
+            {type !== 'tnPrint'
+              ? `Ціна ${priceItem || price[type]} грн. ${desc || description[type].size}`
+              : printPrice}
+          </Text>
+          {costBeads ? <Text>Комплект бісеру (+{costBeads} грн)</Text> : ''}
+          {costSHS ? <Text>Комплект ниток СХС (+{costSHS} грн)</Text> : ''}
+        </GalleryWrapper>
+      )}
+    </>
   );
 };

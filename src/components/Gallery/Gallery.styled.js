@@ -64,4 +64,8 @@ export const NoSearch = css.p`
 margin-top: 20px;
 font-size: 20px;
 text-align: center;
+
+span {
+    font-weight: bold;
+  }
 `;

@@ -80,7 +80,7 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
               </Item>
             ))}
           </GalleryList>
-           {currentGalleryList.length || <NoSearch>За вашим запитом нічого не знайдено</NoSearch>}
+            {currentGalleryList.length || <NoSearch>За запитом <span>"{productName}"</span> нічого не знайдено</NoSearch>}
             </GalleryWraper>
         </Container>
       </section>

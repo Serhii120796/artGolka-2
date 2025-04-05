@@ -3,7 +3,7 @@ import { Sidebar } from '../SideBar/SideBar';
 import { MobileMenu } from '../MobileMenu/MobileMenu.js';
 import products from '../../products.json';
 import { categoriesForSearch } from 'productCategories.js';
-import { Container, GalleryList, Item } from './Gallery.styled';
+import { Container, GalleryWraper, GalleryList, Item, NoSearch } from './Gallery.styled';
 import { useSearchParams } from 'react-router-dom';
 import { useEffect, useRef } from 'react';
 
@@ -34,7 +34,7 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
   }
 
   // Фільтрація галереї за пошуковим запитом
-  if (productName && productName.length > 1) {
+  if (productName && productName.length > 2) {
     currentGalleryList = products
       .filter(({ article, type }) => {
         const isArticle = article
@@ -72,6 +72,7 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
       <section>
         <Container>
           <Sidebar abc={changeFilter} />
+          <GalleryWraper>
           <GalleryList ref={galleryRef}>
             {currentGalleryList.map(product => (
               <Item key={product.id}>
@@ -79,6 +80,8 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
               </Item>
             ))}
           </GalleryList>
+           {currentGalleryList.length || <NoSearch>За вашим запитом нічого не знайдено</NoSearch>}
+            </GalleryWraper>
         </Container>
       </section>
     </>

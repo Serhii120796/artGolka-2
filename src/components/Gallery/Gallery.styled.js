@@ -18,6 +18,10 @@ padding: 0 15px;
 }
 `;
 
+export const GalleryWraper = css.div`
+  width: 100%;
+  `;
+
 export const GalleryList = css.ul`
 display: flex;
 flex-wrap: wrap;
@@ -54,4 +58,10 @@ export const Item = css.li`
   @media (min-width: 1260px) {
   width: calc((100% - 3 * 10px) / 4);
 }
+`;
+
+export const NoSearch = css.p`
+margin-top: 20px;
+font-size: 20px;
+text-align: center;
 `;

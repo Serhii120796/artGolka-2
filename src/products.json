@@ -7440,6 +7440,30 @@
     "date": "2025-03-23"
   },
   {
+    "id": "a4014",
+    "img": "/images/catalog/svb/a4014.jpg",
+    "article": "А4014",
+    "type": "svb",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2025-04-09"
+  },
+  {
+    "id": "a4015",
+    "img": "/images/catalog/svb/a4015.jpg",
+    "article": "А4015",
+    "type": "svb",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2025-04-09"
+  },
+  {
     "id": "sample001",
     "img": "/images/catalog/samples/sample001.jpg",
     "article": "Зразок001",

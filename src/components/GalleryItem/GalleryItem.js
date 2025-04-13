@@ -5,7 +5,7 @@ import {
   Text,
 } from './GalleryItem.styled';
 
-const price = {
+export const price = {
   beads: 18,
   halfBeads: 10,
   luxe: 20,
@@ -102,6 +102,9 @@ const description = {
     desc: '(заготовка на габардині)',
     size: '(Розмір 20х26 см)',
   },
+  mer: {
+    title: 'Мереживо',
+  },
 };
 
 export const GalleryItem = ({
@@ -114,15 +117,18 @@ export const GalleryItem = ({
     quantityLuxe,
     quantitySHS,
     sketch,
-    desc,
+    size,
     priceItem,
+    desc,
     title,
   },
 }) => {
+
   const costBeads =
     quantityBeads * price.beads +
     quantityHalfBeads * price.halfBeads +
     quantityLuxe * price.luxe;
+
   const costSHS = quantitySHS * price.shs;
 
   return (
@@ -149,10 +155,10 @@ export const GalleryItem = ({
           <h3>
             {title ? title : description[type].title} {article}
           </h3>
-          <Text>{description[type].desc}</Text>
+          <Text>{description[type].desc || desc}</Text>
           <Text>
             {type !== 'tnPrint'
-              ? `Ціна ${priceItem || price[type]} грн. ${desc || description[type].size}`
+              ? `Ціна ${priceItem || price[type]} грн. ${size || description[type].size || ''}`
               : printPrice}
           </Text>
           {costBeads ? <Text>Комплект бісеру (+{costBeads} грн)</Text> : ''}

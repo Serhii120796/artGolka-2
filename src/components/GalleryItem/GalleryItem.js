@@ -158,7 +158,7 @@ export const GalleryItem = ({
           <Text>{description[type].desc || desc}</Text>
           <Text>
             {type !== 'tnPrint'
-              ? `Ціна ${priceItem || price[type]} грн. ${size || description[type].size || ''}`
+              ? `Ціна ${priceItem || price[type]} грн. ${type === "mer" ? "за 1 м. п." : ""} ${size || description[type].size || ''}`
               : printPrice}
           </Text>
           {costBeads ? <Text>Комплект бісеру (+{costBeads} грн)</Text> : ''}

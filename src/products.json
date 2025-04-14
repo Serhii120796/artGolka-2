@@ -7113,16 +7113,282 @@
     "date": "2025-04-09"
   },
   {
+    "id": "m089",
+    "img": "/images/catalog/mer/m089.jpg",
+    "article": "089",
+    "type": "mer",
+    "priceItem": 15,
+    "desc": "Колір: блакитний",
+    "date": "2025-01-01"
+  },
+  {
     "id": "m106",
     "img": "/images/catalog/mer/m106.jpg",
     "article": "106",
     "type": "mer",
-    "quantityBeads": 0,
-    "quantityHalfBeads": 0,
-    "quantityLuxe": 0,
-    "quantitySHS": 0,
     "priceItem": 35,
-    "desc": "Колір синій",
+    "desc": "Колір: синій",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m108",
+    "img": "/images/catalog/mer/m108.jpg",
+    "article": "108",
+    "type": "mer",
+    "priceItem": 25,
+    "desc": "Колір: чорний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m112",
+    "img": "/images/catalog/mer/m112.jpg",
+    "article": "112",
+    "type": "mer",
+    "priceItem": 50,
+    "desc": "Колір: фіолетовий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m133",
+    "img": "/images/catalog/mer/m133.jpg",
+    "article": "133",
+    "type": "mer",
+    "priceItem": 15,
+    "desc": "Колір: червоний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m134",
+    "img": "/images/catalog/mer/m134.jpg",
+    "article": "134",
+    "type": "mer",
+    "priceItem": 25,
+    "desc": "Колір: бордовий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m143",
+    "img": "/images/catalog/mer/m143.jpg",
+    "article": "143",
+    "type": "mer",
+    "priceItem": 35,
+    "desc": "Колір: рожева пудра",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m145",
+    "img": "/images/catalog/mer/m145.jpg",
+    "article": "145",
+    "type": "mer",
+    "priceItem": 50,
+    "desc": "Колір: зелений",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m186",
+    "img": "/images/catalog/mer/m186.jpg",
+    "article": "186",
+    "type": "mer",
+    "priceItem": 25,
+    "desc": "Колір: бордовий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m198",
+    "img": "/images/catalog/mer/m198.jpg",
+    "article": "198",
+    "type": "mer",
+    "priceItem": 40,
+    "desc": "Колір: синій",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m204",
+    "img": "/images/catalog/mer/m204.jpg",
+    "article": "204",
+    "type": "mer",
+    "priceItem": 40,
+    "desc": "Колір: фіолетовий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m216",
+    "img": "/images/catalog/mer/m216.jpg",
+    "article": "216",
+    "type": "mer",
+    "priceItem": 35,
+    "desc": "Колір: червоний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m217",
+    "img": "/images/catalog/mer/m217.jpg",
+    "article": "217",
+    "type": "mer",
+    "priceItem": 40,
+    "desc": "Колір: червоний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m220",
+    "img": "/images/catalog/mer/m220.jpg",
+    "article": "220",
+    "type": "mer",
+    "priceItem": 50,
+    "desc": "Колір: червоний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m221",
+    "img": "/images/catalog/mer/m221.jpg",
+    "article": "221",
+    "type": "mer",
+    "priceItem": 30,
+    "desc": "Колір: червоний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m226",
+    "img": "/images/catalog/mer/m226.jpg",
+    "article": "226",
+    "type": "mer",
+    "priceItem": 40,
+    "desc": "Колір: кремовий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m237",
+    "img": "/images/catalog/mer/m237.jpg",
+    "article": "237",
+    "type": "mer",
+    "priceItem": 40,
+    "desc": "Колір: запорошена троянда",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m238",
+    "img": "/images/catalog/mer/m238.jpg",
+    "article": "238",
+    "type": "mer",
+    "priceItem": 40,
+    "desc": "Колір: червоний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m241",
+    "img": "/images/catalog/mer/m241.jpg",
+    "article": "241",
+    "type": "mer",
+    "priceItem": 50,
+    "desc": "Колір: червоний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m244",
+    "img": "/images/catalog/mer/m244.jpg",
+    "article": "244",
+    "type": "mer",
+    "priceItem": 50,
+    "desc": "Колір: білий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m248",
+    "img": "/images/catalog/mer/m248.jpg",
+    "article": "248",
+    "type": "mer",
+    "priceItem": 75,
+    "desc": "Колір: молочний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m249",
+    "img": "/images/catalog/mer/m249.jpg",
+    "article": "249",
+    "type": "mer",
+    "priceItem": 45,
+    "desc": "Колір: темна бірюза",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m260",
+    "img": "/images/catalog/mer/m260.jpg",
+    "article": "260",
+    "type": "mer",
+    "priceItem": 55,
+    "desc": "Колір: білий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m263",
+    "img": "/images/catalog/mer/m263.jpg",
+    "article": "263",
+    "type": "mer",
+    "priceItem": 95,
+    "desc": "Колір: білий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m265",
+    "img": "/images/catalog/mer/m265.jpg",
+    "article": "265",
+    "type": "mer",
+    "priceItem": 15,
+    "desc": "Колір: фіолетовий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m275",
+    "img": "/images/catalog/mer/m275.jpg",
+    "article": "275",
+    "type": "mer",
+    "priceItem": 25,
+    "desc": "Колір: золотий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m276",
+    "img": "/images/catalog/mer/m276.jpg",
+    "article": "276",
+    "type": "mer",
+    "priceItem": 45,
+    "desc": "Колір: запорошена троянда",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m277",
+    "img": "/images/catalog/mer/m277.jpg",
+    "article": "277",
+    "type": "mer",
+    "priceItem": 45,
+    "desc": "Колір: тіффані",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m278",
+    "img": "/images/catalog/mer/m278.jpg",
+    "article": "278",
+    "type": "mer",
+    "priceItem": 60,
+    "desc": "Колір: білий",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m282",
+    "img": "/images/catalog/mer/m282.jpg",
+    "article": "282",
+    "type": "mer",
+    "priceItem": 55,
+    "desc": "Колір: синій",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m284",
+    "img": "/images/catalog/mer/m284.jpg",
+    "article": "284",
+    "type": "mer",
+    "priceItem": 35,
+    "desc": "Колір: білий",
     "date": "2025-01-01"
   },
   {

@@ -5884,8 +5884,8 @@
     "img": "/images/catalog/rps/rps063.jpg",
     "article": "РПС063",
     "type": "rps",
-    "quantityBeads": 20,
-    "quantityHalfBeads": 1,
+    "quantityBeads": 10,
+    "quantityHalfBeads": 0,
     "quantityLuxe": 0,
      "quantitySHS": 9,
     "date": "2025-02-28"

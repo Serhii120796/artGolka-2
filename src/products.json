@@ -6253,6 +6253,28 @@
      "quantitySHS": 22,
     "date": "2024-11-06"
   },
+  {
+    "id": "rsm001",
+    "img": "/images/catalog/rsm/rsm001.jpg",
+    "article": "РСМ001",
+    "type": "rsm",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 20,
+    "date": "2025-05-02"
+  },
+  {
+    "id": "rsm002",
+    "img": "/images/catalog/rsm/rsm002.jpg",
+    "article": "РСМ002",
+    "type": "rsm",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 8,
+    "quantityLuxe": 0,
+     "quantitySHS": 21,
+    "date": "2025-05-02"
+  },
    {
     "id": "bow002",
     "img": "/images/catalog/bow/bow002.jpg",

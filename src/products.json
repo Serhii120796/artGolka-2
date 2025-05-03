@@ -4026,6 +4026,17 @@
     "date": "2025-04-25"
   },
   {
+    "id": "tn3161",
+    "img": "/images/catalog/tn/a3/tn3161.jpg",
+    "article": "ТН3161",
+    "type": "tnA3",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 5,
+    "quantitySHS": 13,
+    "date": "2025-05-03"
+  },
+  {
     "id": "tn2001",
     "img": "/images/catalog/tn/a2/tn2001.jpg",
     "article": "ТН2001",
@@ -7603,6 +7614,15 @@
     "type": "mer",
     "priceItem": 70,
     "desc": "Колір: молочний",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "m272",
+    "img": "/images/catalog/mer/m272.jpg",
+    "article": "272",
+    "type": "mer",
+    "priceItem": 70,
+    "desc": "Колір: білий",
     "date": "2025-01-01"
   },
   {

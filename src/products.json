@@ -6319,6 +6319,17 @@
      "quantitySHS": 21,
     "date": "2025-05-02"
   },
+  {
+    "id": "rsm003",
+    "img": "/images/catalog/rsm/rsm003.jpg",
+    "article": "РСМ003",
+    "type": "rsm",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+     "quantitySHS": 17,
+    "date": "2025-05-05"
+  },
    {
     "id": "bow002",
     "img": "/images/catalog/bow/bow002.jpg",
@@ -7230,6 +7241,18 @@
     "id": "a4012",
     "img": "/images/catalog/svb/a4012.jpg",
     "article": "А4012",
+    "type": "svb",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2025-03-23"
+  },
+  {
+    "id": "a4013",
+    "img": "/images/catalog/svb/a4013.jpg",
+    "article": "А4013",
     "type": "svb",
     "quantityBeads": 0,
     "quantityHalfBeads": 0,

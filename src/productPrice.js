@@ -11,6 +11,7 @@ export const price = {
   rps: 140,
   rpd: 85,
   rss: 140,
+  rsm: 85,
   bow: 90,
   rvm: 165,
   dor: 140,

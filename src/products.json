@@ -6341,6 +6341,17 @@
      "quantitySHS": 28,
     "date": "2025-05-06"
   },
+  {
+    "id": "rsm005",
+    "img": "/images/catalog/rsm/rsm005.jpg",
+    "article": "РСМ005",
+    "type": "rsm",
+    "quantityBeads": 17,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+     "quantitySHS": 19,
+    "date": "2025-05-07"
+  },
    {
     "id": "bow002",
     "img": "/images/catalog/bow/bow002.jpg",

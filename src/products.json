@@ -7036,6 +7036,17 @@
     "date": "2024-06-17"
   },
   {
+    "id": "rvv003",
+    "img": "/images/catalog/rvv/rvv003.jpg",
+    "article": "РВВ003",
+    "type": "rvv",
+    "quantityBeads": 40,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+     "quantitySHS": 30,
+    "date": "2025-05-15"
+  },
+  {
     "id": "rvv005",
     "img": "/images/catalog/rvv/rvv005.jpg",
     "article": "РВВ005",

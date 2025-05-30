@@ -2295,6 +2295,17 @@
     "date": "2025-05-22"
   },
   {
+    "id": "tn4191",
+    "img": "/images/catalog/tn/a4/tn4191.jpg",
+    "article": "ТН4191",
+    "type": "tnA4",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 10,
+    "date": "2025-05-30"
+  },
+  {
     "id": "tn4192",
     "img": "/images/catalog/tn/a4/tn4192.jpg",
     "article": "ТН4192",
@@ -4167,6 +4178,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 18,
     "date": "2025-05-13"
+  },
+  {
+    "id": "tn3165",
+    "img": "/images/catalog/tn/a3/tn3165.jpg",
+    "article": "ТН3165",
+    "type": "tnA3",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 11,
+    "quantitySHS": 6,
+    "date": "2025-05-30"
   },
   {
     "id": "tn3166",

@@ -7322,9 +7322,9 @@
     "img": "/images/catalog/rvv/rvv009.jpg",
     "article": "РВВ009",
     "type": "rvv",
-    "quantityBeads": 26,
+    "quantityBeads": 25,
     "quantityHalfBeads": 1,
-    "quantityLuxe": 0,
+    "quantityLuxe": 1,
      "quantitySHS": 19,
     "date": "2025-05-18"
   },

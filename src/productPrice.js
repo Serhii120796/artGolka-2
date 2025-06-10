@@ -17,7 +17,7 @@ export const price = {
   dor: 140,
   rvs: 240,
   rvv: 270,
-  svb: 70,
+  svb: 75,
 };
 
 export const printPrice = 'А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';

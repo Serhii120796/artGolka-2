@@ -7032,6 +7032,17 @@
     "date": "2024-01-01"
   },
   {
+    "id": "bow-bs009",
+    "img": "/images/catalog/bow/bow-bs009.jpg",
+    "article": "Бант БС009",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2025-07-28"
+  },
+  {
     "id": "rvm001",
     "img": "/images/catalog/rvm/rvm001.jpg",
     "article": "РВМ001",

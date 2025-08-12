@@ -7250,6 +7250,17 @@
     "date": "2025-02-03"
   },
   {
+    "id": "rvm013",
+    "img": "/images/catalog/rvm/rvm013.jpg",
+    "article": "РВМ013",
+    "type": "rvm",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 14,
+    "date": "2025-08-12"
+  },
+  {
     "id": "dor001",
     "img": "/images/catalog/dor/dor001.jpg",
     "article": "ДОР001",
@@ -7501,6 +7512,17 @@
     "quantityLuxe": 0,
      "quantitySHS": 27,
     "date": "2024-12-05"
+  },
+  {
+    "id": "rvs016",
+    "img": "/images/catalog/rvs/rvs016.jpg",
+    "article": "РВС016",
+    "type": "rvs",
+    "quantityBeads": 29,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 0,
+     "quantitySHS": 23,
+    "date": "2025-08-12"
   },
   {
     "id": "rvs017",

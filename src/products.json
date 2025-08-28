@@ -6666,6 +6666,17 @@
     "date": "2025-08-21"
   },
   {
+    "id": "rps076",
+    "img": "/images/catalog/rps/rps076.jpg",
+    "article": "РПС076",
+    "type": "rps",
+    "quantityBeads": 20,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 13,
+    "date": "2025-08-28"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",
@@ -7812,6 +7823,20 @@
     "priceItem": 140,
     "title": "Свята Родина",
     "date": "2025-08-22"
+  },
+  {
+    "id": "a3+r006",
+    "img": "/images/catalog/svb/a3+r006.jpg",
+    "article": "А3+Р006",
+    "type": "svb",
+    "quantityBeads": 20,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 1,
+    "quantitySHS": 16,
+    "size": "(Розмір 30x47 см)",
+    "priceItem": 140,
+    "title": "Свята Родина",
+    "date": "2025-08-28"
   },
   {
     "id": "a3r002",

@@ -15,7 +15,7 @@ export const price = {
   bow: 90,
   rvm: 165,
   dor: 140,
-  rvs: 240,
+  rvs: 250,
   rvv: 270,
   svb: 75,
 };

@@ -16,7 +16,7 @@ export const price = {
   rvm: 165,
   dor: 140,
   rvs: 250,
-  rvv: 270,
+  rvv: 290,
   svb: 75,
 };
 

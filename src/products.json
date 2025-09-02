@@ -7756,6 +7756,17 @@
     "date": "2025-08-21"
   },
   {
+    "id": "rvs026",
+    "img": "/images/catalog/rvs/rvs026.jpg",
+    "article": "РВС026",
+    "type": "rvs",
+    "quantityBeads": 27,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 20,
+    "date": "2025-09-02"
+  },
+  {
     "id": "rvs027",
     "img": "/images/catalog/rvs/rvs027.jpg",
     "article": "РВС027",
@@ -7959,6 +7970,20 @@
     "priceItem": 120,
     "title": "Мадонна",
     "date": "2024-09-24"
+  },
+  {
+    "id": "a3r006",
+    "img": "/images/catalog/svb/a3r006.jpg",
+    "article": "А3Р006",
+    "type": "svb",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 11,
+    "size": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Молитва",
+    "date": "2025-09-02"
   },
   {
     "id": "a4r001",

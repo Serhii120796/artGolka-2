@@ -18,6 +18,7 @@ export const price = {
   rvs: 250,
   rvv: 290,
   svb: 75,
+  cx3030: 120,
 };
 
 export const printPrice = 'А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';

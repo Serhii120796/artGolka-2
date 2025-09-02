@@ -8272,6 +8272,78 @@
     "date": "2025-04-09"
   },
   {
+    "id": "cx3030-002",
+    "img": "/images/catalog/cx3030/cx3030-002.jpg",
+    "article": "СХ3030-002",
+    "type": "cx3030",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 6,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "title": "Мотанка-оберіг",
+    "date": "2025-08-01"
+  },
+  {
+    "id": "cx3030-003",
+    "img": "/images/catalog/cx3030/cx3030-003.jpg",
+    "article": "СХ3030-003",
+    "type": "cx3030",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 6,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "title": "Мотанка-оберіг",
+    "date": "2025-08-01"
+  },
+  {
+    "id": "cx3030-004",
+    "img": "/images/catalog/cx3030/cx3030-004.jpg",
+    "article": "СХ3030-004",
+    "type": "cx3030",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 12,
+    "title": "Мотанка-оберіг",
+    "date": "2025-08-01"
+  },
+  {
+    "id": "cx3030-005",
+    "img": "/images/catalog/cx3030/cx3030-005.jpg",
+    "article": "СХ3030-005",
+    "type": "cx3030",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 0,
+    "quantitySHS": 16,
+    "title": "Мотанка-оберіг",
+    "date": "2025-08-01"
+  },
+  {
+    "id": "cx3030-006",
+    "img": "/images/catalog/cx3030/cx3030-006.jpg",
+    "article": "СХ3030-006",
+    "type": "cx3030",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "Мотанка-оберіг",
+    "date": "2025-08-01"
+  },
+  {
+    "id": "cx3030-007",
+    "img": "/images/catalog/cx3030/cx3030-007.jpg",
+    "article": "СХ3030-007",
+    "type": "cx3030",
+    "quantityBeads": 23,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 24,
+    "title": "Мотанка-оберіг",
+    "date": "2025-08-01"
+  },
+  {
     "id": "m002",
     "img": "/images/catalog/mer/m002.jpg",
     "article": "002",

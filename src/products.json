@@ -5874,6 +5874,13 @@
     "date": "2024-01-01"
   },
   {
+    "id": "t125",
+    "img": "/images/catalog/tn/print/t125.jpg",
+    "article": "Т125",
+    "type": "tnPrint",
+    "date": "2024-01-01"
+  },
+  {
     "id": "rps001",
     "img": "/images/catalog/rps/rps001.jpg",
     "article": "РПС001",
@@ -8136,6 +8143,30 @@
     "quantitySHS": 13,
     "title": "МБ Замилування",
     "date": "2025-05-22"
+  },
+  {
+    "id": "a4r015",
+    "img": "/images/catalog/svb/a4r015.jpg",
+    "article": "А4Р015",
+    "type": "svb",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 6,
+    "quantitySHS": 13,
+    "title": "МБ Казанська",
+    "date": "2025-09-06"
+  },
+  {
+    "id": "a4r016",
+    "img": "/images/catalog/svb/a4r016.jpg",
+    "article": "А4Р016",
+    "type": "svb",
+    "quantityBeads": 7,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 6,
+    "quantitySHS": 13,
+    "title": "Вседержитель",
+    "date": "2025-09-06"
   },
   {
     "id": "a4003",

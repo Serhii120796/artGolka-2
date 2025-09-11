@@ -8070,6 +8070,20 @@
     "date": "2025-09-02"
   },
   {
+    "id": "a3r008",
+    "img": "/images/catalog/svb/a3r008.jpg",
+    "article": "А3Р008",
+    "type": "svb",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 10,
+    "size": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Молитва",
+    "date": "2025-09-11"
+  },
+  {
     "id": "a4r001",
     "img": "/images/catalog/svb/a4r001.jpg",
     "article": "А4Р001",

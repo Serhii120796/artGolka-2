@@ -2515,6 +2515,17 @@
     "date": "2025-08-27"
   },
   {
+    "id": "tn4207",
+    "img": "/images/catalog/tn/a4/tn4207.jpg",
+    "article": "ТН4207",
+    "type": "tnA4",
+    "quantityBeads": 7,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 4,
+    "date": "2025-09-17"
+  },
+  {
     "id": "tn4208",
     "img": "/images/catalog/tn/a4/tn4208.jpg",
     "article": "ТН4208",
@@ -2524,6 +2535,39 @@
     "quantityLuxe": 0,
     "quantitySHS": 4,
     "date": "2025-09-11"
+  },
+  {
+    "id": "tn4210",
+    "img": "/images/catalog/tn/a4/tn4210.jpg",
+    "article": "ТН4210",
+    "type": "tnA4",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 9,
+    "date": "2025-09-17"
+  },
+  {
+    "id": "tn4211",
+    "img": "/images/catalog/tn/a4/tn4211.jpg",
+    "article": "ТН4211",
+    "type": "tnA4",
+    "quantityBeads": 17,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "date": "2025-09-17"
+  },
+  {
+    "id": "tn4212",
+    "img": "/images/catalog/tn/a4/tn4212.jpg",
+    "article": "ТН4212",
+    "type": "tnA4",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 16,
+    "date": "2025-09-17"
   },
   {
     "id": "tn3001m",
@@ -8386,6 +8430,18 @@
     "date": "2025-04-09"
   },
   {
+    "id": "a4016",
+    "img": "/images/catalog/svb/a4016.jpg",
+    "article": "А4016",
+    "type": "svb",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "title": "Лаванда",
+    "date": "2025-09-17"
+  },
+  {
     "id": "cx3030-002",
     "img": "/images/catalog/cx3030/cx3030-002.jpg",
     "article": "СХ3030-002",
@@ -8456,6 +8512,18 @@
     "quantitySHS": 24,
     "title": "Мотанка-оберіг",
     "date": "2025-08-01"
+  },
+  {
+    "id": "cx3030-008",
+    "img": "/images/catalog/cx3030/cx3030-008.jpg",
+    "article": "СХ3030-008",
+    "type": "cx3030",
+    "quantityBeads": 21,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 20,
+    "title": "Мотанка-оберіг",
+    "date": "2025-09-17"
   },
   {
     "id": "m002",

@@ -8142,6 +8142,20 @@
     "date": "2025-09-11"
   },
   {
+    "id": "a3006",
+    "img": "/images/catalog/svb/a3006.jpg",
+    "article": "А3006",
+    "type": "svb",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 6,
+    "quantityLuxe": 0,
+    "quantitySHS": 21,
+    "size": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Гірський пейзаж",
+    "date": "2025-09-19"
+  },
+  {
     "id": "a4r001",
     "img": "/images/catalog/svb/a4r001.jpg",
     "article": "А4Р001",

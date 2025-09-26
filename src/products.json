@@ -8183,6 +8183,20 @@
     "title": "Таємна Вечеря",
     "date": "2025-09-25"
   },
+   {
+    "id": "a3r012",
+    "img": "/images/catalog/svb/a3r012.jpg",
+    "article": "А3Р012",
+    "type": "svb",
+    "quantityBeads": 21,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 5,
+    "quantitySHS": 18,
+    "size": "(Розмір А3)",
+    "priceItem": 120,
+    "title": "Таємна Вечеря",
+    "date": "2025-09-26"
+  },
   {
     "id": "a3r013",
     "img": "/images/catalog/svb/a3r013.jpg",

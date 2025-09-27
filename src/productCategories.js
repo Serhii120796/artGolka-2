@@ -1,7 +1,7 @@
 export const categories = {
   tn: {
     title: 'Термонаклейки',
-    list: {
+    subCtgs: {
       tnA5: 'А5',
       tnA4: 'А4',
       tnA3: 'А3',

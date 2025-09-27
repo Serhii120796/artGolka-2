@@ -31,7 +31,7 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
   const handleClick = buttonType => {
     abc(buttonType);
     
-    if (categories[buttonType].list) {
+    if (categories[buttonType].subCtgs) {
       toggleCategory(buttonType);
     } else {
       setOpenCategory(null);
@@ -55,15 +55,15 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
             <Button type="button" onClick={() => handleClick(type)}>
               {categories[type].title}
             </Button>
-            {categories[type].list && openCategory === type && (
+            {categories[type].subCtgs && openCategory === type && (
               <ul>
-                {Object.keys(categories[type].list).map(subType => (
+                {Object.keys(categories[type].subCtgs).map(subType => (
                   <li key={subType}>
                     <Button type="button" onClick={() => {
                       abc(subType);
                       onCloseMenu(); 
                     }}>
-                      {categories[type].list[subType]}
+                      {categories[type].subCtgs[subType]}
                     </Button>
                   </li>
                 ))}

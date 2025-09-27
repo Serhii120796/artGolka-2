@@ -19,7 +19,7 @@ export const Sidebar = ({ abc }) => {
               type="button"
               onClick={() => {
                 abc(type);
-                if (categories[type].list) {
+                if (categories[type].subCtgs) {
                   // якщо є підпункти — розгортаємо/згортаємо
                   toggleCategory(type);
                 } else {
@@ -30,12 +30,12 @@ export const Sidebar = ({ abc }) => {
             >
               {categories[type].title}
             </Button>
-            {categories[type].list && openCategory === type && (
+            {categories[type].subCtgs && openCategory === type && (
               <ul>
-                {Object.keys(categories[type].list).map(subType => (
+                {Object.keys(categories[type].subCtgs).map(subType => (
                   <ListItem key={subType} style={{ paddingLeft: '15px' }}>
                     <Button type="button" onClick={() => abc(subType)}>
-                      {categories[type].list[subType]}
+                      {categories[type].subCtgs[subType]}
                     </Button>
                   </ListItem>
                 ))}

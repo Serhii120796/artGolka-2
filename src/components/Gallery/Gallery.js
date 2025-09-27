@@ -2,8 +2,14 @@ import { GalleryItem } from '../GalleryItem/GalleryItem';
 import { Sidebar } from '../SideBar/SideBar';
 import { MobileMenu } from '../MobileMenu/MobileMenu.js';
 import products from '../../products.json';
-import { categoriesForSearch } from 'productCategories.js';
-import { Container, GalleryWraper, GalleryList, Item, NoSearch } from './Gallery.styled';
+import { categories, categoriesForSearch } from 'productCategories.js';
+import {
+  Container,
+  GalleryWraper,
+  GalleryList,
+  Item,
+  NoSearch,
+} from './Gallery.styled';
 import { useSearchParams } from 'react-router-dom';
 import { useEffect, useRef } from 'react';
 
@@ -23,9 +29,9 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
     (a, b) => new Date(b.date) - new Date(a.date)
   );
 
-  if (query === 'tn') {
+  if (categories[query]?.subCtgs) {
     currentGalleryList = currentGalleryList.filter(({ type }) =>
-      type.includes(query)
+      Object.keys(categories[query].subCtgs).includes(type)
     );
   } else if (query) {
     currentGalleryList = products
@@ -73,15 +79,19 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
         <Container>
           <Sidebar abc={changeFilter} />
           <GalleryWraper>
-          <GalleryList ref={galleryRef}>
-            {currentGalleryList.map(product => (
-              <Item key={product.id}>
-                <GalleryItem item={product} />
-              </Item>
-            ))}
-          </GalleryList>
-            {!currentGalleryList.length && <NoSearch>За запитом <span>"{productName}"</span> нічого не знайдено</NoSearch>}
-            </GalleryWraper>
+            <GalleryList ref={galleryRef}>
+              {currentGalleryList.map(product => (
+                <Item key={product.id}>
+                  <GalleryItem item={product} />
+                </Item>
+              ))}
+            </GalleryList>
+            {!currentGalleryList.length && (
+              <NoSearch>
+                За запитом <span>"{productName}"</span> нічого не знайдено
+              </NoSearch>
+            )}
+          </GalleryWraper>
         </Container>
       </section>
     </>

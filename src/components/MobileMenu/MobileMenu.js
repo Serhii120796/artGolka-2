@@ -53,7 +53,7 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
         {Object.keys(categories).map(type => (
           <li key={type}>
             <Button type="button" onClick={() => handleClick(type)}>
-              {categories[type].name}
+              {categories[type].title}
             </Button>
             {categories[type].list && openCategory === type && (
               <ul>

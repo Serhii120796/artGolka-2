@@ -28,7 +28,7 @@ export const Sidebar = ({ abc }) => {
                 }
               }}
             >
-              {categories[type].name}
+              {categories[type].title}
             </Button>
             {categories[type].list && openCategory === type && (
               <ul>

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, CloseButton, Icon, Text, Button } from './MobileMenu.styled';
+import { Menu, CloseButton, Icon, Link, Button } from './MobileMenu.styled';
 import { categories } from '../../productCategories.js';
 import { useEffect, useRef } from 'react';
 
@@ -48,7 +48,7 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
           ></use>
         </Icon>
       </CloseButton>
-      <Text>Каталог товарів</Text>
+      <Link to="/" onClick={onCloseMenu}>Каталог товарів</Link>
       <ul>
         {Object.keys(categories).map(type => (
           <li key={type}>

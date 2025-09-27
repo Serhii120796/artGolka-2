@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import css from 'styled-components';
 
 // export const Backdrop = css.div`
@@ -60,7 +61,8 @@ stroke: currentColor;
 fill: currentColor;
 `;
 
-export const Text = css.p`
+export const Link = css(NavLink)`
+display: block;
 margin-bottom: 20px;
 text-align: center;
 color: var(--primary-text-color-theme-dark);

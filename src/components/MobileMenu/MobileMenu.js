@@ -1,13 +1,22 @@
+import React, { useState } from 'react';
 import { Menu, CloseButton, Icon, Text, Button } from './MobileMenu.styled';
 import { categories } from '../../productCategories.js';
-import { useEffect, useRef  } from 'react';
+import { useEffect, useRef } from 'react';
 
 export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
   const windowRef = useRef(null);
+  const [openCategory, setOpenCategory] = useState(null);
+  const toggleCategory = type => {
+    setOpenCategory(prev => (prev === type ? null : type));
+  };
 
   useEffect(() => {
-    const handleClickOutside = (event) => {
-      if (windowRef.current && !windowRef.current.contains(event.target) && statusMenu) {
+    const handleClickOutside = event => {
+      if (
+        windowRef.current &&
+        !windowRef.current.contains(event.target) &&
+        statusMenu
+      ) {
         onCloseMenu();
       }
     };
@@ -22,13 +31,21 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
   const handleClick = buttonType => {
     abc(buttonType);
     onCloseMenu();
+
+    if (categories[buttonType].list) {
+      toggleCategory(buttonType);
+    } else {
+      setOpenCategory(null);
+    }
   };
 
   return (
     <Menu $status={statusMenu} ref={windowRef}>
       <CloseButton type="button" onClick={onCloseMenu}>
         <Icon width="24" height="24">
-          <use href={`${process.env.PUBLIC_URL}/images/icons.svg#icon-close`}></use>
+          <use
+            href={`${process.env.PUBLIC_URL}/images/icons.svg#icon-close`}
+          ></use>
         </Icon>
       </CloseButton>
       <Text>Каталог товарів</Text>
@@ -38,11 +55,14 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
             <Button type="button" onClick={() => handleClick(type)}>
               {categories[type].name}
             </Button>
-            {categories[type].list && (
+            {categories[type].list && openCategory === type && (
               <ul>
                 {Object.keys(categories[type].list).map(subType => (
                   <li key={subType}>
-                    <Button type="button" onClick={() => handleClick(subType)}>
+                    <Button type="button" onClick={() => {
+                      abc(subType);
+                      onCloseMenu(); 
+                    }}>
                       {categories[type].list[subType]}
                     </Button>
                   </li>

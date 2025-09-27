@@ -17,7 +17,8 @@ export const price = {
   dor: 140,
   rvs: 250,
   rvv: 290,
-  svb: 75,
+  sa3: 120,
+  sa4: 75,
   cx3030: 120,
 };
 

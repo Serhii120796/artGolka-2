@@ -30,12 +30,12 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
 
   const handleClick = buttonType => {
     abc(buttonType);
-    onCloseMenu();
-
+    
     if (categories[buttonType].list) {
       toggleCategory(buttonType);
     } else {
       setOpenCategory(null);
+      onCloseMenu(); // Закриваємо меню, якщо немає підпунктів
     }
   };
 

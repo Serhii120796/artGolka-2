@@ -1,8 +1,15 @@
 import React, { useState } from 'react';
-import { Menu, CloseButton, Icon, Link,ListItem, Button, IconDownArrow } from './MobileMenu.styled';
+import {
+  Menu,
+  CloseButton,
+  Icon,
+  Link,
+  ListItem,
+  Button,
+  IconDownArrow,
+} from './MobileMenu.styled';
 import { categories } from '../../productCategories.js';
 import { useEffect, useRef } from 'react';
-
 
 export const MobileMenu = ({ changeFilter, onCloseMenu, statusMenu }) => {
   const windowRef = useRef(null);
@@ -31,7 +38,7 @@ export const MobileMenu = ({ changeFilter, onCloseMenu, statusMenu }) => {
 
   const handleClick = buttonType => {
     changeFilter(buttonType);
-    
+
     if (categories[buttonType].subCtgs) {
       toggleCategory(buttonType);
     } else {
@@ -49,22 +56,27 @@ export const MobileMenu = ({ changeFilter, onCloseMenu, statusMenu }) => {
           ></use>
         </Icon>
       </CloseButton>
-      <Link to="/" onClick={onCloseMenu}>Каталог товарів</Link>
+      <Link to="/" onClick={onCloseMenu}>
+        Каталог товарів
+      </Link>
       <ul>
         {Object.keys(categories).map(type => (
           <ListItem key={type}>
             <Button type="button" onClick={() => handleClick(type)}>
               {categories[type].title}
+              {categories[type].subCtgs && <IconDownArrow />}
             </Button>
-            {categories[type].subCtgs && <IconDownArrow />}
             {categories[type].subCtgs && openCategory === type && (
               <ul>
                 {Object.keys(categories[type].subCtgs).map(subType => (
                   <li key={subType}>
-                    <Button type="button" onClick={() => {
-                      changeFilter(subType);
-                      onCloseMenu(); 
-                    }}>
+                    <Button
+                      type="button"
+                      onClick={() => {
+                        changeFilter(subType);
+                        onCloseMenu();
+                      }}
+                    >
                       {categories[type].subCtgs[subType]}
                     </Button>
                   </li>

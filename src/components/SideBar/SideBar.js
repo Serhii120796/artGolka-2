@@ -30,8 +30,8 @@ export const Sidebar = ({ changeFilter }) => {
               }}
             >
               {categories[type].title}
-            </Button>
             {categories[type].subCtgs && <IconDownArrow />}
+            </Button>
             {categories[type].subCtgs && openCategory === type && (
               <ul>
                 {Object.keys(categories[type].subCtgs).map(subType => (

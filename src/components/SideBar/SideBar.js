@@ -3,7 +3,7 @@ import { Aside, Text, ListItem, Button, IconDownArrow} from './SideBar.styled';
 import { categories } from '../../productCategories.js';
 
 
-export const Sidebar = ({ abc }) => {
+export const Sidebar = ({ changeFilter }) => {
   const [openCategory, setOpenCategory] = useState(null);
 
   const toggleCategory = type => {
@@ -19,7 +19,7 @@ export const Sidebar = ({ abc }) => {
             <Button
               type="button"
               onClick={() => {
-                abc(type);
+                changeFilter(type);
                 if (categories[type].subCtgs) {
                   // якщо є підпункти — розгортаємо/згортаємо
                   toggleCategory(type);
@@ -36,7 +36,7 @@ export const Sidebar = ({ abc }) => {
               <ul>
                 {Object.keys(categories[type].subCtgs).map(subType => (
                   <ListItem key={subType} style={{ paddingLeft: '15px' }}>
-                    <Button type="button" onClick={() => abc(subType)}>
+                    <Button type="button" onClick={() => changeFilter(subType)}>
                       {categories[type].subCtgs[subType]}
                     </Button>
                   </ListItem>

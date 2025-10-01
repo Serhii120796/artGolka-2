@@ -71,13 +71,13 @@ export const Gallery = ({ statusMenu, onCloseMenu }) => {
   return (
     <>
       <MobileMenu
-        abc={changeFilter}
+        changeFilter={changeFilter}
         onCloseMenu={onCloseMenu}
         statusMenu={statusMenu}
       />
       <section>
         <Container>
-          <Sidebar abc={changeFilter} />
+          <Sidebar changeFilter={changeFilter} />
           <GalleryWraper>
             <GalleryList ref={galleryRef}>
               {currentGalleryList.map(product => (

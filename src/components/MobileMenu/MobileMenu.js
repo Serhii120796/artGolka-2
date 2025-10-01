@@ -4,7 +4,7 @@ import { categories } from '../../productCategories.js';
 import { useEffect, useRef } from 'react';
 
 
-export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
+export const MobileMenu = ({ changeFilter, onCloseMenu, statusMenu }) => {
   const windowRef = useRef(null);
   const [openCategory, setOpenCategory] = useState(null);
   const toggleCategory = type => {
@@ -30,7 +30,7 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
   }, [windowRef, onCloseMenu, statusMenu]);
 
   const handleClick = buttonType => {
-    abc(buttonType);
+    changeFilter(buttonType);
     
     if (categories[buttonType].subCtgs) {
       toggleCategory(buttonType);
@@ -62,7 +62,7 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
                 {Object.keys(categories[type].subCtgs).map(subType => (
                   <li key={subType}>
                     <Button type="button" onClick={() => {
-                      abc(subType);
+                      changeFilter(subType);
                       onCloseMenu(); 
                     }}>
                       {categories[type].subCtgs[subType]}

@@ -25,7 +25,7 @@ export const Sidebar = ({ abc }) => {
                   toggleCategory(type);
                 } else {
                   // якщо нема підпунктів — ЗГОРНУТИ всі відкриті
-                  setOpenCategory(null); // <— тут ми згортатимемо Термонаклейки
+                  setOpenCategory(null); // <— тут ми згортатимемо всі відкриті
                 }
               }}
             >

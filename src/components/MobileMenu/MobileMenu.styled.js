@@ -1,5 +1,6 @@
 import { NavLink } from 'react-router-dom';
 import css from 'styled-components';
+import { RiArrowDownSFill } from 'react-icons/ri';
 
 // export const Backdrop = css.div`
 // position: fixed;
@@ -68,6 +69,11 @@ text-align: center;
 color: var(--primary-text-color-theme-dark);
 `;
 
+export const ListItem = css.li`
+position: relative;
+color: var(--primary-text-color-theme-dark);
+`;
+
 export const Button = css.button`
 width: 100%;
 padding: 5px;
@@ -76,10 +82,20 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.14;
 background-color: inherit;
-color: var(--primary-text-color-theme-dark);
+color: inherit;
 
 &:focus, &:active {
 color: var(--accent-color);
 letter-spacing: -0.01em;
 }
+`;
+
+export const IconDownArrow = css(RiArrowDownSFill)`
+// display: block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: inherit;
 `;

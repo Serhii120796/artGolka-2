@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { Menu, CloseButton, Icon, Link, Button } from './MobileMenu.styled';
+import { Menu, CloseButton, Icon, Link,ListItem, Button, IconDownArrow } from './MobileMenu.styled';
 import { categories } from '../../productCategories.js';
 import { useEffect, useRef } from 'react';
-import { RiArrowDownSFill } from "react-icons/ri";
+
 
 export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
   const windowRef = useRef(null);
@@ -52,11 +52,11 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
       <Link to="/" onClick={onCloseMenu}>Каталог товарів</Link>
       <ul>
         {Object.keys(categories).map(type => (
-          <li key={type}>
+          <ListItem key={type}>
             <Button type="button" onClick={() => handleClick(type)}>
               {categories[type].title}
-              {categories[type].subCtgs && <RiArrowDownSFill style={{ marginLeft: '5px' }} />}
             </Button>
+            {categories[type].subCtgs && <IconDownArrow />}
             {categories[type].subCtgs && openCategory === type && (
               <ul>
                 {Object.keys(categories[type].subCtgs).map(subType => (
@@ -71,7 +71,7 @@ export const MobileMenu = ({ abc, onCloseMenu, statusMenu }) => {
                 ))}
               </ul>
             )}
-          </li>
+          </ListItem>
         ))}
       </ul>
     </Menu>

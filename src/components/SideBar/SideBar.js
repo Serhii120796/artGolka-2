@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Aside, Text, ListItem, Button } from './SideBar.styled';
+import { Aside, Text, ListItem, Button, IconDownArrow} from './SideBar.styled';
 import { categories } from '../../productCategories.js';
-import { RiArrowDownSFill } from "react-icons/ri";
+
 
 export const Sidebar = ({ abc }) => {
   const [openCategory, setOpenCategory] = useState(null);
@@ -29,8 +29,9 @@ export const Sidebar = ({ abc }) => {
                 }
               }}
             >
-              {categories[type].title}{categories[type].subCtgs && <RiArrowDownSFill style={{ marginLeft: '5px' }} />}
+              {categories[type].title}
             </Button>
+            {categories[type].subCtgs && <IconDownArrow />}
             {categories[type].subCtgs && openCategory === type && (
               <ul>
                 {Object.keys(categories[type].subCtgs).map(subType => (

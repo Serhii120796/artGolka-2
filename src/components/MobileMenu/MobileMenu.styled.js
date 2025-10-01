@@ -70,11 +70,11 @@ color: var(--primary-text-color-theme-dark);
 `;
 
 export const ListItem = css.li`
-position: relative;
 color: var(--primary-text-color-theme-dark);
 `;
 
 export const Button = css.button`
+position: relative;
 width: 100%;
 padding: 5px;
 border: none;

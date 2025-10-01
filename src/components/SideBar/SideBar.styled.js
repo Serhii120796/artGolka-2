@@ -20,11 +20,11 @@ text-align: center;
 `;
 
 export const ListItem = css.li`
-position: relative;
 border: 1px solid #dfdfdf;
 `;
 
 export const Button = css.button`
+position: relative;
 display: block;
 width: 100%;
 border: none;

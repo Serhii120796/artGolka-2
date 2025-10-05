@@ -20,6 +20,7 @@ export const price = {
   sa3: 120,
   sa4: 75,
   cx3030: 120,
+  ia: 35,
 };
 
 export const printPrice = 'А5 - 50 грн., А4 - 95 грн., А3 - 180 грн.';

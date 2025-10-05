@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Aside, Text, ListItem, Button, IconDownArrow} from './SideBar.styled';
+import { Aside, Text, ListItem, Button, IconDownArrow } from './SideBar.styled';
 import { categories } from '../../productCategories.js';
-
 
 export const Sidebar = ({ changeFilter }) => {
   const [openCategory, setOpenCategory] = useState(null);
@@ -10,27 +9,20 @@ export const Sidebar = ({ changeFilter }) => {
     setOpenCategory(prev => (prev === type ? null : type));
   };
 
+  const handleClick = type => {
+    changeFilter(type);
+    toggleCategory(type);
+  };
+
   return (
     <Aside>
       <Text>Каталог товарів</Text>
       <ul>
         {Object.keys(categories).map(type => (
           <ListItem key={type}>
-            <Button
-              type="button"
-              onClick={() => {
-                changeFilter(type);
-                if (categories[type].subCtgs) {
-                  // якщо є підпункти — розгортаємо/згортаємо
-                  toggleCategory(type);
-                } else {
-                  // якщо нема підпунктів — ЗГОРНУТИ всі відкриті
-                  setOpenCategory(null); // <— тут ми згортатимемо всі відкриті
-                }
-              }}
-            >
+            <Button type="button" onClick={() => handleClick(type)}>
               {categories[type].title}
-            {categories[type].subCtgs && <IconDownArrow />}
+              {categories[type].subCtgs && <IconDownArrow />}
             </Button>
             {categories[type].subCtgs && openCategory === type && (
               <ul>

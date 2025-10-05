@@ -38,13 +38,11 @@ export const MobileMenu = ({ changeFilter, onCloseMenu, statusMenu }) => {
 
   const handleClick = buttonType => {
     changeFilter(buttonType);
+    toggleCategory(buttonType);
 
-    if (categories[buttonType].subCtgs) {
-      toggleCategory(buttonType);
-    } else {
-      setOpenCategory(null);
+    if (!categories[buttonType].subCtgs) {
       onCloseMenu(); // Закриваємо меню, якщо немає підпунктів
-    }
+    };
   };
 
   return (

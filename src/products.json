@@ -2581,6 +2581,17 @@
     "date": "2025-10-09"
   },
   {
+    "id": "tn4214",
+    "img": "/images/catalog/tn/a4/tn4214.jpg",
+    "article": "ТН4214",
+    "type": "tnA4",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "date": "2025-10-19"
+  },
+  {
     "id": "tn3001m",
     "img": "/images/catalog/tn/a3/tn3001m.jpg",
     "article": "ТН3001",
@@ -4729,6 +4740,16 @@
     "quantityLuxe": 0,
     "quantitySHS": 25,
     "date": "2025-09-29"
+  },{
+    "id": "tn2012",
+    "img": "/images/catalog/tn/a2/tn2012.jpg",
+    "article": "ТН2012",
+    "type": "tnA2",
+    "quantityBeads": 29,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "date": "2025-10-19"
   },
   {
     "id": "tnp001",
@@ -5981,6 +6002,12 @@
     "article": "Т127",
     "type": "tnPrint",
     "date": "2024-01-01"
+  },{
+    "id": "t128",
+    "img": "/images/catalog/tn/print/t128.jpg",
+    "article": "Т128",
+    "type": "tnPrint",
+    "date": "2024-01-01"
   },
   {
     "id": "rps001",
@@ -6830,6 +6857,28 @@
     "date": "2025-10-07"
   },
   {
+    "id": "rps079",
+    "img": "/images/catalog/rps/rps079.jpg",
+    "article": "РПС079",
+    "type": "rps",
+    "quantityBeads": 7,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 4,
+    "date": "2025-10-19"
+  },
+  {
+    "id": "rps080",
+    "img": "/images/catalog/rps/rps080.jpg",
+    "article": "РПС080",
+    "type": "rps",
+    "quantityBeads": 7,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 4,
+    "date": "2025-10-19"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",
@@ -7401,6 +7450,28 @@
     "quantityLuxe": 0,
      "quantitySHS": 0,
     "date": "2025-03-27"
+  },
+  {
+    "id": "bow079",
+    "img": "/images/catalog/bow/bow079.jpg",
+    "article": "Бант 079",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2025-10-19"
+  },
+  {
+    "id": "bow080",
+    "img": "/images/catalog/bow/bow080.jpg",
+    "article": "Бант 080",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2025-10-19"
   },
   {
     "id": "bow-bs002",

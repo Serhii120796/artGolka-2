@@ -6902,6 +6902,17 @@
     "date": "2025-10-19"
   },
   {
+    "id": "rps081",
+    "img": "/images/catalog/rps/rps081.jpg",
+    "article": "РПС081",
+    "type": "rps",
+    "quantityBeads": 32,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 21,
+    "date": "2025-10-29"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",
@@ -8768,6 +8779,18 @@
     "quantitySHS": 20,
     "title": "Мотанка-оберіг",
     "date": "2025-09-17"
+  },
+  {
+    "id": "cx3030-009",
+    "img": "/images/catalog/cx3030/cx3030-009.jpg",
+    "article": "СХ3030-009",
+    "type": "cx3030",
+    "quantityBeads": 17,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 15,
+    "title": "Маківка",
+    "date": "2025-09-29"
   },
   {
     "id": "ia5001",

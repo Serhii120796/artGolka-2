@@ -6913,6 +6913,17 @@
     "date": "2025-10-29"
   },
   {
+    "id": "rps082",
+    "img": "/images/catalog/rps/rps082.jpg",
+    "article": "РПС082",
+    "type": "rps",
+    "quantityBeads": 26,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 22,
+    "date": "2025-10-31"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",

@@ -8433,6 +8433,30 @@
     "date": "2025-11-04"
   },
   {
+    "id": "a3001",
+    "img": "/images/catalog/sa3/a3001.jpg",
+    "article": "А3001",
+    "type": "sa3",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 15,
+    "title": "Дерево кохання",
+    "date": "2025-11-06"
+  },
+  {
+    "id": "a3002",
+    "img": "/images/catalog/sa3/a3002.jpg",
+    "article": "А3002",
+    "type": "sa3",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "Заповіт",
+    "date": "2025-11-06"
+  },
+  {
     "id": "a3006",
     "img": "/images/catalog/sa3/a3006.jpg",
     "article": "А3006",

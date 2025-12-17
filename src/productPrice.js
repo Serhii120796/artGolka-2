@@ -7,7 +7,7 @@ export const price = {
   tnA3: 195,
   tnA4: 100,
   tnA5: 50,
-  tnP2060: 180,
+  tnP2060: 195,
   rps: 140,
   rpd: 85,
   rss: 140,

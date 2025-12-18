@@ -8650,6 +8650,18 @@
     "date": "2025-11-04"
   },
   {
+    "id": "a3r021",
+    "img": "/images/catalog/sa3/a3r021.jpg",
+    "article": "А3Р021",
+    "type": "sa3",
+    "quantityBeads": 25,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 22,
+    "title": "Різдво",
+    "date": "2025-12-18"
+  },
+  {
     "id": "a3001",
     "img": "/images/catalog/sa3/a3001.jpg",
     "article": "А3001",
@@ -8672,6 +8684,18 @@
     "quantitySHS": 17,
     "title": "Заповіт",
     "date": "2025-11-06"
+  },
+  {
+    "id": "a3005",
+    "img": "/images/catalog/sa3/a3005.jpg",
+    "article": "А3005",
+    "type": "sa3",
+    "quantityBeads": 39,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 32,
+    "title": "Лавандовий будинок",
+    "date": "2025-09-19"
   },
   {
     "id": "a3006",
@@ -8708,6 +8732,42 @@
     "quantitySHS": 11,
     "title": "Вовки",
     "date": "2025-12-11"
+  },
+  {
+    "id": "a3011",
+    "img": "/images/catalog/sa3/a3011.jpg",
+    "article": "А3011",
+    "type": "sa3",
+    "quantityBeads": 23,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 21,
+    "title": "Карта України",
+    "date": "2025-12-18"
+  },
+  {
+    "id": "a3012",
+    "img": "/images/catalog/sa3/a3012.jpg",
+    "article": "А3012",
+    "type": "sa3",
+    "quantityBeads": 23,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 21,
+    "title": "Карта України",
+    "date": "2025-12-18"
+  },
+  {
+    "id": "a3013",
+    "img": "/images/catalog/sa3/a3013.jpg",
+    "article": "А3013",
+    "type": "sa3",
+    "quantityBeads": 34,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 21,
+    "title": "Вовки",
+    "date": "2025-12-18"
   },
   {
     "id": "a4003",

@@ -8770,6 +8770,42 @@
     "date": "2025-12-18"
   },
   {
+    "id": "a3014",
+    "img": "/images/catalog/sa3/a3014.jpg",
+    "article": "А3014",
+    "type": "sa3",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "title": "Вовки",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "a3015",
+    "img": "/images/catalog/sa3/a3015.jpg",
+    "article": "А3015",
+    "type": "sa3",
+    "quantityBeads": 17,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 14,
+    "title": "Вовки",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "a3016",
+    "img": "/images/catalog/sa3/a3016.jpg",
+    "article": "А3016",
+    "type": "sa3",
+    "quantityBeads": 12,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "title": "Під крилом",
+    "date": "2025-12-21"
+  },
+  {
     "id": "a4003",
     "img": "/images/catalog/sa4/a4003.jpg",
     "article": "А4003",

@@ -8650,6 +8650,18 @@
     "date": "2025-11-04"
   },
   {
+    "id": "a3r020",
+    "img": "/images/catalog/sa3r/a3r020.jpg",
+    "article": "А3Р020",
+    "type": "sa3r",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 8,
+    "title": "Мадонна",
+    "date": "2025-11-05"
+  },
+  {
     "id": "a3r021",
     "img": "/images/catalog/sa3r/a3r021.jpg",
     "article": "А3Р021",
@@ -8804,6 +8816,18 @@
     "quantitySHS": 13,
     "title": "Під крилом",
     "date": "2025-12-21"
+  },
+  {
+    "id": "a3017",
+    "img": "/images/catalog/sa3/a3017.jpg",
+    "article": "А3017",
+    "type": "sa3",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "Мужра сова",
+    "date": "2025-12-24"
   },
   {
     "id": "a4003",

@@ -2680,6 +2680,17 @@
     "date": "2025-12-01"
   },
   {
+    "id": "tn4222",
+    "img": "/images/catalog/tn/a4/tn4222.jpg",
+    "article": "ТН4222",
+    "type": "tnA4",
+    "quantityBeads": 3,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 6,
+    "quantitySHS": 7,
+    "date": "2026-01-03"
+  },
+  {
     "id": "tn4223",
     "img": "/images/catalog/tn/a4/tn4223.jpg",
     "article": "ТН4223",

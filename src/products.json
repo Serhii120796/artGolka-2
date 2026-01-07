@@ -9124,6 +9124,42 @@
     "date": "2026-01-03"
   },
   {
+    "id": "a4018",
+    "img": "/images/catalog/sa4/a4018.jpg",
+    "article": "А4018",
+    "type": "sa4",
+    "quantityBeads": 8,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 8,
+    "title": "Фея мохіто",
+    "date": "2026-01-07"
+  },
+  {
+    "id": "a4019",
+    "img": "/images/catalog/sa4/a4019.jpg",
+    "article": "А4019",
+    "type": "sa4",
+    "quantityBeads": 12,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 12,
+    "title": "Фея капучіно",
+    "date": "2026-01-07"
+  },
+  {
+    "id": "a4020",
+    "img": "/images/catalog/sa4/a4020.jpg",
+    "article": "А4020",
+    "type": "sa4",
+    "quantityBeads": 8,
+    "quantityHalfBeads": 6,
+    "quantityLuxe": 0,
+    "quantitySHS": 14,
+    "title": "Фея мартіні",
+    "date": "2026-01-07"
+  },
+  {
     "id": "a4r001",
     "img": "/images/catalog/sa4r/a4r001.jpg",
     "article": "А4Р001",

@@ -9171,6 +9171,30 @@
     "date": "2026-01-07"
   },
   {
+    "id": "a4021",
+    "img": "/images/catalog/sa4/a4021.jpg",
+    "article": "А4021",
+    "type": "sa4",
+    "quantityBeads": 5,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 6,
+    "title": "Кава в парижі",
+    "date": "2026-01-09"
+  },
+  {
+    "id": "a4022",
+    "img": "/images/catalog/sa4/a4022.jpg",
+    "article": "А4022",
+    "type": "sa4",
+    "quantityBeads": 5,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 6,
+    "title": "Романтична кава",
+    "date": "2026-01-09"
+  },
+  {
     "id": "a4r001",
     "img": "/images/catalog/sa4r/a4r001.jpg",
     "article": "А4Р001",

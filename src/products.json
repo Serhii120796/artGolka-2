@@ -9218,6 +9218,18 @@
     "date": "2026-01-10"
   },
   {
+    "id": "a4024",
+    "img": "/images/catalog/sa4/a4024.jpg",
+    "article": "А4024",
+    "type": "sa4",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 12,
+    "title": "Львівська кава",
+    "date": "2026-01-14"
+  },
+  {
     "id": "a4r001",
     "img": "/images/catalog/sa4r/a4r001.jpg",
     "article": "А4Р001",

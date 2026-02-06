@@ -9252,6 +9252,18 @@
     "date": "2026-01-14"
   },
   {
+    "id": "a4025",
+    "img": "/images/catalog/sa4/a4025.jpg",
+    "article": "А4025",
+    "type": "sa4",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 12,
+    "title": "Серденько",
+    "date": "2026-02-06"
+  },
+  {
     "id": "a4r001",
     "img": "/images/catalog/sa4r/a4r001.jpg",
     "article": "А4Р001",

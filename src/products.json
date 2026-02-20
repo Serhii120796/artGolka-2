@@ -7197,6 +7197,17 @@
     "date": "2026-02-19"
   },
   {
+    "id": "rps092",
+    "img": "/images/catalog/rps/rps092.jpg",
+    "article": "РПС092",
+    "type": "rps",
+    "quantityBeads": 4,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 7,
+     "quantitySHS": 9,
+    "date": "2026-02-20"
+  },
+  {
     "id": "rps093",
     "img": "/images/catalog/rps/rps093.jpg",
     "article": "РПС093",
@@ -8932,6 +8943,18 @@
     "quantitySHS": 21,
     "title": "Гірський пейзаж",
     "date": "2025-09-19"
+  },
+  {
+    "id": "a3008",
+    "img": "/images/catalog/sa3/a3008.jpg",
+    "article": "А3008",
+    "type": "sa3",
+    "quantityBeads": 6,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 6,
+    "quantitySHS": 9,
+    "title": "Заповіт",
+    "date": "2025-11-21"
   },
   {
     "id": "a3009",

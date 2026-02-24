@@ -8023,6 +8023,28 @@
     "date": "2025-08-12"
   },
   {
+    "id": "rvm014",
+    "img": "/images/catalog/rvm/rvm014.jpg",
+    "article": "РВМ014",
+    "type": "rvm",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 8,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "rvm016",
+    "img": "/images/catalog/rvm/rvm016.jpg",
+    "article": "РВМ016",
+    "type": "rvm",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 8,
+    "date": "2026-02-24"
+  },
+  {
     "id": "dor001",
     "img": "/images/catalog/dor/dor001.jpg",
     "article": "ДОР001",
@@ -9746,6 +9768,18 @@
     "quantitySHS": 15,
     "title": "Маківка",
     "date": "2025-09-29"
+  },
+  {
+    "id": "cx3030-010",
+    "img": "/images/catalog/cx3030/cx3030-010.jpg",
+    "article": "СХ3030-010",
+    "type": "cx3030",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "Берегиня світанку",
+    "date": "2026-02-24"
   },
   {
     "id": "ia5001",

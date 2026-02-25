@@ -9782,6 +9782,30 @@
     "date": "2026-02-24"
   },
   {
+    "id": "cx3030-011",
+    "img": "/images/catalog/cx3030/cx3030-011.jpg",
+    "article": "СХ3030-011",
+    "type": "cx3030",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 16,
+    "title": "Годинник",
+    "date": "2026-02-25"
+  },
+  {
+    "id": "cx3030-012",
+    "img": "/images/catalog/cx3030/cx3030-012.jpg",
+    "article": "СХ3030-012",
+    "type": "cx3030",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 12,
+    "title": "Мотанка",
+    "date": "2026-02-25"
+  },
+  {
     "id": "ia5001",
     "img": "/images/catalog/ia/ia5001.jpg",
     "article": "ІА5001",

@@ -5390,6 +5390,17 @@
     "date": "2025-09-03"
   },
   {
+    "id": "tnp039",
+    "img": "/images/catalog/tn/tapestry/tnp039.jpg",
+    "article": "ТНП039",
+    "type": "tnP2060",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 11,
+    "date": "2025-09-14"
+  },
+  {
     "id": "t001",
     "img": "/images/catalog/tn/print/t001.jpg",
     "article": "Т001",
@@ -9198,6 +9209,18 @@
     "quantitySHS": 29,
     "title": "На стражі ночі",
     "date": "2026-01-03"
+  },
+  {
+    "id": "a4001",
+    "img": "/images/catalog/sa4/a4001.jpg",
+    "article": "А4001",
+    "type": "sa4",
+    "quantityBeads": 10,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 11,
+    "title": "Перше диво",
+    "date": "2026-03-13"
   },
   {
     "id": "a4003",

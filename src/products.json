@@ -7373,6 +7373,17 @@
     "date": "2026-03-25"
   },
   {
+    "id": "rps100",
+    "img": "/images/catalog/rps/rps100.jpg",
+    "article": "РПС100",
+    "type": "rps",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 10,
+    "quantitySHS": 21,
+    "date": "2026-04-02"
+  },
+  {
     "id": "rpd001",
     "img": "/images/catalog/rpd/rpd001.jpg",
     "article": "РПД001",
@@ -9776,6 +9787,18 @@
     "quantitySHS": 0,
     "title": "Писанки",
     "date": "2026-03-17"
+  },
+  {
+    "id": "a4041",
+    "img": "/images/catalog/sa4/a4041.jpg",
+    "article": "А4041",
+    "type": "sa4",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2026-04-02"
   },
   {
     "id": "a4r001",

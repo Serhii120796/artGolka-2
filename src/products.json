@@ -8034,6 +8034,17 @@
     "date": "2026-03-30"
   },
   {
+    "id": "bow100",
+    "img": "/images/catalog/bow/bow100.jpg",
+    "article": "Бант 100",
+    "type": "bow",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 0,
+    "date": "2026-04-04"
+  },
+  {
     "id": "bow-bs002",
     "img": "/images/catalog/bow/bow-bs002.jpg",
     "article": "Бант БС002",
@@ -9799,6 +9810,30 @@
     "quantitySHS": 0,
     "title": "Писанки",
     "date": "2026-04-02"
+  },
+  {
+    "id": "a4042",
+    "img": "/images/catalog/sa4/a4042.jpg",
+    "article": "А4042",
+    "type": "sa4",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "a4043",
+    "img": "/images/catalog/sa4/a4043.jpg",
+    "article": "А4043",
+    "type": "sa4",
+    "quantityBeads": 0,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Писанки",
+    "date": "2026-04-04"
   },
   {
     "id": "a4r001",

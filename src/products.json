@@ -7615,6 +7615,17 @@
     "date": "2026-03-30"
   },
   {
+    "id": "rpd022",
+    "img": "/images/catalog/rpd/rpd022.jpg",
+    "article": "РПД022",
+    "type": "rpd",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 4,
+     "quantitySHS": 17,
+    "date": "2026-04-08"
+  },
+  {
     "id": "rss001",
     "img": "/images/catalog/rss/rss001.jpg",
     "article": "РСС001",
@@ -9930,6 +9941,30 @@
     "quantitySHS": 14,
     "title": "МБ Замилування",
     "date": "2025-04-09"
+  },
+  {
+    "id": "a4r010",
+    "img": "/images/catalog/sa4r/a4r010.jpg",
+    "article": "А4Р010",
+    "type": "sa4r",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 7,
+    "quantitySHS": 14,
+    "title": "МБ Казанська",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "a4r011",
+    "img": "/images/catalog/sa4r/a4r011.jpg",
+    "article": "А4Р011",
+    "type": "sa4r",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 7,
+    "quantitySHS": 13,
+    "title": "Вседержитель",
+    "date": "2026-04-08"
   },
   {
     "id": "a4r012",

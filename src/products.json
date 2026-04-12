@@ -9343,6 +9343,18 @@
     "date": "2026-01-03"
   },
   {
+    "id": "a3021",
+    "img": "/images/catalog/sa3/a3021.jpg",
+    "article": "А3021",
+    "type": "sa3",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 18,
+    "title": "Пухнастий мисливець",
+    "date": "2026-04-12"
+  },
+  {
     "id": "a3022",
     "img": "/images/catalog/sa3/a3022.jpg",
     "article": "А3022",
@@ -9352,6 +9364,18 @@
     "quantityLuxe": 0,
     "quantitySHS": 16,
     "title": "Пара коней",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "a3023",
+    "img": "/images/catalog/sa3/a3023.jpg",
+    "article": "А3023",
+    "type": "sa3",
+    "quantityBeads": 33,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 22,
+    "title": "Світло і тінь",
     "date": "2026-04-12"
   },
   {

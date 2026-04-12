@@ -9343,6 +9343,18 @@
     "date": "2026-01-03"
   },
   {
+    "id": "a3022",
+    "img": "/images/catalog/sa3/a3022.jpg",
+    "article": "А3022",
+    "type": "sa3",
+    "quantityBeads": 25,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 16,
+    "title": "Пара коней",
+    "date": "2026-04-12"
+  },
+  {
     "id": "a4001",
     "img": "/images/catalog/sa4/a4001.jpg",
     "article": "А4001",

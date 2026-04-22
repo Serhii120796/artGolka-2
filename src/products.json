@@ -4874,6 +4874,17 @@
     "date": "2026-03-18"
   },
   {
+    "id": "tn3193",
+    "img": "/images/catalog/tn/a3/tn3193.jpg",
+    "article": "ТН3193",
+    "type": "tnA3",
+    "quantityBeads": 6,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 4,
+    "date": "2026-04-22"
+  },
+  {
     "id": "tn2001",
     "img": "/images/catalog/tn/a2/tn2001.jpg",
     "article": "ТН2001",
@@ -9400,6 +9411,30 @@
     "quantitySHS": 22,
     "title": "Світло і тінь",
     "date": "2026-04-12"
+  },
+  {
+    "id": "a3024",
+    "img": "/images/catalog/sa3/a3024.jpg",
+    "article": "А3024",
+    "type": "sa3",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "Магнолії в вазі",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "a3025",
+    "img": "/images/catalog/sa3/a3025.jpg",
+    "article": "А3025",
+    "type": "sa3",
+    "quantityBeads": 38,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 3,
+    "quantitySHS": 31,
+    "title": "Букет магнолій",
+    "date": "2026-04-22"
   },
   {
     "id": "a4001",

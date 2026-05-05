@@ -9582,6 +9582,18 @@
     "date": "2026-04-30"
   },
   {
+    "id": "a3031",
+    "img": "/images/catalog/sa3/a3031.jpg",
+    "article": "А3031",
+    "type": "sa3",
+    "quantityBeads": 22,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "title": "Маскарад",
+    "date": "2026-05-05"
+  },
+  {
     "id": "a4001",
     "img": "/images/catalog/sa4/a4001.jpg",
     "article": "А4001",
@@ -10491,6 +10503,18 @@
     "quantitySHS": 12,
     "title": "Мотанка",
     "date": "2026-02-25"
+  },
+  {
+    "id": "cx3030-013",
+    "img": "/images/catalog/cx3030/cx3030-013.jpg",
+    "article": "СХ3030-013",
+    "type": "cx3030",
+    "quantityBeads": 36,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 29,
+    "title": "За маскою",
+    "date": "2026-05-05"
   },
   {
     "id": "ia5001",

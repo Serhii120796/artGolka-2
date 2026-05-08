@@ -8866,6 +8866,17 @@
     "date": "2026-02-16"
   },
   {
+    "id": "rvs038",
+    "img": "/images/catalog/rvs/rvs038.jpg",
+    "article": "РВС038",
+    "type": "rvs",
+    "quantityBeads": 26,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 20,
+    "date": "2026-05-07"
+  },
+  {
     "id": "rvv001",
     "img": "/images/catalog/rvv/rvv001.jpg",
     "article": "РВВ001",
@@ -10537,6 +10548,18 @@
     "quantitySHS": 29,
     "title": "За маскою",
     "date": "2026-05-05"
+  },
+  {
+    "id": "cx3030-014",
+    "img": "/images/catalog/cx3030/cx3030-014.jpg",
+    "article": "СХ3030-014",
+    "type": "cx3030",
+    "quantityBeads": 37,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 1,
+    "quantitySHS": 0,
+    "title": "Тіні Венеції",
+    "date": "2026-05-07"
   },
   {
     "id": "ia5001",

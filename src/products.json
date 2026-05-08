@@ -4947,6 +4947,28 @@
     "date": "2026-04-21"
   },
   {
+    "id": "tn3196",
+    "img": "/images/catalog/tn/a3/tn3196.jpg",
+    "article": "ТН3196",
+    "type": "tnA3",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "date": "2026-05-08"
+  },
+  {
+    "id": "tn3197",
+    "img": "/images/catalog/tn/a3/tn3197.jpg",
+    "article": "ТН3197",
+    "type": "tnA3",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 13,
+    "date": "2026-05-08"
+  },
+  {
     "id": "tn2001",
     "img": "/images/catalog/tn/a2/tn2001.jpg",
     "article": "ТН2001",

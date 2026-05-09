@@ -4947,6 +4947,17 @@
     "date": "2026-04-21"
   },
   {
+    "id": "tn3195",
+    "img": "/images/catalog/tn/a3/tn3195.jpg",
+    "article": "ТН3195",
+    "type": "tnA3",
+    "quantityBeads": 21,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 1,
+    "quantitySHS": 16,
+    "date": "2026-05-09"
+  },
+  {
     "id": "tn3196",
     "img": "/images/catalog/tn/a3/tn3196.jpg",
     "article": "ТН3196",
@@ -9625,6 +9636,30 @@
     "quantitySHS": 19,
     "title": "Маскарад",
     "date": "2026-05-05"
+  },
+  {
+    "id": "a3032",
+    "img": "/images/catalog/sa3/a3032.jpg",
+    "article": "А3032",
+    "type": "sa3",
+    "quantityBeads": 23,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 21,
+    "title": "Театр",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "a3033",
+    "img": "/images/catalog/sa3/a3033.jpg",
+    "article": "А3033",
+    "type": "sa3",
+    "quantityBeads": 26,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 21,
+    "title": "Карнавал",
+    "date": "2026-05-08"
   },
   {
     "id": "a4001",

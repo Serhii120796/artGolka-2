@@ -8250,6 +8250,17 @@
     "date": "2024-01-01"
   },
   {
+    "id": "rvm004",
+    "img": "/images/catalog/rvm/rvm004.jpg",
+    "article": "РВМ004",
+    "type": "rvm",
+    "quantityBeads": 21,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 15,
+    "date": "2024-01-01"
+  },
+  {
     "id": "rvm005",
     "img": "/images/catalog/rvm/rvm005.jpg",
     "article": "РВМ005",
@@ -8357,6 +8368,17 @@
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
      "quantitySHS": 8,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "rvm015",
+    "img": "/images/catalog/rvm/rvm015.jpg",
+    "article": "РВМ015",
+    "type": "rvm",
+    "quantityBeads": 28,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 25,
     "date": "2026-02-24"
   },
   {

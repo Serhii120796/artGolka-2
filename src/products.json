@@ -9728,6 +9728,30 @@
     "date": "2026-05-08"
   },
   {
+    "id": "a3035",
+    "img": "/images/catalog/sa3/a3035.jpg",
+    "article": "А3035",
+    "type": "sa3",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 15,
+    "title": "Мереживна вуаль",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "a3036",
+    "img": "/images/catalog/sa3/a3036.jpg",
+    "article": "А3036",
+    "type": "sa3",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 6,
+    "quantityLuxe": 0,
+    "quantitySHS": 22,
+    "title": "Голубка",
+    "date": "2026-05-15"
+  },
+  {
     "id": "a4001",
     "img": "/images/catalog/sa4/a4001.jpg",
     "article": "А4001",

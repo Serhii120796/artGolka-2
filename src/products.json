@@ -9764,6 +9764,30 @@
     "date": "2026-05-15"
   },
   {
+    "id": "a3038",
+    "img": "/images/catalog/sa3/a3038.jpg",
+    "article": "А3038",
+    "type": "sa3",
+    "quantityBeads": 20,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "title": "Шовкові півонії",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "a3039",
+    "img": "/images/catalog/sa3/a3039.jpg",
+    "article": "А3039",
+    "type": "sa3",
+    "quantityBeads": 20,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "title": "Рожеві півонії",
+    "date": "2026-05-17"
+  },
+  {
     "id": "a4001",
     "img": "/images/catalog/sa4/a4001.jpg",
     "article": "А4001",

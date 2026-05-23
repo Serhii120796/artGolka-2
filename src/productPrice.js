@@ -2,7 +2,7 @@ export const price = {
   beads: 21,
   halfBeads: 12,
   luxe: 24,
-  shs: 7,
+  shs: 8,
   tnA2: 340,
   tnA3: 195,
   tnA4: 100,

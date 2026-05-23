@@ -2764,6 +2764,17 @@
     "date": "2026-05-12"
   },
   {
+    "id": "tn4229",
+    "img": "/images/catalog/tn/a4/tn4229.jpg",
+    "article": "ТН4229",
+    "type": "tnA4",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "date": "2026-05-23"
+  },
+  {
     "id": "tn3001m",
     "img": "/images/catalog/tn/a3/tn3001m.jpg",
     "article": "ТН3001",
@@ -9808,6 +9819,30 @@
     "quantitySHS": 19,
     "title": "Рожеві півонії",
     "date": "2026-05-17"
+  },
+  {
+    "id": "a3040",
+    "img": "/images/catalog/sa3/a3040.jpg",
+    "article": "А3040",
+    "type": "sa3",
+    "quantityBeads": 29,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 25,
+    "title": "Квіткова симфонія",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "a3041",
+    "img": "/images/catalog/sa3/a3041.jpg",
+    "article": "А3041",
+    "type": "sa3",
+    "quantityBeads": 32,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 30,
+    "title": "Весняна акварель",
+    "date": "2026-05-23"
   },
   {
     "id": "a4001",

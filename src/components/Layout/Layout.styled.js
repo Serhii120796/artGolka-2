@@ -39,8 +39,6 @@ display: none;
 
 @media (min-width: 768px) {
     display: block;
-    padding-top: 20px;
-    padding-bottom: 20px;
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 20px;

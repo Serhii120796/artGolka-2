@@ -24,7 +24,7 @@ export const Layout = ({ onOpenMenu }) => {
     <>
       <HeaderCss>
         <Container>
-          <Link to="/">ArtGolka</Link>
+          <Link to="/"><img src={`${process.env.PUBLIC_URL}/images/artgolka.svg`} alt='' width='130px'/></Link>
           <BurgerButton type="button" onClick={() => onOpenMenu()}>
             <Icon width="18" height="18">
               <use href={`${process.env.PUBLIC_URL}/images/icons.svg#burger-icon`}></use>

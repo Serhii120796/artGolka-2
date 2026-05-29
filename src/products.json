@@ -5046,6 +5046,17 @@
     "date": "2026-05-12"
   },
   {
+    "id": "tn3201",
+    "img": "/images/catalog/tn/a3/tn3201.jpg",
+    "article": "ТН3201",
+    "type": "tnA3",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 9,
+    "date": "2026-05-28"
+  },
+  {
     "id": "tn3202",
     "img": "/images/catalog/tn/a3/tn3202.jpg",
     "article": "ТН3202",

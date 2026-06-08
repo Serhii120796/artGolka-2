@@ -5112,6 +5112,17 @@
     "date": "2026-06-04"
   },
   {
+    "id": "tn3209",
+    "img": "/images/catalog/tn/a3/tn3209.jpg",
+    "article": "ТН3209",
+    "type": "tnA3",
+    "quantityBeads": 17,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 11,
+    "date": "2026-06-08"
+  },
+  {
     "id": "tn2001",
     "img": "/images/catalog/tn/a2/tn2001.jpg",
     "article": "ТН2001",
@@ -9728,6 +9739,18 @@
     "date": "2026-01-03"
   },
   {
+    "id": "a3019",
+    "img": "/images/catalog/sa3/a3019.jpg",
+    "article": "А3019",
+    "type": "sa3",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 10,
+    "title": "Подих свободи",
+    "date": "2026-06-08"
+  },
+  {
     "id": "a3020",
     "img": "/images/catalog/sa3/a3020.jpg",
     "article": "А3020",
@@ -9822,6 +9845,18 @@
     "quantitySHS": 29,
     "title": "Квітковий дотик",
     "date": "2026-04-27"
+  },
+  {
+    "id": "a3028",
+    "img": "/images/catalog/sa3/a3028.jpg",
+    "article": "А3028",
+    "type": "sa3",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "Бордові півонії",
+    "date": "2026-06-08"
   },
   {
     "id": "a3029",

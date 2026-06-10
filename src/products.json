@@ -5123,6 +5123,17 @@
     "date": "2026-06-08"
   },
   {
+    "id": "tn3210",
+    "img": "/images/catalog/tn/a3/tn3210.jpg",
+    "article": "ТН3210",
+    "type": "tnA3",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 15,
+    "date": "2026-06-10"
+  },
+  {
     "id": "tn2001",
     "img": "/images/catalog/tn/a2/tn2001.jpg",
     "article": "ТН2001",
@@ -5265,6 +5276,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 28,
     "date": "2026-05-21"
+  },
+  {
+    "id": "tn2017",
+    "img": "/images/catalog/tn/a2/tn2017.jpg",
+    "article": "ТН2017",
+    "type": "tnA2",
+    "quantityBeads": 37,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 24,
+    "date": "2026-06-10"
   },
   {
     "id": "tnp001",
@@ -9919,6 +9941,18 @@
     "date": "2026-05-08"
   },
   {
+    "id": "a3034",
+    "img": "/images/catalog/sa3/a3034.jpg",
+    "article": "А3034",
+    "type": "sa3",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 15,
+    "title": "Квітковий поцілунок",
+    "date": "2026-06-10"
+  },
+  {
     "id": "a3035",
     "img": "/images/catalog/sa3/a3035.jpg",
     "article": "А3035",
@@ -10001,6 +10035,42 @@
     "quantitySHS": 30,
     "title": "Весняна акварель",
     "date": "2026-05-23"
+  },
+  {
+    "id": "a3043",
+    "img": "/images/catalog/sa3/a3043.jpg",
+    "article": "А3043",
+    "type": "sa3",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 15,
+    "title": "Світанок",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "a3044",
+    "img": "/images/catalog/sa3/a3044.jpg",
+    "article": "А3044",
+    "type": "sa3",
+    "quantityBeads": 32,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 23,
+    "title": "Пристрасть",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "a3045",
+    "img": "/images/catalog/sa3/a3045.jpg",
+    "article": "А3045",
+    "type": "sa3",
+    "quantityBeads": 32,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 23,
+    "title": "Аромат кохання",
+    "date": "2026-06-10"
   },
   {
     "id": "a4001",

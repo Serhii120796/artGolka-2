@@ -10099,6 +10099,18 @@
     "date": "2026-05-23"
   },
   {
+    "id": "a3042",
+    "img": "/images/catalog/sa3/a3042.jpg",
+    "article": "А3042",
+    "type": "sa3",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "Елегантність",
+    "date": "2026-06-16"
+  },
+  {
     "id": "a3043",
     "img": "/images/catalog/sa3/a3043.jpg",
     "article": "А3043",
@@ -10133,6 +10145,18 @@
     "quantitySHS": 23,
     "title": "Аромат кохання",
     "date": "2026-06-10"
+  },
+  {
+    "id": "a3046",
+    "img": "/images/catalog/sa3/a3046.jpg",
+    "article": "А3046",
+    "type": "sa3",
+    "quantityBeads": 17,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 17,
+    "title": "В Парижі",
+    "date": "2026-06-16"
   },
   {
     "id": "a4001",

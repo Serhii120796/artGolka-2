@@ -9148,6 +9148,28 @@
     "date": "2026-05-07"
   },
   {
+    "id": "rvs040",
+    "img": "/images/catalog/rvs/rvs040.jpg",
+    "article": "РВС040",
+    "type": "rvs",
+    "quantityBeads": 34,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+     "quantitySHS": 25,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "rvs041",
+    "img": "/images/catalog/rvs/rvs041.jpg",
+    "article": "РВС041",
+    "type": "rvs",
+    "quantityBeads": 32,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+     "quantitySHS": 25,
+    "date": "2026-06-16"
+  },
+  {
     "id": "rvv001",
     "img": "/images/catalog/rvv/rvv001.jpg",
     "article": "РВВ001",

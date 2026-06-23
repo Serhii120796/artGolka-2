@@ -247,6 +247,13 @@
     "date": "2026-06-12"
   },
   {
+    "id": "tn5024",
+    "img": "/images/catalog/tn/a5/tn5024.jpg",
+    "article": "ТН5024",
+    "type": "tnA5",
+    "date": "2026-06-23"
+  },
+  {
     "id": "tn4001",
     "img": "/images/catalog/tn/a4/tn4001.JPG",
     "article": "ТН4001",
@@ -5172,6 +5179,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 15,
     "date": "2026-06-10"
+  },
+  {
+    "id": "tn3213",
+    "img": "/images/catalog/tn/a3/tn3213.jpg",
+    "article": "ТН3213",
+    "type": "tnA3",
+    "quantityBeads": 27,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 4,
+    "quantitySHS": 29,
+    "date": "2026-06-23"
   },
   {
     "id": "tn2001",
@@ -10157,6 +10175,18 @@
     "quantitySHS": 17,
     "title": "В Парижі",
     "date": "2026-06-16"
+  },
+  {
+    "id": "a3048",
+    "img": "/images/catalog/sa3/a3048.jpg",
+    "article": "А3048",
+    "type": "sa3",
+    "quantityBeads": 21,
+    "quantityHalfBeads": 19,
+    "quantityLuxe": 7,
+    "quantitySHS": 0,
+    "title": "Марічка",
+    "date": "2026-06-23"
   },
   {
     "id": "a4001",

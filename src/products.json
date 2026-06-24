@@ -5785,6 +5785,28 @@
     "date": "2026-06-04"
   },
   {
+    "id": "tnp042",
+    "img": "/images/catalog/tn/tapestry/tnp042.jpg",
+    "article": "ТНП042",
+    "type": "tnP2060",
+    "quantityBeads": 12,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 7,
+    "date": "2026-06-23"
+  },
+  {
+    "id": "tnp043",
+    "img": "/images/catalog/tn/tapestry/tnp043.jpg",
+    "article": "ТНП043",
+    "type": "tnP2060",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 2,
+     "quantitySHS": 9,
+    "date": "2026-06-24"
+  },
+  {
     "id": "t001",
     "img": "/images/catalog/tn/print/t001.jpg",
     "article": "Т001",
@@ -10187,6 +10209,18 @@
     "quantitySHS": 0,
     "title": "Марічка",
     "date": "2026-06-23"
+  },
+  {
+    "id": "a3049",
+    "img": "/images/catalog/sa3/a3049.jpg",
+    "article": "А3049",
+    "type": "sa3",
+    "quantityBeads": 19,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 5,
+    "quantitySHS": 0,
+    "title": "Ксеня",
+    "date": "2026-06-24"
   },
   {
     "id": "a4001",

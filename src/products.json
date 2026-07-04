@@ -9232,6 +9232,39 @@
     "date": "2026-06-16"
   },
   {
+    "id": "rvs042",
+    "img": "/images/catalog/rvs/rvs042.jpg",
+    "article": "РВС042",
+    "type": "rvs",
+    "quantityBeads": 24,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 16,
+    "date": "2026-07-04"
+  },
+  {
+    "id": "rvs043",
+    "img": "/images/catalog/rvs/rvs043.jpg",
+    "article": "РВС043",
+    "type": "rvs",
+    "quantityBeads": 38,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+     "quantitySHS": 28,
+    "date": "2026-07-04"
+  },
+  {
+    "id": "rvs044",
+    "img": "/images/catalog/rvs/rvs044.jpg",
+    "article": "РВС044",
+    "type": "rvs",
+    "quantityBeads": 38,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+     "quantitySHS": 28,
+    "date": "2026-07-04"
+  },
+  {
     "id": "rvv001",
     "img": "/images/catalog/rvv/rvv001.jpg",
     "article": "РВВ001",

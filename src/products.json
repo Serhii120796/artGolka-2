@@ -6679,6 +6679,20 @@
     "date": "2024-01-01"
   },
   {
+    "id": "t131",
+    "img": "/images/catalog/tn/print/t131.jpg",
+    "article": "Т131",
+    "type": "tnPrint",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "t1232",
+    "img": "/images/catalog/tn/print/t1232.jpg",
+    "article": "Т1232",
+    "type": "tnPrint",
+    "date": "2024-01-01"
+  },
+  {
     "id": "rps001",
     "img": "/images/catalog/rps/rps001.jpg",
     "article": "РПС001",

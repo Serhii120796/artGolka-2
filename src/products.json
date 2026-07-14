@@ -254,6 +254,13 @@
     "date": "2026-06-23"
   },
   {
+    "id": "tn5025",
+    "img": "/images/catalog/tn/a5/tn5025.jpg",
+    "article": "ТН5025",
+    "type": "tnA5",
+    "date": "2026-07-14"
+  },
+  {
     "id": "tn4001",
     "img": "/images/catalog/tn/a4/tn4001.JPG",
     "article": "ТН4001",
@@ -2578,6 +2585,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 4,
     "date": "2025-09-11"
+  },
+  {
+    "id": "tn4209",
+    "img": "/images/catalog/tn/a4/tn4209.jpg",
+    "article": "ТН4209",
+    "type": "tnA4",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 16,
+    "date": "2026-07-14"
   },
   {
     "id": "tn4210",
@@ -5280,6 +5298,17 @@
     "date": "2026-07-12"
   },
   {
+    "id": "tn3216",
+    "img": "/images/catalog/tn/a3/tn3216.jpg",
+    "article": "ТН3216",
+    "type": "tnA3",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 5,
+    "date": "2026-07-14"
+  },
+  {
     "id": "tn2001",
     "img": "/images/catalog/tn/a2/tn2001.jpg",
     "article": "ТН2001",
@@ -6785,9 +6814,16 @@
     "date": "2024-01-01"
   },
   {
-    "id": "t1232",
-    "img": "/images/catalog/tn/print/t1232.jpg",
-    "article": "Т1232",
+    "id": "t132",
+    "img": "/images/catalog/tn/print/t132.jpg",
+    "article": "Т132",
+    "type": "tnPrint",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "t133",
+    "img": "/images/catalog/tn/print/t133.jpg",
+    "article": "Т133",
     "type": "tnPrint",
     "date": "2024-01-01"
   },
@@ -10400,6 +10436,18 @@
     "quantitySHS": 0,
     "title": "Ксеня",
     "date": "2026-06-24"
+  },
+  {
+    "id": "a3050",
+    "img": "/images/catalog/sa3/a3050.jpg",
+    "article": "А3050",
+    "type": "sa3",
+    "quantityBeads": 18,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 4,
+    "quantitySHS": 0,
+    "title": "Балет",
+    "date": "2026-07-14"
   },
   {
     "id": "a4001",

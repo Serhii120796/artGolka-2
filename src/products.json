@@ -10450,6 +10450,42 @@
     "date": "2026-07-14"
   },
   {
+    "id": "a3051",
+    "img": "/images/catalog/sa3/a3051.jpg",
+    "article": "А3051",
+    "type": "sa3",
+    "quantityBeads": 26,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Білі півонії",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "a3052",
+    "img": "/images/catalog/sa3/a3052.jpg",
+    "article": "А3052",
+    "type": "sa3",
+    "quantityBeads": 35,
+    "quantityHalfBeads": 7,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Вечірній аромат",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "a3053",
+    "img": "/images/catalog/sa3/a3053.jpg",
+    "article": "А3053",
+    "type": "sa3",
+    "quantityBeads": 22,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Амарантові півонії",
+    "date": "2026-07-21"
+  },
+  {
     "id": "a4001",
     "img": "/images/catalog/sa4/a4001.jpg",
     "article": "А4001",

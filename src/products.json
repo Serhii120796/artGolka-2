@@ -8280,6 +8280,17 @@
     "date": "2024-11-06"
   },
   {
+    "id": "rss010",
+    "img": "/images/catalog/rss/rss010.jpg",
+    "article": "РСС010",
+    "type": "rss",
+    "quantityBeads": 29,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+     "quantitySHS": 29,
+    "date": "2026-08-02"
+  },
+  {
     "id": "rsm001",
     "img": "/images/catalog/rsm/rsm001.jpg",
     "article": "РСМ001",
@@ -8653,6 +8664,13 @@
     "quantityLuxe": 0,
      "quantitySHS": 0,
     "date": "2025-07-28"
+  },
+  {
+    "id": "bow-bs010",
+    "img": "/images/catalog/bow/bow-bs010.jpg",
+    "article": "Бант БС010",
+    "type": "bow",
+    "date": "2026-08-02"
   },
   {
     "id": "rvm001",
@@ -11431,6 +11449,18 @@
     "quantitySHS": 0,
     "title": "Тіні Венеції",
     "date": "2026-05-07"
+  },
+  {
+    "id": "cx3030-015",
+    "img": "/images/catalog/cx3030/cx3030-015.jpg",
+    "article": "СХ3030-015",
+    "type": "cx3030",
+    "quantityBeads": 22,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 1,
+    "quantitySHS": 0,
+    "title": "Багряний мак",
+    "date": "2026-08-02"
   },
   {
     "id": "ia5001",

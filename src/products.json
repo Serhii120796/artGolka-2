@@ -7979,8 +7979,41 @@
     "quantityBeads": 9,
     "quantityHalfBeads": 1,
     "quantityLuxe": 0,
-    "quantitySHS": 22,
+    "quantitySHS": 6,
     "date": "2026-08-04"
+  },
+  {
+    "id": "rps105",
+    "img": "/images/catalog/rps/rps105.jpg",
+    "article": "РПС105",
+    "type": "rps",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 6,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "rps106",
+    "img": "/images/catalog/rps/rps106.jpg",
+    "article": "РПС106",
+    "type": "rps",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 1,
+    "quantitySHS": 12,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "rps107",
+    "img": "/images/catalog/rps/rps107.jpg",
+    "article": "РПС107",
+    "type": "rps",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 1,
+    "quantitySHS": 12,
+    "date": "2026-08-05"
   },
   {
     "id": "rpd001",
@@ -8675,6 +8708,13 @@
     "quantityLuxe": 0,
      "quantitySHS": 0,
     "date": "2026-04-04"
+  },
+  {
+    "id": "bow107",
+    "img": "/images/catalog/bow/bow107.jpg",
+    "article": "Бант 107",
+    "type": "bow",
+    "date": "2026-08-05"
   },
   {
     "id": "bow-bs002",
@@ -10557,6 +10597,18 @@
     "quantitySHS": 0,
     "title": "Амарантові півонії",
     "date": "2026-07-21"
+  },
+  {
+    "id": "a3054",
+    "img": "/images/catalog/sa3/a3054.jpg",
+    "article": "А3054",
+    "type": "sa3",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Повернення додому",
+    "date": "2026-08-05"
   },
   {
     "id": "a4001",

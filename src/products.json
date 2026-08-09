@@ -2873,6 +2873,17 @@
     "date": "2026-06-16"
   },
   {
+    "id": "tn4237",
+    "img": "/images/catalog/tn/a4/tn4237.jpg",
+    "article": "ТН4237",
+    "type": "tnA4",
+    "quantityBeads": 12,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 14,
+    "date": "2026-08-09"
+  },
+  {
     "id": "tn3001m",
     "img": "/images/catalog/tn/a3/tn3001m.jpg",
     "article": "ТН3001",
@@ -5307,6 +5318,17 @@
     "quantityLuxe": 0,
     "quantitySHS": 5,
     "date": "2026-07-14"
+  },
+  {
+    "id": "tn3217",
+    "img": "/images/catalog/tn/a3/tn3217.jpg",
+    "article": "ТН3217",
+    "type": "tnA3",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 10,
+    "date": "2026-08-08"
   },
   {
     "id": "tn3218",
@@ -8708,6 +8730,13 @@
     "quantityLuxe": 0,
      "quantitySHS": 0,
     "date": "2026-04-04"
+  },
+  {
+    "id": "bow106",
+    "img": "/images/catalog/bow/bow106.jpg",
+    "article": "Бант 106",
+    "type": "bow",
+    "date": "2026-08-09"
   },
   {
     "id": "bow107",

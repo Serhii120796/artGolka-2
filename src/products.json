@@ -10717,6 +10717,42 @@
     "date": "2026-08-05"
   },
   {
+    "id": "a3055",
+    "img": "/images/catalog/sa3/a3055.jpg",
+    "article": "А3055",
+    "type": "sa3",
+    "quantityBeads": 14,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Ангел надії",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "a3056",
+    "img": "/images/catalog/sa3/a3056.jpg",
+    "article": "А3056",
+    "type": "sa3",
+    "quantityBeads": 30,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Ангеліна",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "a3057",
+    "img": "/images/catalog/sa3/a3057.jpg",
+    "article": "А3057",
+    "type": "sa3",
+    "quantityBeads": 32,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Ангеліка",
+    "date": "2026-08-25"
+  },
+  {
     "id": "a4001",
     "img": "/images/catalog/sa4/a4001.jpg",
     "article": "А4001",

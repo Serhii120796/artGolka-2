@@ -12063,7 +12063,7 @@
     "img": "/images/catalog/mer/m036.jpg",
     "article": "036",
     "type": "mer",
-    "priceItem": 40,
+    "priceItem": 50,
     "desc": "Колір: білий",
     "date": "2025-01-01"
   },
@@ -12081,17 +12081,8 @@
     "img": "/images/catalog/mer/m078.jpg",
     "article": "078",
     "type": "mer",
-    "priceItem": 16,
+    "priceItem": 20,
     "desc": "Колір: білий",
-    "date": "2025-01-01"
-  },
-  {
-    "id": "m084",
-    "img": "/images/catalog/mer/m084.jpg",
-    "article": "084",
-    "type": "mer",
-    "priceItem": 45,
-    "desc": "Колір: блакитний",
     "date": "2025-01-01"
   },
   {
@@ -12405,7 +12396,7 @@
     "img": "/images/catalog/mer/m272.jpg",
     "article": "272",
     "type": "mer",
-    "priceItem": 70,
+    "priceItem": 90,
     "desc": "Колір: білий",
     "date": "2025-01-01"
   },

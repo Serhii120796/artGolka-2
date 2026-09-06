@@ -261,6 +261,20 @@
     "date": "2026-07-14"
   },
   {
+    "id": "tn5026",
+    "img": "/images/catalog/tn/a5/tn5026.jpg",
+    "article": "ТН5026",
+    "type": "tnA5",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "tn5027",
+    "img": "/images/catalog/tn/a5/tn5027.jpg",
+    "article": "ТН5027",
+    "type": "tnA5",
+    "date": "2026-09-06"
+  },
+  {
     "id": "tn4001",
     "img": "/images/catalog/tn/a4/tn4001.JPG",
     "article": "ТН4001",
@@ -5461,6 +5475,17 @@
     "quantityLuxe": 8,
     "quantitySHS": 7,
     "date": "2026-09-02"
+  },
+  {
+    "id": "tn3226",
+    "img": "/images/catalog/tn/a3/tn3226.jpg",
+    "article": "ТН3226",
+    "type": "tnA3",
+    "quantityBeads": 16,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 12,
+    "date": "2026-09-06"
   },
   {
     "id": "tn2001",
@@ -10807,7 +10832,7 @@
     "date": "2026-08-25"
   },
   {
-    "id": "a3057",
+    "id": "a3058",
     "img": "/images/catalog/sa3/a3057.jpg",
     "article": "А3057",
     "type": "sa3",
@@ -10817,6 +10842,18 @@
     "quantitySHS": 0,
     "title": "Ангеліка",
     "date": "2026-08-25"
+  },
+  {
+    "id": "a3058",
+    "img": "/images/catalog/sa3/a3058.jpg",
+    "article": "А3058",
+    "type": "sa3",
+    "quantityBeads": 23,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Берегиня роду",
+    "date": "2026-09-06"
   },
   {
     "id": "a4001",

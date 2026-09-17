@@ -5510,6 +5510,17 @@
     "date": "2026-08-30"
   },
   {
+    "id": "tn3224",
+    "img": "/images/catalog/tn/a3/tn3224.jpg",
+    "article": "ТН3224",
+    "type": "tnA3",
+    "quantityBeads": 24,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 19,
+    "date": "2026-08-30"
+  },
+  {
     "id": "tn3225",
     "img": "/images/catalog/tn/a3/tn3225.jpg",
     "article": "ТН3225",
@@ -11479,6 +11490,18 @@
     "quantitySHS": 0,
     "title": "Талісман року",
     "date": "2026-09-11"
+  },
+  {
+    "id": "a4048",
+    "img": "/images/catalog/sa4/a4048.jpg",
+    "article": "А4048",
+    "type": "sa4",
+    "quantityBeads": 13,
+    "quantityHalfBeads": 3,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Мурчик",
+    "date": "2026-09-17"
   },
   {
     "id": "a4r001",

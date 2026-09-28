@@ -10295,6 +10295,30 @@
     "date": "2026-04-17"
   },
   {
+    "id": "a3r028",
+    "img": "/images/catalog/sa3r/a3r028.jpg",
+    "article": "А3Р028",
+    "type": "sa3r",
+    "quantityBeads": 15,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 2,
+    "quantitySHS": 0,
+    "title": "Мадонна з немовлям",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "a3r028",
+    "img": "/images/catalog/sa3r/a3r028.jpg",
+    "article": "А3Р028",
+    "type": "sa3r",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 5,
+    "quantitySHS": 0,
+    "title": "Мамина ніжність",
+    "date": "2026-09-28"
+  },
+  {
     "id": "a3001",
     "img": "/images/catalog/sa3/a3001.jpg",
     "article": "А3001",

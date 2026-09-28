@@ -7102,6 +7102,27 @@
     "date": "2024-01-01"
   },
   {
+    "id": "t134",
+    "img": "/images/catalog/tn/print/t134.jpg",
+    "article": "Т134",
+    "type": "tnPrint",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "t135",
+    "img": "/images/catalog/tn/print/t135.jpg",
+    "article": "Т135",
+    "type": "tnPrint",
+    "date": "2024-01-01"
+  },
+  {
+    "id": "t136",
+    "img": "/images/catalog/tn/print/t136.jpg",
+    "article": "Т136",
+    "type": "tnPrint",
+    "date": "2024-01-01"
+  },
+  {
     "id": "rps001",
     "img": "/images/catalog/rps/rps001.jpg",
     "article": "РПС001",

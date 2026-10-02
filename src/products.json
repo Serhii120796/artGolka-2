@@ -8326,9 +8326,9 @@
     "img": "/images/catalog/rps/rps110.jpg",
     "article": "РПС110",
     "type": "rps",
-    "quantityBeads": 15,
+    "quantityBeads": 14,
     "quantityHalfBeads": 1,
-    "quantityLuxe": 0,
+    "quantityLuxe": 1,
     "quantitySHS": 14,
     "date": "2026-10-02"
   },

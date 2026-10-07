@@ -11038,6 +11038,18 @@
     "date": "2026-09-21"
   },
   {
+    "id": "a3061",
+    "img": "/images/catalog/sa3/a3061.jpg",
+    "article": "А3061",
+    "type": "sa3",
+    "quantityBeads": 24,
+    "quantityHalfBeads": 1,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Пантоміма",
+    "date": "2026-10-07"
+  },
+  {
     "id": "a4001",
     "img": "/images/catalog/sa4/a4001.jpg",
     "article": "А4001",
@@ -11600,6 +11612,18 @@
     "quantitySHS": 0,
     "title": "Мурчик",
     "date": "2026-09-17"
+  },
+  {
+    "id": "a4049",
+    "img": "/images/catalog/sa4/a4049.jpg",
+    "article": "А4049",
+    "type": "sa4",
+    "quantityBeads": 6,
+    "quantityHalfBeads": 2,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Цукерочка",
+    "date": "2026-10-06"
   },
   {
     "id": "a4051",

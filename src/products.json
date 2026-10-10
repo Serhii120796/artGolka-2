@@ -11649,6 +11649,30 @@
     "date": "2026-10-05"
   },
   {
+    "id": "a4052",
+    "img": "/images/catalog/sa4/a4052.jpg",
+    "article": "А4052",
+    "type": "sa4",
+    "quantityBeads": 25,
+    "quantityHalfBeads": 4,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Жук Бруно",
+    "date": "2026-10-10"
+  },
+  {
+    "id": "a4053",
+    "img": "/images/catalog/sa4/a4053.jpg",
+    "article": "А4053",
+    "type": "sa4",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 5,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Смарагдовий жук",
+    "date": "2026-10-10"
+  },
+  {
     "id": "a4r001",
     "img": "/images/catalog/sa4r/a4r001.jpg",
     "article": "А4Р001",

@@ -10029,6 +10029,18 @@
     "date": "2025-08-28"
   },
   {
+    "id": "a3r001",
+    "img": "/images/catalog/sa3r/a3r001.jpg",
+    "article": "А3Р001",
+    "type": "sa3r",
+    "quantityBeads": 11,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 2,
+    "quantitySHS": 0,
+    "title": "Тиха молитва",
+    "date": "2024-10-13"
+  },
+  {
     "id": "a3r002",
     "img": "/images/catalog/sa3r/a3r002.jpg",
     "article": "А3Р002",
@@ -10315,6 +10327,18 @@
     "quantitySHS": 13,
     "title": "Янгол з дітьми",
     "date": "2026-04-17"
+  },
+  {
+    "id": "a3r027",
+    "img": "/images/catalog/sa3r/a3r027.jpg",
+    "article": "А3Р027",
+    "type": "sa3r",
+    "quantityBeads": 9,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 0,
+    "quantitySHS": 0,
+    "title": "Таємна Вечеря",
+    "date": "2026-10-13"
   },
   {
     "id": "a3r028",

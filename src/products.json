@@ -275,6 +275,13 @@
     "date": "2026-09-06"
   },
   {
+    "id": "tn5029",
+    "img": "/images/catalog/tn/a5/tn5029.jpg",
+    "article": "ТН5029",
+    "type": "tnA5",
+    "date": "2026-09-24"
+  },
+  {
     "id": "tn5031",
     "img": "/images/catalog/tn/a5/tn5031.jpg",
     "article": "ТН5031",
@@ -287,13 +294,6 @@
     "article": "ТН5032",
     "type": "tnA5",
     "date": "2026-10-15"
-  },
-  {
-    "id": "tn5029",
-    "img": "/images/catalog/tn/a5/tn5029.jpg",
-    "article": "ТН5029",
-    "type": "tnA5",
-    "date": "2026-09-24"
   },
   {
     "id": "tn4001",

@@ -11985,6 +11985,30 @@
     "date": "2026-01-14"
   },
   {
+    "id": "a4r025",
+    "img": "/images/catalog/sa4r/a4r025.jpg",
+    "article": "А4Р025",
+    "type": "sa4r",
+    "quantityBeads": 8,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 3,
+    "quantitySHS": 0,
+    "title": "МБ Казанська",
+    "date": "2026-10-19"
+  },
+  {
+    "id": "a4r026",
+    "img": "/images/catalog/sa4r/a4r026.jpg",
+    "article": "А4Р026",
+    "type": "sa4r",
+    "quantityBeads": 5,
+    "quantityHalfBeads": 0,
+    "quantityLuxe": 3,
+    "quantitySHS": 0,
+    "title": "Господь Вседержитель",
+    "date": "2026-10-19"
+  },
+  {
     "id": "cx3030-001",
     "img": "/images/catalog/cx3030/cx3030-001.jpg",
     "article": "СХ3030-001",
